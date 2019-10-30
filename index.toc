@@ -1,0 +1,12 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Índice de Tablas}{\es@scroman {vii}}% 
+\contentsline {chapter}{Índice de Figuras}{\es@scroman {viii}}% 
+\contentsline {chapter}{\numberline {1}Introducción}{1}% 
+\contentsline {section}{\numberline {1.1}Antecedentes y definición del problema}{1}% 
+\contentsline {section}{\numberline {1.2}Motivación para atenderlos}{2}% 
+\contentsline {section}{\numberline {1.3}Objetivos generales}{2}% 
+\contentsline {section}{\numberline {1.4}Objetivos específicos}{2}% 
+\contentsline {section}{\numberline {1.5}E-commerce (Comercio electrónico)}{2}% 
+\contentsline {subsubsection}{Shopify}{3}% 
+\contentsline {section}{\numberline {1.6}Base de datos NoSQL}{3}% 
+\contentsline {subsubsection}{Cloud Firestore}{3}% 

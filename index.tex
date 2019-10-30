@@ -1,0 +1,106 @@
+\documentclass[12pt]{report}
+
+\usepackage{graphicx}
+\usepackage[spanish,mexico]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{fancyhdr}
+
+\graphicspath{ {./images/} }
+
+\setlength{\oddsidemargin}{0in}
+\setlength{\textwidth}{6in}
+\setlength{\topmargin}{0in}
+\setlength{\voffset}{-0.5in}
+\setlength{\hoffset}{0.5in}
+\setlength{\textheight}{9in}
+\setlength{\textwidth}{6in}
+\setlength{\topskip}{0in}
+\setlength{\parskip}{2ex}
+
+\title{
+   {“Diseño y desarrollo de sistema multi-plataforma para gestión de ventas y logística de microempresa.”}\\
+   {\large INSTITUTO TECNOLÓGICO DE TIJUANA}\\
+   {\includegraphics{escudo1.png}}
+}
+\author{José Luis Murillo Ríos}
+\date{21 DE JUNIO DEL 2019}
+
+
+\begin{document}
+\setcounter{page}{1}
+\pagenumbering{roman}
+\thispagestyle{empty}
+\begin{center}
+   INSTITUTO TECNOLÓGICO DE TIJUANA\\[0.75cm]
+   Ingeniería en Sistemas Computacionales\\[0.8in]
+\end{center}
+\begin{figure}[h]
+\begin{center}
+
+\includegraphics[height=5.5 cm]{escudo1.png}
+\vspace{0cm}
+\end{center}
+\end{figure}
+\vspace{1cm}
+\begin{center}
+DISEÑO Y DESARROLLO DE SISTEMA MULTI-PLATAFORMA PARA GESTIÓN DE VENTAS Y LOGÍSTICA DE MICROEMPRESA.\\[4mm]
+POR\\[4mm]
+JOSÉ LUIS MURILLO RÍOS\\[1cm]
+\small PARA OBTENER EL TÍTULO DE INGENIERO EN SISTEMAS COMPUTACIONALES
+\vfill
+TIJUANA, B.C. \hfill AGOSTO 2019
+\end{center}
+
+\newpage
+\thispagestyle{empty}
+\begin{center}
+DISEÑO Y DESARROLLO DE SISTEMA MULTI-PLATAFORMA PARA GESTIÓN DE VENTAS Y LOGÍSTICA DE MICROEMPRESA.\\[1.3cm]
+POR\\[0.3cm]
+JOSÉ LUIS MURILLO RÍOS\\[0.3cm]
+\small AGOSTO 2019\\[0.7cm]
+\end{center}
+
+% \chapter*{RESUMEN}
+\newpage
+\input{chapters/abstract}
+ 
+% \chapter*{DEDICATORIA}
+\newpage
+\input{chapters/dedication}
+ 
+% \chapter*{AGRADECIMIENTOS}
+\newpage
+\input{chapters/aknowledgements}
+
+\newpage
+\tableofcontents
+
+\newpage
+\listoftables
+\addcontentsline{toc}{chapter}{Índice de Tablas} %%% Para introducir una línea en el índice
+\listoffigures
+\addcontentsline{toc}{chapter}{Índice de Figuras}
+
+\chapter{Introducción}
+\input{chapters/introduction}
+
+\section{Antecedentes y definición del problema}
+\input{chapters/chapter01/background}
+
+\section{Motivación para atenderlos}
+\input{chapters/chapter01/proposal}
+
+\section{Objetivos generales}
+\input{chapters/chapter01/general}
+
+\section{Objetivos específicos}
+\input{chapters/chapter01/specific}
+
+\section{E-commerce (Comercio electrónico)}
+\input{chapters/chapter01/ecommerce}
+
+\section{Base de datos NoSQL}
+\input{chapters/chapter01/nosql}
+
+\end{document}
