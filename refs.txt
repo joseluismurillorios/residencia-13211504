@@ -4,3 +4,7 @@ https://medium.com/@Intersog/mean-vs-lamp-choosing-the-right-stack-for-your-star
 https://medium.com/@PurpleGreenLemon/we-need-to-talk-about-firebase-1ffea1180d75
 https://medium.com/prod-io/understanding-the-basics-of-node-js-99e01c5d844f
 https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+https://medium.com/@hamzzza.ahmed95/a-beginners-guide-to-reactjs-2b59db83fa18
+https://medium.com/zenofai/beginners-guide-to-reactjs-3ca07f56d526
+https://medium.com/javascript-in-plain-english/react-redux-for-beginners-d51b46cb6d58
+https://www.apress.com/gp/blog/all-blog-posts/why-mern/12056000

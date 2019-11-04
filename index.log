@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  4 NOV 2019 02:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  4 NOV 2019 03:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -292,7 +292,7 @@ File: ./images/components.png Graphic file (type png)
 <use ./images/components.png>
 Package pdftex.def Info: ./images/components.png  used on input line 79.
 (pdftex.def)             Requested size: 317.9892pt x 265.34149pt.
- [11]) [12 <./images/components.png>] [13] (/Users/josemurillo/Git/thesis/chapters/chapter01/ecommerce.tex) [14] (/Users/josemurillo/Git/thesis/index.aux
+ [11] [12 <./images/components.png>]) [13] (/Users/josemurillo/Git/thesis/chapters/chapter01/ecommerce.tex) [14] (/Users/josemurillo/Git/thesis/index.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
 )
@@ -309,7 +309,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  46i,6n,45p,1466b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on /Users/josemurillo/Git/thesis/index.pdf (26 pages, 954652 bytes).
+Output written on /Users/josemurillo/Git/thesis/index.pdf (26 pages, 955215 bytes).
 PDF statistics:
  132 PDF objects out of 1000 (max. 8388607)
  84 compressed objects within 1 object stream
