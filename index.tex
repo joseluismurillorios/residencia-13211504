@@ -5,17 +5,19 @@
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{fancyhdr}
+\usepackage{float}
 
 \graphicspath{ {./images/} }
 
 \setlength{\oddsidemargin}{0in}
 \setlength{\textwidth}{6in}
 \setlength{\topmargin}{0in}
-\setlength{\voffset}{-0.5in}
+\setlength{\voffset}{0.5in}
 \setlength{\hoffset}{0.5in}
-\setlength{\textheight}{9in}
-\setlength{\textwidth}{6in}
+% \setlength{\textheight}{8in}
+\setlength{\textwidth}{5.5in}
 \setlength{\topskip}{0in}
+\setlength{\footskip}{1in}
 \setlength{\parskip}{2ex}
 
 \title{
@@ -56,8 +58,8 @@ TIJUANA, B.C. \hfill AGOSTO 2019
 \thispagestyle{empty}
 \begin{center}
 DISEÑO Y DESARROLLO DE SISTEMA MULTI-PLATAFORMA PARA GESTIÓN DE VENTAS Y LOGÍSTICA DE MICROEMPRESA.\\[1.3cm]
-POR\\[0.3cm]
-JOSÉ LUIS MURILLO RÍOS\\[0.3cm]
+POR\\[0.8cm]
+JOSÉ LUIS MURILLO RÍOS\\[0.8cm]
 \small AGOSTO 2019\\[0.7cm]
 \end{center}
 
@@ -83,12 +85,15 @@ JOSÉ LUIS MURILLO RÍOS\\[0.3cm]
 \addcontentsline{toc}{chapter}{Índice de Figuras}
 
 \chapter{Introducción}
-\input{chapters/introduction}
+\input{chapters/chapter01/intro}
 
 \section{Antecedentes y definición del problema}
 \input{chapters/chapter01/background}
 
-\section{Motivación para atenderlos}
+\section{Motivación para atender el problema}
+\input{chapters/chapter01/motivation}
+
+\section{Propuesta de solución}
 \input{chapters/chapter01/proposal}
 
 \section{Objetivos generales}
@@ -97,10 +102,22 @@ JOSÉ LUIS MURILLO RÍOS\\[0.3cm]
 \section{Objetivos específicos}
 \input{chapters/chapter01/specific}
 
+
+\chapter{Marco teórico}
+\input{chapters/chapter02/intro}
+
+% \section{LAMP}
+% \input{chapters/chapter02/lamp}
+
+\section{MEAN/MERN}
+\input{chapters/chapter02/mern}
+
+\newpage
+\section{FERN}
+\input{chapters/chapter02/fern}
+
+\newpage
 \section{E-commerce (Comercio electrónico)}
 \input{chapters/chapter01/ecommerce}
-
-\section{Base de datos NoSQL}
-\input{chapters/chapter01/nosql}
 
 \end{document}

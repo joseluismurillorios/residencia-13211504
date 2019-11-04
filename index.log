@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  30 OCT 2019 00:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  4 NOV 2019 02:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -126,37 +126,44 @@ Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@O@erf=\skip52
 \f@nch@O@olf=\skip53
 \f@nch@O@orf=\skip54
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count104
+\float@exts=\toks23
+\float@box=\box29
+\@float@everytoks=\toks24
+\@floatcapt=\box30
 ) (/Users/josemurillo/Git/thesis/index.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
 )
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
  (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count104
+\scratchcounter=\count105
 \scratchdimen=\dimen115
-\scratchbox=\box29
-\nofMPsegments=\count105
-\nofMParguments=\count106
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count107
+\scratchbox=\box31
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count108
 \MPscratchDim=\dimen116
-\MPnumerator=\count108
-\makeMPintoPDFobject=\count109
-\everyMPtoPDFconversion=\toks24
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks26
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
@@ -193,12 +200,12 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
 <./images/escudo1.png, id=1, 484.209pt x 461.0826pt>
 File: ./images/escudo1.png Graphic file (type png)
 <use ./images/escudo1.png>
-Package pdftex.def Info: ./images/escudo1.png  used on input line 41.
+Package pdftex.def Info: ./images/escudo1.png  used on input line 43.
 (pdftex.def)             Requested size: 164.33334pt x 156.49014pt.
  [1
 
@@ -218,20 +225,20 @@ Package spanish Warning: Replacing `OT1/cmr/bx/sc' by
 Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
 (spanish)                faked small caps on input line 3.
 
-)
+[6
+
+])
 \tf@toc=\write3
 \openout3 = `index.toc'.
 
- [6
-
-] (/Users/josemurillo/Git/thesis/index.lot
+ [7] (/Users/josemurillo/Git/thesis/index.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@lot=\write4
 \openout4 = `index.lot'.
 
- [7
+ [8
 
 ] (/Users/josemurillo/Git/thesis/index.lof
 LaTeX Info: Redefining \. on input line 1.
@@ -240,13 +247,52 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@lof=\write5
 \openout5 = `index.lof'.
 
- [8
+ [9
 
 ]
 Cap\'{\i }tulo 1.
-(/Users/josemurillo/Git/thesis/chapters/introduction.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/background.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/proposal.tex) [1
+(/Users/josemurillo/Git/thesis/chapters/chapter01/intro.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/background.tex) [1
 
-] (/Users/josemurillo/Git/thesis/chapters/chapter01/general.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/specific.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/ecommerce.tex [2]) (/Users/josemurillo/Git/thesis/chapters/chapter01/nosql.tex) [3] (/Users/josemurillo/Git/thesis/index.aux
+] (/Users/josemurillo/Git/thesis/chapters/chapter01/motivation.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/proposal.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/general.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/specific.tex [2]) [3]
+Cap\'{\i }tulo 2.
+(/Users/josemurillo/Git/thesis/chapters/chapter02/intro.tex) (/Users/josemurillo/Git/thesis/chapters/chapter02/mern.tex [1
+
+] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+[3]
+<./images/mean.png, id=60, 991.705pt x 238.8925pt>
+File: ./images/mean.png Graphic file (type png)
+<use ./images/mean.png>
+Package pdftex.def Info: ./images/mean.png  used on input line 27.
+(pdftex.def)             Requested size: 397.48499pt x 95.74849pt.
+) [4 <./images/mean.png>] [5] (/Users/josemurillo/Git/thesis/chapters/chapter02/fern.tex
+<./images/fern.png, id=68, 800.9925pt x 471.7625pt>
+File: ./images/fern.png Graphic file (type png)
+<use ./images/fern.png>
+Package pdftex.def Info: ./images/fern.png  used on input line 20.
+(pdftex.def)             Requested size: 317.9892pt x 187.29074pt.
+ [6]
+<./images/firestore.jpg, id=72, 2047.65pt x 1194.4625pt>
+File: ./images/firestore.jpg Graphic file (type jpg)
+<use ./images/firestore.jpg>
+Package pdftex.def Info: ./images/firestore.jpg  used on input line 28.
+(pdftex.def)             Requested size: 357.73405pt x 208.66954pt.
+ [7 <./images/fern.png>]
+<./images/node.png, id=78, 726.715pt x 377.41pt>
+File: ./images/node.png Graphic file (type png)
+<use ./images/node.png>
+Package pdftex.def Info: ./images/node.png  used on input line 36.
+(pdftex.def)             Requested size: 317.9892pt x 165.14525pt.
+ [8 <./images/firestore.jpg>] [9 <./images/node.png>] [10]
+<./images/components.png, id=90, 909.3975pt x 758.835pt>
+File: ./images/components.png Graphic file (type png)
+<use ./images/components.png>
+Package pdftex.def Info: ./images/components.png  used on input line 79.
+(pdftex.def)             Requested size: 317.9892pt x 265.34149pt.
+ [11]) [12 <./images/components.png>] [13] (/Users/josemurillo/Git/thesis/chapters/chapter01/ecommerce.tex) [14] (/Users/josemurillo/Git/thesis/index.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
 )
@@ -255,18 +301,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3222 strings out of 492167
- 44539 string characters out of 6125388
- 123916 words of memory out of 5000000
- 7507 multiletter control sequences out of 15000+600000
- 9479 words of font info for 34 fonts, out of 8000000 for 9000
+ 3341 strings out of 492167
+ 46644 string characters out of 6125388
+ 126313 words of memory out of 5000000
+ 7608 multiletter control sequences out of 15000+600000
+ 10959 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,5n,45p,302b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on /Users/josemurillo/Git/thesis/index.pdf (11 pages, 615336 bytes).
+ 46i,6n,45p,1466b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on /Users/josemurillo/Git/thesis/index.pdf (26 pages, 954652 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 132 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

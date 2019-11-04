@@ -1,0 +1,6 @@
+https://blog.cloudboost.io/mean-and-mern-stacks-eb4cee991390
+https://bitbucket.org/blog/lamp-vs-mean-which-stack-is-right-for-you
+https://medium.com/@Intersog/mean-vs-lamp-choosing-the-right-stack-for-your-startup-project-96fa9e9df27f
+https://medium.com/@PurpleGreenLemon/we-need-to-talk-about-firebase-1ffea1180d75
+https://medium.com/prod-io/understanding-the-basics-of-node-js-99e01c5d844f
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
