@@ -8,3 +8,7 @@ https://medium.com/@hamzzza.ahmed95/a-beginners-guide-to-reactjs-2b59db83fa18
 https://medium.com/zenofai/beginners-guide-to-reactjs-3ca07f56d526
 https://medium.com/javascript-in-plain-english/react-redux-for-beginners-d51b46cb6d58
 https://www.apress.com/gp/blog/all-blog-posts/why-mern/12056000
+https://www.fullstackreact.com/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf
+https://facebook.github.io/jsx/
+https://www.tutorialspoint.com/sass/sass_tutorial.pdf
+https://www.tutorialspoint.com/babeljs/babeljs_tutorial.pdf

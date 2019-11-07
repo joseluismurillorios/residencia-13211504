@@ -136,6 +136,9 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /Users/josemurillo/Git/thesis/./images/mean.png
 INPUT ./images/mean.png
 INPUT ./images/mean.png
+INPUT /Users/josemurillo/Git/thesis/./images/sql-nosql.png
+INPUT ./images/sql-nosql.png
+INPUT ./images/sql-nosql.png
 INPUT /Users/josemurillo/Git/thesis/chapters/chapter02/fern.tex
 INPUT /Users/josemurillo/Git/thesis/chapters/chapter02/fern.tex
 INPUT /Users/josemurillo/Git/thesis/./images/fern.png
@@ -151,6 +154,8 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
 INPUT /Users/josemurillo/Git/thesis/./images/components.png
 INPUT ./images/components.png
 INPUT ./images/components.png
+INPUT /Users/josemurillo/Git/thesis/chapters/chapter02/jsx.tex
+INPUT /Users/josemurillo/Git/thesis/chapters/chapter02/jsx.tex
 INPUT /Users/josemurillo/Git/thesis/chapters/chapter01/ecommerce.tex
 INPUT /Users/josemurillo/Git/thesis/chapters/chapter01/ecommerce.tex
 INPUT /Users/josemurillo/Git/thesis/index.aux
