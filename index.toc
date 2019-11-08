@@ -1,39 +1,39 @@
 \babel@toc {spanish}{}
-\contentsline {chapter}{Índice de Tablas}{\es@scroman {viii}}% 
-\contentsline {chapter}{Índice de Figuras}{\es@scroman {ix}}% 
-\contentsline {chapter}{\numberline {1}Introducción}{1}% 
-\contentsline {section}{\numberline {1.1}Antecedentes y definición del problema}{1}% 
-\contentsline {section}{\numberline {1.2}Motivación para atender el problema}{2}% 
-\contentsline {section}{\numberline {1.3}Propuesta de solución}{2}% 
-\contentsline {section}{\numberline {1.4}Objetivos generales}{2}% 
-\contentsline {section}{\numberline {1.5}Objetivos específicos}{3}% 
-\contentsline {chapter}{\numberline {2}Marco teórico}{1}% 
-\contentsline {section}{\numberline {2.1}MEAN/MERN}{2}% 
-\contentsline {subsection}{\numberline {2.1.1}Componentes}{2}% 
-\contentsline {subsection}{\numberline {2.1.2}Base de datos NOSQL}{3}% 
-\contentsline {subsection}{\numberline {2.1.3}Orientado a documentos}{3}% 
-\contentsline {subsection}{\numberline {2.1.4}Angular/React}{4}% 
-\contentsline {subsection}{\numberline {2.1.5}Beneficios}{5}% 
-\contentsline {subsection}{\numberline {2.1.6}Desventajas}{5}% 
-\contentsline {section}{\numberline {2.2}FERN}{6}% 
-\contentsline {subsection}{\numberline {2.2.1}Componentes}{6}% 
-\contentsline {subsection}{\numberline {2.2.2}Cloud Firestore}{7}% 
-\contentsline {subsection}{\numberline {2.2.3}Node.js}{8}% 
-\contentsline {subsubsection}{Motor V8 de Google Chrome}{9}% 
-\contentsline {subsection}{\numberline {2.2.4}El ecosistema NPM}{9}% 
-\contentsline {subsubsection}{Sitio web}{10}% 
-\contentsline {subsubsection}{Registro}{10}% 
-\contentsline {subsubsection}{CLI (interfaz de línea de comando)}{10}% 
-\contentsline {subsection}{\numberline {2.2.5}Comandos NPM}{10}% 
-\contentsline {subsection}{\numberline {2.2.6}Express.js}{11}% 
-\contentsline {subsection}{\numberline {2.2.7}React.js}{11}% 
-\contentsline {subsection}{\numberline {2.2.8}Componentes React}{12}% 
-\contentsline {subsection}{\numberline {2.2.9}DOM Virtual}{13}% 
-\contentsline {section}{\numberline {2.3}Preprocesamiento}{14}% 
-\contentsline {subsection}{\numberline {2.3.1}ES5/ES6}{14}% 
-\contentsline {subsubsection}{JSX}{14}% 
-\contentsline {subsubsection}{BabelJS}{15}% 
-\contentsline {subsubsection}{Sass (Syntactically Awesome Style Sheets)}{15}% 
-\contentsline {subsubsection}{Webpack}{15}% 
-\contentsline {section}{\numberline {2.4}E-commerce (Comercio electrónico)}{16}% 
-\contentsline {subsubsection}{Shopify}{16}% 
+\contentsline {chapter}{Índice de Tablas}{\es@scroman {viii}}{chapter*.3}% 
+\contentsline {chapter}{Índice de Figuras}{\es@scroman {ix}}{chapter*.4}% 
+\contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Antecedentes y definición del problema}{1}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Motivación para atender el problema}{2}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Propuesta de solución}{2}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}Objetivos generales}{2}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}Objetivos específicos}{3}{section.1.5}% 
+\contentsline {chapter}{\numberline {2}Marco teórico}{4}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}MEAN/MERN}{5}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Componentes MEAN}{5}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Base de datos NOSQL}{6}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}Orientado a documentos}{6}{subsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.1.4}Angular/React}{7}{subsection.2.1.4}% 
+\contentsline {subsection}{\numberline {2.1.5}Beneficios}{8}{subsection.2.1.5}% 
+\contentsline {subsection}{\numberline {2.1.6}Desventajas}{8}{subsection.2.1.6}% 
+\contentsline {section}{\numberline {2.2}FERN}{9}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Componentes}{9}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Cloud Firestore}{10}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}Node.js}{11}{subsection.2.2.3}% 
+\contentsline {subsubsection}{Motor V8 de Google Chrome}{12}{section*.11}% 
+\contentsline {subsection}{\numberline {2.2.4}El ecosistema NPM}{12}{subsection.2.2.4}% 
+\contentsline {subsubsection}{Sitio web}{13}{section*.12}% 
+\contentsline {subsubsection}{Registro}{13}{section*.13}% 
+\contentsline {subsubsection}{CLI (interfaz de línea de comando)}{13}{section*.14}% 
+\contentsline {subsection}{\numberline {2.2.5}Comandos NPM}{13}{subsection.2.2.5}% 
+\contentsline {subsection}{\numberline {2.2.6}Express.js}{14}{subsection.2.2.6}% 
+\contentsline {subsection}{\numberline {2.2.7}React.js}{15}{subsection.2.2.7}% 
+\contentsline {subsection}{\numberline {2.2.8}Componentes React}{15}{subsection.2.2.8}% 
+\contentsline {subsection}{\numberline {2.2.9}DOM Virtual}{18}{subsection.2.2.9}% 
+\contentsline {section}{\numberline {2.3}Preprocesamiento}{19}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}ES5/ES6}{19}{subsection.2.3.1}% 
+\contentsline {subsubsection}{JSX}{19}{section*.16}% 
+\contentsline {subsubsection}{BabelJS}{20}{section*.17}% 
+\contentsline {subsubsection}{Sass (Syntactically Awesome Style Sheets)}{21}{section*.18}% 
+\contentsline {subsubsection}{Webpack}{21}{section*.19}% 
+\contentsline {section}{\numberline {2.4}E-commerce (Comercio electrónico)}{22}{section.2.4}% 
+\contentsline {subsubsection}{Shopify}{22}{section*.20}% 

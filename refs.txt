@@ -12,3 +12,4 @@ https://www.fullstackreact.com/assets/media/sGEMe/MNzue/30-days-of-react-ebook-f
 https://facebook.github.io/jsx/
 https://www.tutorialspoint.com/sass/sass_tutorial.pdf
 https://www.tutorialspoint.com/babeljs/babeljs_tutorial.pdf
+https://web.stanford.edu/class/cs142/lectures/ReactJS.pdf

@@ -10,7 +10,10 @@ Para aprovechar los beneficios de ES6 hoy, se tienen que hacer que hacer algunos
 JSX es una extensión de sintaxis similar a XML para ECMAScript sin ninguna semántica definida. NO está destinado a ser implementado por motores o navegadores. NO es una propuesta para incorporar JSX en la propia especificación ECMAScript. Está destinado a ser utilizado por varios preprocesadores (transpiladores) para transformar estos tokens en ECMAScript estándar.
 \subsubsection{BabelJS}
 BabelJS es un transpilador de JavaScript que transpila nuevas características ES6 al antiguo estándar ES5. Con esto, las funciones se pueden ejecutar en navegadores antiguos y nuevos, sin problemas. \\[0.8cm]
-\textbf{El preprocesador BabelJS} convierte la sintaxis de JavaScript moderno en un formulario, que los navegadores más antiguos pueden entender fácilmente. Por ejemplo, const y let se convertirán en var, la función flecha se convierte en una función normal manteniendo la funcionalidad igual en ambos casos.
+\textbf{El preprocesador BabelJS} convierte la sintaxis de JavaScript moderno en un formulario, que los navegadores más antiguos pueden entender fácilmente. Por ejemplo, const y let se convertirán en var, la función flecha se convierte en una función normal manteniendo la funcionalidad igual en ambos casos. \\[0.8cm]
+
+\lstinputlisting[style=ES6, caption=Ejemplo de sintaxis ES5 y ES6]{code/es5-es6.js}
+
 \subsubsection{Sass (Syntactically Awesome Style Sheets)}
 Sass es un preprocesador de CSS, que ayuda a reducir la repetición con CSS y ahorra tiempo. Es un lenguaje de extensión CSS más estable y potente que describe el estilo de una página estructuralmente. Sus principales atributos son:
 \begin{enumerate}
@@ -19,3 +22,10 @@ Sass es un preprocesador de CSS, que ayuda a reducir la repetición con CSS y ah
 \end{enumerate}
 \subsubsection{Webpack}
 Webpack es un empaquetador de módulos. Webpack toma un archivo de entrada, encuentra todos los archivos de los que depende y genera un archivo que contiene todo el código de una aplicación. Con él es posible importar archivos CSS e imágenes directamente a JavaScript. Se puede compilar CoffeeScript, TypeScript, SASS y LESS. También es capaz de compilar la sintaxis de ES6 en JavaScript amigable para el navegador. En otras palabras, Webpack toma diferentes archivos (como CSS, JS, SASS, JPG, SVG, PNG, etc.) y los combina en paquetes, un paquete separado para cada tipo de archivo.
+
+
+% \begin{lstlisting}[style=ES6, caption=Ejemplo de sintaxis ES5 y ES6]
+%   // Extraer de objetos
+
+%   var obj1 = { a: 1, b: 2 };
+% \end{lstlisting}
