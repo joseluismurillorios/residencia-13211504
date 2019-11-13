@@ -1,6 +1,6 @@
 \babel@toc {spanish}{}
-\contentsline {chapter}{Índice de Tablas}{\es@scroman {viii}}{chapter*.3}% 
-\contentsline {chapter}{Índice de Figuras}{\es@scroman {ix}}{chapter*.4}% 
+\contentsline {chapter}{Índice de Tablas}{\es@scroman {ix}}{chapter*.3}% 
+\contentsline {chapter}{Índice de Figuras}{\es@scroman {x}}{chapter*.4}% 
 \contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}Antecedentes y definición del problema}{1}{section.1.1}% 
 \contentsline {section}{\numberline {1.2}Motivación para atender el problema}{2}{section.1.2}% 
@@ -35,5 +35,20 @@
 \contentsline {subsubsection}{BabelJS}{20}{section*.17}% 
 \contentsline {subsubsection}{Sass (Syntactically Awesome Style Sheets)}{21}{section*.18}% 
 \contentsline {subsubsection}{Webpack}{21}{section*.19}% 
-\contentsline {section}{\numberline {2.4}E-commerce (Comercio electrónico)}{22}{section.2.4}% 
-\contentsline {subsubsection}{Shopify}{22}{section*.20}% 
+\contentsline {section}{\numberline {2.4}Control de versiones}{22}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Git}{22}{subsection.2.4.1}% 
+\contentsline {chapter}{\numberline {3}Análisis y diseño del sistema}{24}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Requerimientos del proyecto}{24}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Herramientas}{25}{subsection.3.1.1}% 
+\contentsline {subsubsection}{Dependencias de desarrollo}{25}{section*.21}% 
+\contentsline {subsubsection}{Estructura del proyecto}{26}{section*.22}% 
+\contentsline {subsubsection}{Directorios}{26}{section*.23}% 
+\contentsline {subsubsection}{Archivos principales}{27}{section*.24}% 
+\contentsline {section}{\numberline {3.2}Patrón de diseño}{29}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Redux}{29}{subsection.3.2.1}% 
+\contentsline {subsubsection}{Redux Store}{29}{section*.26}% 
+\contentsline {subsubsection}{Redux Reducer}{30}{section*.27}% 
+\contentsline {subsubsection}{Acciones Redux}{30}{section*.28}% 
+\contentsline {section}{\numberline {3.3}Integración React/Redux}{32}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}E-commerce (Comercio electrónico)}{33}{section.3.4}% 
+\contentsline {subsubsection}{Shopify}{33}{section*.29}% 
