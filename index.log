@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  13 NOV 2019 01:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  18 NOV 2019 21:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -454,44 +454,268 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
 )
 \Hy@SectionHShift=\skip55
-)) (/Users/josemurillo/Git/thesis/index.aux
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2019/08/31 v3.13a programmable bibliographies (PK/MW)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count125
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count126
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count127
+\c@listtotal=\count128
+\c@listcount=\count129
+\c@liststart=\count130
+\c@liststop=\count131
+\c@citecount=\count132
+\c@citetotal=\count133
+\c@multicitecount=\count134
+\c@multicitetotal=\count135
+\c@instcount=\count136
+\c@maxnames=\count137
+\c@minnames=\count138
+\c@maxitems=\count139
+\c@minitems=\count140
+\c@citecounter=\count141
+\c@maxcitecounter=\count142
+\c@savedcitecounter=\count143
+\c@uniquelist=\count144
+\c@uniquename=\count145
+\c@refsection=\count146
+\c@refsegment=\count147
+\c@maxextratitle=\count148
+\c@maxextratitleyear=\count149
+\c@maxextraname=\count150
+\c@maxextradate=\count151
+\c@maxextraalpha=\count152
+\c@abbrvpenalty=\count153
+\c@highnamepenalty=\count154
+\c@lownamepenalty=\count155
+\c@maxparens=\count156
+\c@parenlevel=\count157
+\blx@tempcnta=\count158
+\blx@tempcntb=\count159
+\blx@tempcntc=\count160
+\blx@maxsection=\count161
+\blx@maxsegment@0=\count162
+\blx@notetype=\count163
+\blx@parenlevel@text=\count164
+\blx@parenlevel@foot=\count165
+\blx@sectionciteorder@0=\count166
+\blx@entrysetcounter=\count167
+\labelnumberwidth=\skip56
+\labelalphawidth=\skip57
+\biblabelsep=\skip58
+\bibitemsep=\skip59
+\bibnamesep=\skip60
+\bibinitsep=\skip61
+\bibparsep=\skip62
+\bibhang=\skip63
+\blx@bcfin=\read1
+\blx@bcfout=\write3
+\blx@langwohyphens=\language85
+\c@mincomprange=\count168
+\c@maxcomprange=\count169
+\c@mincompwidth=\count170
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2019/08/31 v3.13a biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count171
+\c@savedafterword=\count172
+\c@annotator=\count173
+\c@savedannotator=\count174
+\c@author=\count175
+\c@savedauthor=\count176
+\c@bookauthor=\count177
+\c@savedbookauthor=\count178
+\c@commentator=\count179
+\c@savedcommentator=\count180
+\c@editor=\count181
+\c@savededitor=\count182
+\c@editora=\count183
+\c@savededitora=\count184
+\c@editorb=\count185
+\c@savededitorb=\count186
+\c@editorc=\count187
+\c@savededitorc=\count188
+\c@foreword=\count189
+\c@savedforeword=\count190
+\c@holder=\count191
+\c@savedholder=\count192
+\c@introduction=\count193
+\c@savedintroduction=\count194
+\c@namea=\count195
+\c@savednamea=\count196
+\c@nameb=\count197
+\c@savednameb=\count198
+\c@namec=\count199
+\c@savednamec=\count266
+\c@translator=\count267
+\c@savedtranslator=\count268
+\c@shortauthor=\count269
+\c@savedshortauthor=\count270
+\c@shorteditor=\count271
+\c@savedshorteditor=\count272
+\c@labelname=\count273
+\c@savedlabelname=\count274
+\c@institution=\count275
+\c@savedinstitution=\count276
+\c@lista=\count277
+\c@savedlista=\count278
+\c@listb=\count279
+\c@savedlistb=\count280
+\c@listc=\count281
+\c@savedlistc=\count282
+\c@listd=\count283
+\c@savedlistd=\count284
+\c@liste=\count285
+\c@savedliste=\count286
+\c@listf=\count287
+\c@savedlistf=\count288
+\c@location=\count289
+\c@savedlocation=\count290
+\c@organization=\count291
+\c@savedorganization=\count292
+\c@origlocation=\count293
+\c@savedoriglocation=\count294
+\c@origpublisher=\count295
+\c@savedorigpublisher=\count296
+\c@publisher=\count297
+\c@savedpublisher=\count298
+\c@language=\count299
+\c@savedlanguage=\count300
+\c@origlanguage=\count301
+\c@savedoriglanguage=\count302
+\c@pageref=\count303
+\c@savedpageref=\count304
+\shorthandwidth=\skip64
+\shortjournalwidth=\skip65
+\shortserieswidth=\skip66
+\shorttitlewidth=\skip67
+\shortauthorwidth=\skip68
+\shorteditorwidth=\skip69
+\locallabelnumberwidth=\skip70
+\locallabelalphawidth=\skip71
+\localshorthandwidth=\skip72
+\localshortjournalwidth=\skip73
+\localshortserieswidth=\skip74
+\localshorttitlewidth=\skip75
+\localshortauthorwidth=\skip76
+\localshorteditorwidth=\skip77
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+\c@textcitecount=\count305
+\c@textcitetotal=\count306
+\c@textcitemaxnames=\count307
+\c@biburlbigbreakpenalty=\count308
+\c@biburlbreakpenalty=\count309
+\c@biburlnumpenalty=\count310
+\c@biburlucpenalty=\count311
+\c@biburllcpenalty=\count312
+\biburlbigskip=\muskip12
+\biburlnumskip=\muskip13
+\biburlucskip=\muskip14
+\biburllcskip=\muskip15
+\c@smartand=\count313
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count314
+\c@bbx:relatedtotal=\count315
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2019/08/31 v3.13a biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+File: spanish.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count316
+\@quotereset=\count317
+(/Users/josemurillo/Git/thesis/index.aux
+LaTeX Info: Redefining \sptext on input line 25.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
 )
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 37.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
  (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count125
+\scratchcounter=\count318
 \scratchdimen=\dimen130
 \scratchbox=\box33
-\nofMPsegments=\count126
-\nofMParguments=\count127
+\nofMPsegments=\count319
+\nofMParguments=\count320
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count128
+\MPscratchCnt=\count321
 \MPscratchDim=\dimen131
-\MPnumerator=\count129
-\makeMPintoPDFobject=\count130
+\MPnumerator=\count322
+\makeMPintoPDFobject=\count323
 \everyMPtoPDFconversion=\toks27
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -505,65 +729,79 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
-\c@lstlisting=\count131
+LaTeX Info: Redefining \sptext on input line 37.
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+\c@lstlisting=\count324
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 34.
+Package hyperref Info: Link coloring OFF on input line 37.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count132
+\c@section@level=\count325
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
  (/Users/josemurillo/Git/thesis/index.out) (/Users/josemurillo/Git/thesis/index.out)
-\@outlinefile=\write3
-\openout3 = `index.out'.
+\@outlinefile=\write4
+\openout4 = `index.out'.
 
-<./images/escudo1.png, id=152, 484.209pt x 461.0826pt>
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `index.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'index.bbl' found.
+ (/Users/josemurillo/Git/thesis/index.bbl)
+Package biblatex Info: Reference section=0 on input line 37.
+Package biblatex Info: Reference segment=0 on input line 37.
+<./images/escudo1.png, id=180, 484.209pt x 461.0826pt>
 File: ./images/escudo1.png Graphic file (type png)
 <use ./images/escudo1.png>
-Package pdftex.def Info: ./images/escudo1.png  used on input line 45.
+Package pdftex.def Info: ./images/escudo1.png  used on input line 48.
 (pdftex.def)             Requested size: 164.33334pt x 156.49014pt.
  [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/escudo1.png>] [2] (/Users/josemurillo/Git/thesis/chapters/abstract.tex) [3] (/Users/josemurillo/Git/thesis/chapters/dedication.tex) [4] (/Users/josemurillo/Git/thesis/chapters/aknowledgements.tex) [5] (/Users/josemurillo/Git/thesis/index.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \sptext on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
  [6
 
-])
-\tf@toc=\write4
-\openout4 = `index.toc'.
+] [7])
+\tf@toc=\write5
+\openout5 = `index.toc'.
 
- [7] [8] (/Users/josemurillo/Git/thesis/index.lot
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+ [8] (/Users/josemurillo/Git/thesis/index.lot
+LaTeX Info: Redefining \sptext on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
 )
-\tf@lot=\write5
-\openout5 = `index.lot'.
+\tf@lot=\write6
+\openout6 = `index.lot'.
 
  [9
 
 ] (/Users/josemurillo/Git/thesis/index.lof
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \sptext on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
 )
-\tf@lof=\write6
-\openout6 = `index.lof'.
+\tf@lof=\write7
+\openout7 = `index.lof'.
 
  [10
 
 ] (/Users/josemurillo/Git/thesis/index.lol)
-\tf@lol=\write7
-\openout7 = `index.lol'.
+\tf@lol=\write8
+\openout8 = `index.lol'.
 
  [11
 
@@ -573,7 +811,7 @@ Cap\'{\i }tulo 1.
 
 ] (/Users/josemurillo/Git/thesis/chapters/chapter01/motivation.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/proposal.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/general.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/specific.tex [2]) [3]
 Cap\'{\i }tulo 2.
-(/Users/josemurillo/Git/thesis/chapters/chapter02/intro.tex) (/Users/josemurillo/Git/thesis/chapters/chapter02/mern.tex
+(/Users/josemurillo/Git/thesis/chapters/chapter02/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter02/mern.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 14.49998pt.
@@ -583,13 +821,13 @@ This may cause the page layout to be inconsistent, however.
 [4
 
 ]
-<./images/mean.png, id=303, 991.705pt x 238.8925pt>
+<./images/mean.png, id=362, 991.705pt x 238.8925pt>
 File: ./images/mean.png Graphic file (type png)
 <use ./images/mean.png>
 Package pdftex.def Info: ./images/mean.png  used on input line 19.
 (pdftex.def)             Requested size: 397.48499pt x 95.74849pt.
  [5]
-<./images/sql-nosql.png, id=309, 1031.855pt x 546.04pt>
+<./images/sql-nosql.png, id=368, 1031.855pt x 546.04pt>
 File: ./images/sql-nosql.png Graphic file (type png)
 <use ./images/sql-nosql.png>
 Package pdftex.def Info: ./images/sql-nosql.png  used on input line 31.
@@ -600,19 +838,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--36
  []
 
 [7 <./images/sql-nosql.png>]) [8] (/Users/josemurillo/Git/thesis/chapters/chapter02/fern.tex
-<./images/fern.png, id=326, 800.9925pt x 471.7625pt>
+<./images/fern.png, id=384, 800.9925pt x 471.7625pt>
 File: ./images/fern.png Graphic file (type png)
 <use ./images/fern.png>
 Package pdftex.def Info: ./images/fern.png  used on input line 20.
 (pdftex.def)             Requested size: 317.9892pt x 187.29074pt.
  [9]
-<./images/firestore.jpg, id=331, 2047.65pt x 1194.4625pt>
+<./images/firestore.jpg, id=389, 2047.65pt x 1194.4625pt>
 File: ./images/firestore.jpg Graphic file (type jpg)
 <use ./images/firestore.jpg>
 Package pdftex.def Info: ./images/firestore.jpg  used on input line 28.
 (pdftex.def)             Requested size: 357.73405pt x 208.66954pt.
  [10 <./images/fern.png>]
-<./images/node.png, id=337, 726.715pt x 377.41pt>
+<./images/node.png, id=395, 726.715pt x 377.41pt>
 File: ./images/node.png Graphic file (type png)
 <use ./images/node.png>
 Package pdftex.def Info: ./images/node.png  used on input line 36.
@@ -727,7 +965,7 @@ Package xcolor Warning: Incompatible color definition on input line 7.
 Package xcolor Warning: Incompatible color definition on input line 7.
 
 ) [14]
-<./images/components.png, id=376, 909.3975pt x 758.835pt>
+<./images/components.png, id=434, 909.3975pt x 758.835pt>
 File: ./images/components.png Graphic file (type png)
 <use ./images/components.png>
 Package pdftex.def Info: ./images/components.png  used on input line 88.
@@ -832,7 +1070,7 @@ Package xcolor Warning: Incompatible color definition on input line 18.
 Package xcolor Warning: Incompatible color definition on input line 21.
 
 ) [20]) [21] (/Users/josemurillo/Git/thesis/chapters/chapter02/git.tex
-<./images/git.png, id=471, 847.165pt x 730.73pt>
+<./images/git.png, id=529, 847.165pt x 730.73pt>
 File: ./images/git.png Graphic file (type png)
 <use ./images/git.png>
 Package pdftex.def Info: ./images/git.png  used on input line 9.
@@ -842,22 +1080,764 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--11
 
  []
 
-[22]) [23 <./images/git.png>]
+[22])) [23 <./images/git.png>]
 Cap\'{\i }tulo 3.
-(/Users/josemurillo/Git/thesis/chapters/chapter03/intro.tex) (/Users/josemurillo/Git/thesis/chapters/chapter03/requirements.tex [24
+(/Users/josemurillo/Git/thesis/chapters/chapter03/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter03/ecommerce.tex
+<./images/rosesland.png, id=539, 939.51pt x 794.97pt>
+File: ./images/rosesland.png Graphic file (type png)
+<use ./images/rosesland.png>
+Package pdftex.def Info: ./images/rosesland.png  used on input line 5.
+(pdftex.def)             Requested size: 357.73405pt x 302.69826pt.
+ [24
 
-] [25] [26]
-<./images/app.jpg, id=497, 457.71pt x 965.6075pt>
+]
+<./images/shopify.png, id=544, 937.5025pt x 558.085pt>
+File: ./images/shopify.png Graphic file (type png)
+<use ./images/shopify.png>
+Package pdftex.def Info: ./images/shopify.png  used on input line 18.
+(pdftex.def)             Requested size: 357.73405pt x 212.95161pt.
+) [25 <./images/rosesland.png>] (/Users/josemurillo/Git/thesis/chapters/chapter03/requirements.tex [26 <./images/shopify.png>] [27] [28]
+<./images/app.jpg, id=569, 457.71pt x 965.6075pt>
 File: ./images/app.jpg Graphic file (type jpg)
 <use ./images/app.jpg>
-Package pdftex.def Info: ./images/app.jpg  used on input line 40.
+Package pdftex.def Info: ./images/app.jpg  used on input line 50.
 (pdftex.def)             Requested size: 119.2467pt x 251.56772pt.
-) [27] [28 <./images/app.jpg>] (/Users/josemurillo/Git/thesis/chapters/chapter03/pattern.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
+ [29] [30 <./images/app.jpg>] (/Users/josemurillo/Git/thesis/code/env.txt
 
- []
+Package xcolor Warning: Incompatible color definition on input line 1.
 
-(/Users/josemurillo/Git/thesis/code/redux-store.js
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 11.
+
+
+Package xcolor Warning: Incompatible color definition on input line 11.
+
+)) [31] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/node-server.tex
+<./images/node-traditional.png, id=596, 835.12pt x 588.1975pt>
+File: ./images/node-traditional.png Graphic file (type png)
+<use ./images/node-traditional.png>
+Package pdftex.def Info: ./images/node-traditional.png  used on input line 6.
+(pdftex.def)             Requested size: 317.9892pt x 223.96613pt.
+ [32] [33 <./images/node-traditional.png>] (/Users/josemurillo/Git/thesis/code/node-server.js
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+)) (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/express-server.tex [34]
+<./images/express-router.png, id=627, 796.9775pt x 449.68pt>
+File: ./images/express-router.png Graphic file (type png)
+<use ./images/express-router.png>
+Package pdftex.def Info: ./images/express-router.png  used on input line 10.
+(pdftex.def)             Requested size: 317.9892pt x 179.41594pt.
+ [35 <./images/express-router.png>] (/Users/josemurillo/Git/thesis/code/express-router.js
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 11.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 14.
+
+
+Package xcolor Warning: Incompatible color definition on input line 14.
+
+
+Package xcolor Warning: Incompatible color definition on input line 14.
+
+
+Package xcolor Warning: Incompatible color definition on input line 15.
+
+
+Package xcolor Warning: Incompatible color definition on input line 15.
+
+
+Package xcolor Warning: Incompatible color definition on input line 15.
+
+
+Package xcolor Warning: Incompatible color definition on input line 15.
+
+
+Package xcolor Warning: Incompatible color definition on input line 15.
+
+
+Package xcolor Warning: Incompatible color definition on input line 15.
+
+
+Package xcolor Warning: Incompatible color definition on input line 15.
+
+
+Package xcolor Warning: Incompatible color definition on input line 15.
+
+
+Package xcolor Warning: Incompatible color definition on input line 16.
+
+
+Package xcolor Warning: Incompatible color definition on input line 16.
+
+
+Package xcolor Warning: Incompatible color definition on input line 16.
+
+
+Package xcolor Warning: Incompatible color definition on input line 16.
+
+
+Package xcolor Warning: Incompatible color definition on input line 16.
+
+
+Package xcolor Warning: Incompatible color definition on input line 16.
+
+
+Package xcolor Warning: Incompatible color definition on input line 21.
+
+
+Package xcolor Warning: Incompatible color definition on input line 22.
+
+
+Package xcolor Warning: Incompatible color definition on input line 22.
+
+
+Package xcolor Warning: Incompatible color definition on input line 22.
+
+
+Package xcolor Warning: Incompatible color definition on input line 22.
+
+
+Package xcolor Warning: Incompatible color definition on input line 22.
+
+
+Package xcolor Warning: Incompatible color definition on input line 23.
+
+
+Package xcolor Warning: Incompatible color definition on input line 23.
+
+
+Package xcolor Warning: Incompatible color definition on input line 23.
+
+
+Package xcolor Warning: Incompatible color definition on input line 23.
+
+
+Package xcolor Warning: Incompatible color definition on input line 23.
+
+
+Package xcolor Warning: Incompatible color definition on input line 26.
+
+
+Package xcolor Warning: Incompatible color definition on input line 26.
+
+
+Package xcolor Warning: Incompatible color definition on input line 26.
+
+
+Package xcolor Warning: Incompatible color definition on input line 26.
+
+
+Package xcolor Warning: Incompatible color definition on input line 26.
+
+
+Package xcolor Warning: Incompatible color definition on input line 26.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+
+Package xcolor Warning: Incompatible color definition on input line 28.
+
+
+Package xcolor Warning: Incompatible color definition on input line 28.
+
+
+Package xcolor Warning: Incompatible color definition on input line 28.
+
+
+Package xcolor Warning: Incompatible color definition on input line 28.
+
+
+Package xcolor Warning: Incompatible color definition on input line 28.
+
+
+Package xcolor Warning: Incompatible color definition on input line 28.
+
+
+Package xcolor Warning: Incompatible color definition on input line 28.
+
+
+Package xcolor Warning: Incompatible color definition on input line 28.
+
+
+Package xcolor Warning: Incompatible color definition on input line 29.
+
+
+Package xcolor Warning: Incompatible color definition on input line 29.
+
+
+Package xcolor Warning: Incompatible color definition on input line 29.
+
+
+Package xcolor Warning: Incompatible color definition on input line 29.
+
+
+Package xcolor Warning: Incompatible color definition on input line 29.
+
+
+Package xcolor Warning: Incompatible color definition on input line 29.
+
+
+Package xcolor Warning: Incompatible color definition on input line 29.
+
+
+Package xcolor Warning: Incompatible color definition on input line 29.
+
+
+Package xcolor Warning: Incompatible color definition on input line 30.
+
+
+Package xcolor Warning: Incompatible color definition on input line 30.
+
+
+Package xcolor Warning: Incompatible color definition on input line 30.
+
+
+Package xcolor Warning: Incompatible color definition on input line 30.
+
+
+Package xcolor Warning: Incompatible color definition on input line 30.
+
+
+Package xcolor Warning: Incompatible color definition on input line 30.
+
+
+Package xcolor Warning: Incompatible color definition on input line 30.
+
+
+Package xcolor Warning: Incompatible color definition on input line 30.
+
+
+Package xcolor Warning: Incompatible color definition on input line 33.
+
+
+Package xcolor Warning: Incompatible color definition on input line 33.
+
+
+Package xcolor Warning: Incompatible color definition on input line 33.
+
+
+Package xcolor Warning: Incompatible color definition on input line 33.
+
+
+Package xcolor Warning: Incompatible color definition on input line 33.
+
+
+Package xcolor Warning: Incompatible color definition on input line 33.
+
+
+Package xcolor Warning: Incompatible color definition on input line 33.
+
+
+Package xcolor Warning: Incompatible color definition on input line 33.
+
+
+Package xcolor Warning: Incompatible color definition on input line 33.
+
+
+Package xcolor Warning: Incompatible color definition on input line 35.
+
+
+Package xcolor Warning: Incompatible color definition on input line 35.
+
+
+Package xcolor Warning: Incompatible color definition on input line 35.
+
+
+Package xcolor Warning: Incompatible color definition on input line 37.
+
+
+Package xcolor Warning: Incompatible color definition on input line 37.
+
+
+Package xcolor Warning: Incompatible color definition on input line 37.
+
+)) [36] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/webhooks.tex
+<./images/webhook.png, id=679, 939.51pt x 556.0775pt>
+File: ./images/webhook.png Graphic file (type png)
+<use ./images/webhook.png>
+Package pdftex.def Info: ./images/webhook.png  used on input line 9.
+(pdftex.def)             Requested size: 397.48499pt x 235.26494pt.
+ [37] [38 <./images/webhook.png>] (/Users/josemurillo/Git/thesis/code/webhook.js
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 16.
+
+
+Package xcolor Warning: Incompatible color definition on input line 17.
+
+
+Package xcolor Warning: Incompatible color definition on input line 17.
+
+
+Package xcolor Warning: Incompatible color definition on input line 17.
+
+
+Package xcolor Warning: Incompatible color definition on input line 18.
+
+
+Package xcolor Warning: Incompatible color definition on input line 18.
+
+
+Package xcolor Warning: Incompatible color definition on input line 18.
+
+
+Package xcolor Warning: Incompatible color definition on input line 18.
+
+
+Package xcolor Warning: Incompatible color definition on input line 18.
+
+
+Package xcolor Warning: Incompatible color definition on input line 18.
+
+
+Package xcolor Warning: Incompatible color definition on input line 19.
+
+
+Package xcolor Warning: Incompatible color definition on input line 19.
+
+
+Package xcolor Warning: Incompatible color definition on input line 19.
+
+
+Package xcolor Warning: Incompatible color definition on input line 22.
+
+
+Package xcolor Warning: Incompatible color definition on input line 24.
+
+
+Package xcolor Warning: Incompatible color definition on input line 24.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+)) [39] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/sockets.tex (/Users/josemurillo/Git/thesis/code/socket.js
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 14.
+
+
+Package xcolor Warning: Incompatible color definition on input line 16.
+
+[40]
+
+Package xcolor Warning: Incompatible color definition on input line 19.
+
+
+Package xcolor Warning: Incompatible color definition on input line 19.
+
+
+Package xcolor Warning: Incompatible color definition on input line 19.
+
+
+Package xcolor Warning: Incompatible color definition on input line 21.
+
+
+Package xcolor Warning: Incompatible color definition on input line 21.
+
+
+Package xcolor Warning: Incompatible color definition on input line 21.
+
+
+Package xcolor Warning: Incompatible color definition on input line 22.
+
+
+Package xcolor Warning: Incompatible color definition on input line 22.
+
+
+Package xcolor Warning: Incompatible color definition on input line 22.
+
+
+Package xcolor Warning: Incompatible color definition on input line 22.
+
+
+Package xcolor Warning: Incompatible color definition on input line 22.
+
+
+Package xcolor Warning: Incompatible color definition on input line 23.
+
+
+Package xcolor Warning: Incompatible color definition on input line 24.
+
+
+Package xcolor Warning: Incompatible color definition on input line 24.
+
+
+Package xcolor Warning: Incompatible color definition on input line 24.
+
+))) [41] (/Users/josemurillo/Git/thesis/chapters/chapter03/pattern.tex (/Users/josemurillo/Git/thesis/chapters/chapter03/sections/redux.tex
+<./images/flux-redux.png, id=762, 993.7125pt x 752.8125pt>
+File: ./images/flux-redux.png Graphic file (type png)
+<use ./images/flux-redux.png>
+Package pdftex.def Info: ./images/flux-redux.png  used on input line 8.
+(pdftex.def)             Requested size: 357.73405pt x 271.01228pt.
+ [42] (/Users/josemurillo/Git/thesis/code/redux-store.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -903,12 +1883,7 @@ Package xcolor Warning: Incompatible color definition on input line 5.
 
 Package xcolor Warning: Incompatible color definition on input line 5.
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-[29] (/Users/josemurillo/Git/thesis/code/redux-reducer.js
+) [43 <./images/flux-redux.png>] (/Users/josemurillo/Git/thesis/code/redux-reducer.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -951,12 +1926,7 @@ Package xcolor Warning: Incompatible color definition on input line 14.
 
 Package xcolor Warning: Incompatible color definition on input line 15.
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
-
- []
-
-[30] (/Users/josemurillo/Git/thesis/code/redux-action.js
+) [44] (/Users/josemurillo/Git/thesis/code/redux-action.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -978,7 +1948,7 @@ Package xcolor Warning: Incompatible color definition on input line 2.
 
 Package xcolor Warning: Incompatible color definition on input line 2.
 
-)) [31] (/Users/josemurillo/Git/thesis/chapters/chapter03/reac-redux.tex
+))) [45] (/Users/josemurillo/Git/thesis/chapters/chapter03/react-redux.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
@@ -1182,33 +2152,43 @@ Package xcolor Warning: Incompatible color definition on input line 25.
 
 Package xcolor Warning: Incompatible color definition on input line 25.
 
-)) [32] (/Users/josemurillo/Git/thesis/chapters/chapter01/ecommerce.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 149.
- [33]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 149.
+))) [46]
+Overfull \hbox (13.59442pt too wide) in paragraph at lines 119--119
+[]\T1/cmr/m/n/12 Fionn Ke-lleher. \T1/cmr/m/it/12 Un-ders-tan-ding Soc-ket.IO\T1/cmr/m/n/12 . 2014. \T1/cmr/m/sc/12 url\T1/cmr/m/n/12 : []$\T1/cmtt/m/n/12 https : / / nodesource .
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
+[47
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
  (/Users/josemurillo/Git/thesis/index.aux
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
+LaTeX Info: Redefining \sptext on input line 25.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 149.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
 Package rerunfilecheck Info: File `index.out' has not changed.
-(rerunfilecheck)             Checksum: F41727FA5F41CEA6EDF878A1A7E61F07;2449.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 149.
+(rerunfilecheck)             Checksum: E96B98B1491AFEDE32571F6BAF7CFDBB;2988.
+Package logreq Info: Writing requests to 'index.run.xml'.
+\openout1 = `index.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
  ) 
 Here is how much of TeX's memory you used:
- 12883 strings out of 492167
- 192275 string characters out of 6125388
- 520456 words of memory out of 5000000
- 16767 multiletter control sequences out of 15000+600000
- 19586 words of font info for 45 fonts, out of 8000000 for 9000
+ 20214 strings out of 492167
+ 333708 string characters out of 6125388
+ 889730 words of memory out of 5000000
+ 23855 multiletter control sequences out of 15000+600000
+ 19899 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,11n,56p,6813b,2429s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pfb>
-Output written on /Users/josemurillo/Git/thesis/index.pdf (44 pages, 1236062 bytes).
+ 47i,11n,60p,6813b,2429s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pfb>
+Output written on /Users/josemurillo/Git/thesis/index.pdf (58 pages, 2086003 bytes).
 PDF statistics:
- 687 PDF objects out of 1000 (max. 8388607)
- 606 compressed objects within 7 object streams
- 245 named destinations out of 1000 (max. 500000)
- 342 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 991 PDF objects out of 1000 (max. 8388607)
+ 881 compressed objects within 9 object streams
+ 403 named destinations out of 1000 (max. 500000)
+ 428 words of extra memory for PDF output out of 10000 (max. 10000000)
 

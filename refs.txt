@@ -18,3 +18,8 @@ https://pdfs.semanticscholar.org/c7e4/c5b47622ba79bb0235fcd358cf2eb4b3c2cd.pdf
 https://www.acens.com/wp-content/images/2015/07/git-github-wp-acens.pdf
 http://jultika.oulu.fi/files/nbnfioulu-201503311195.pdf
 http://labs.kernelconcepts.de/downloads/books/Pro%20Git%20-%20Scott%20Chacon.pdf
+# express
+http://expressjs.com/
+https://pepa.holla.cz/wp-content/uploads/2016/08/Express.js-Guide.pdf
+https://jonathanleemartin.com/books/sample.pdf
+http://www.vanmeegern.de/fileadmin/user_upload/PDF/Web_Development_with_Node_Express.pdf

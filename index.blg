@@ -1,0 +1,16 @@
+[0] Config.pm:304> INFO - This is Biber 2.13
+[1] Config.pm:307> INFO - Logfile is 'index.blg'
+[87] biber-darwin:315> INFO - === Mon Nov 18, 2019, 20:58:29
+[177] Biber.pm:375> INFO - Reading 'index.bcf'
+[335] Biber.pm:905> INFO - Found 4 citekeys in bib section 0
+[405] Biber.pm:4196> INFO - Processing section 0
+[405] Utils.pm:75> INFO - Globbing data source 'references.bib'
+[406] Utils.pm:91> INFO - Globbed data source 'references.bib' to references.bib
+[434] Biber.pm:4373> INFO - Looking for bibtex format file 'references.bib' for section 0
+[436] bibtex.pm:1462> INFO - LaTeX decoding ...
+[445] bibtex.pm:1281> INFO - Found BibTeX data source 'references.bib'
+[512] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[512] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[512] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[584] bbl.pm:648> INFO - Writing 'index.bbl' with encoding 'UTF-8'
+[587] bbl.pm:751> INFO - Output to index.bbl

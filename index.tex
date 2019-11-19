@@ -9,6 +9,9 @@
 \usepackage{jslisting}
 \usepackage{jslistings}
 
+\usepackage{biblatex}
+\addbibresource{references.bib}
+
 \graphicspath{ {./images/} }
 
 \setlength{\oddsidemargin}{0in}
@@ -109,41 +112,9 @@ JOSÉ LUIS MURILLO RÍOS\\[0.8cm]
 \chapter{Marco teórico}
 \input{chapters/chapter02/intro}
 
-% \section{LAMP}
-% \input{chapters/chapter02/lamp}
-
-\section{MEAN/MERN}
-\input{chapters/chapter02/mern}
-
-\newpage
-\section{FERN}
-\input{chapters/chapter02/fern}
-
-\newpage
-\section{Preprocesamiento}
-\input{chapters/chapter02/jsx}
-
-\newpage
-\section{Control de versiones}
-\input{chapters/chapter02/git}
-
-
 \chapter{Análisis y diseño del sistema}
 \input{chapters/chapter03/intro}
 
-\section{Requerimientos del proyecto}
-\input{chapters/chapter03/requirements}
-
-\newpage
-\section{Patrón de diseño}
-\input{chapters/chapter03/pattern}
-
-\newpage
-\section{Integración React/Redux}
-\input{chapters/chapter03/reac-redux}
-
-\newpage
-\section{E-commerce (Comercio electrónico)}
-\input{chapters/chapter01/ecommerce}
+\printbibliography
 
 \end{document}

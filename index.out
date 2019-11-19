@@ -29,9 +29,16 @@
 \BOOKMARK [1][-]{section.2.4}{Control de versiones}{chapter.2}% 29
 \BOOKMARK [2][-]{subsection.2.4.1}{Git}{section.2.4}% 30
 \BOOKMARK [0][-]{chapter.3}{An\341lisis y dise\361o del sistema}{}% 31
-\BOOKMARK [1][-]{section.3.1}{Requerimientos del proyecto}{chapter.3}% 32
-\BOOKMARK [2][-]{subsection.3.1.1}{Herramientas}{section.3.1}% 33
-\BOOKMARK [1][-]{section.3.2}{Patr\363n de dise\361o}{chapter.3}% 34
-\BOOKMARK [2][-]{subsection.3.2.1}{Redux}{section.3.2}% 35
-\BOOKMARK [1][-]{section.3.3}{Integraci\363n React/Redux}{chapter.3}% 36
-\BOOKMARK [1][-]{section.3.4}{E-commerce \(Comercio electr\363nico\)}{chapter.3}% 37
+\BOOKMARK [1][-]{section.3.1}{E-Commerce \(Comercio electr\363nico\)}{chapter.3}% 32
+\BOOKMARK [1][-]{section.3.2}{Requerimientos del proyecto}{chapter.3}% 33
+\BOOKMARK [2][-]{subsection.3.2.1}{Herramientas}{section.3.2}% 34
+\BOOKMARK [1][-]{section.3.3}{Configuraci\363n del servidor \(Backend\)}{chapter.3}% 35
+\BOOKMARK [2][-]{subsection.3.3.1}{Servidor NodeJS}{section.3.3}% 36
+\BOOKMARK [2][-]{subsection.3.3.2}{Configuraci\363n Express}{section.3.3}% 37
+\BOOKMARK [2][-]{subsection.3.3.3}{Webhooks}{section.3.3}% 38
+\BOOKMARK [2][-]{subsection.3.3.4}{Webhooks Shopify}{section.3.3}% 39
+\BOOKMARK [2][-]{subsection.3.3.5}{Configuraci\363n de webhook en Express.js}{section.3.3}% 40
+\BOOKMARK [2][-]{subsection.3.3.6}{Websockets con Socket.IO}{section.3.3}% 41
+\BOOKMARK [1][-]{section.3.4}{Patrones de dise\361o}{chapter.3}% 42
+\BOOKMARK [2][-]{subsection.3.4.1}{Redux}{section.3.4}% 43
+\BOOKMARK [1][-]{section.3.5}{Integraci\363n React/Redux}{chapter.3}% 44
