@@ -31,6 +31,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {3.5}{\ignorespaces Cada función de middleware en la pila se ejecuta antes que las que están debajo de ella.\relax }}{35}{figure.caption.33}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Panel para crear webhooks en Shopify.\relax }}{38}{figure.caption.34}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Consola de Google Firebase.\relax }}{37}{figure.caption.34}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Comparación Flux/Redux.\relax }}{43}{figure.caption.36}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Autenticación basada en roles.\relax }}{42}{figure.caption.43}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Panel para crear webhooks en Shopify.\relax }}{46}{figure.caption.45}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Comparación de transporte por sondeo (Ajax) y websockets (Socket.IO).\relax }}{48}{figure.caption.46}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Comparación Flux/Redux.\relax }}{51}{figure.caption.48}% 

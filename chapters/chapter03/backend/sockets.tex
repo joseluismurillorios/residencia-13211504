@@ -4,4 +4,10 @@ Si bien la base de datos Firebase Firestore proporciona una capa de conexión en
 En cualquier aplicación en tiempo real, mostrar múltiples usuarios en línea es muy importante, esta información debe actualizarse cuando un nuevo usuario se conecta o un usuario en línea se desconecta.
 \vspace{0.8cm}
 
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=1\textwidth]{websocket}
+  \caption{Comparación de transporte por sondeo (Ajax) y websockets (Socket.IO).}
+\end{figure}
+
 \lstinputlisting[style=ES6, caption=Fragmento de configuración de Socket.IO del sistema]{code/socket.js}

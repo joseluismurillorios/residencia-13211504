@@ -11,14 +11,22 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {lstlisting}{\numberline {3.3}Fragmento de la configuración de enrutamiento del sistema}{36}{lstlisting.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.4}Ruta que capta el webhook lanzado desde Shopify}{39}{lstlisting.3.4}% 
+\contentsline {lstlisting}{\numberline {3.4}Fragmento de la configuración Firebase en el servidor}{40}{lstlisting.3.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.5}Fragmento de configuración de Socket.IO del sistema}{40}{lstlisting.3.5}% 
+\contentsline {lstlisting}{\numberline {3.5}Fragmento para guardar datos en Firestore}{41}{lstlisting.3.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.6}Fragmento de código para inicializar el Redux Store}{43}{lstlisting.3.6}% 
+\contentsline {lstlisting}{\numberline {3.6}Fragmento para guardar crear y leer Firebase Custom Claims}{43}{lstlisting.3.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.7}Fragmento de código del reducer común de la app}{44}{lstlisting.3.7}% 
+\contentsline {lstlisting}{\numberline {3.7}Fragmento de código para la conexión con Shopify}{45}{lstlisting.3.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.8}Fragmento de código de la acción que valida a un administrador}{45}{lstlisting.3.8}% 
+\contentsline {lstlisting}{\numberline {3.8}Ruta que capta el webhook lanzado desde Shopify}{47}{lstlisting.3.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.9}Fragmento de código de la aplicación React principal}{46}{lstlisting.3.9}% 
+\contentsline {lstlisting}{\numberline {3.9}Fragmento de configuración de Socket.IO del sistema}{49}{lstlisting.3.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {lstlisting}{\numberline {3.10}Fragmento de código para inicializar el Redux Store}{51}{lstlisting.3.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {lstlisting}{\numberline {3.11}Fragmento de código del reducer común de la app}{52}{lstlisting.3.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {lstlisting}{\numberline {3.12}Fragmento de una acción que actualiza el estado}{52}{lstlisting.3.12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {lstlisting}{\numberline {3.13}Fragmento de código de la aplicación React principal}{53}{lstlisting.3.13}% 

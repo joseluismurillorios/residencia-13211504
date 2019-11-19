@@ -19,6 +19,32 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{transactions}{online}{}
+      \name{author}{1}{}{%
+        {{hash=035489ff8d092741943e4a83241f5af9}{%
+           family={Firebase},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{035489ff8d092741943e4a83241f5af9}
+      \strng{fullhash}{035489ff8d092741943e4a83241f5af9}
+      \strng{bibnamehash}{035489ff8d092741943e4a83241f5af9}
+      \strng{authorbibnamehash}{035489ff8d092741943e4a83241f5af9}
+      \strng{authornamehash}{035489ff8d092741943e4a83241f5af9}
+      \strng{authorfullhash}{035489ff8d092741943e4a83241f5af9}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Transacciones y escrituras en lotes}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://firebase.google.com/docs/firestore/manage-data/transactions
+      \endverb
+      \verb{url}
+      \verb https://firebase.google.com/docs/firestore/manage-data/transactions
+      \endverb
+      \keyw{firebase}
+    \endentry
     \entry{kelleher}{online}{}
       \name{author}{1}{}{%
         {{hash=0c90c0c75dfcc7243d5b1a78f9559c24}{%
@@ -88,6 +114,33 @@
       \endverb
       \keyw{node,javascript}
     \endentry
+    \entry{storefront}{online}{}
+      \name{author}{1}{}{%
+        {{hash=48b1feaa8b0d1805a23f59f268fc7c91}{%
+           family={Shopify},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{48b1feaa8b0d1805a23f59f268fc7c91}
+      \strng{fullhash}{48b1feaa8b0d1805a23f59f268fc7c91}
+      \strng{bibnamehash}{48b1feaa8b0d1805a23f59f268fc7c91}
+      \strng{authorbibnamehash}{48b1feaa8b0d1805a23f59f268fc7c91}
+      \strng{authornamehash}{48b1feaa8b0d1805a23f59f268fc7c91}
+      \strng{authorfullhash}{48b1feaa8b0d1805a23f59f268fc7c91}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Storefront API}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://help.shopify.com/en/api/storefront-api
+      \endverb
+      \verb{url}
+      \verb https://help.shopify.com/en/api/storefront-api
+      \endverb
+      \keyw{shopify,api}
+    \endentry
     \entry{webhook}{online}{}
       \name{author}{1}{}{%
         {{hash=48b1feaa8b0d1805a23f59f268fc7c91}{%
@@ -100,6 +153,7 @@
       \strng{authorbibnamehash}{48b1feaa8b0d1805a23f59f268fc7c91}
       \strng{authornamehash}{48b1feaa8b0d1805a23f59f268fc7c91}
       \strng{authorfullhash}{48b1feaa8b0d1805a23f59f268fc7c91}
+      \field{extraname}{2}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{labelnamesource}{author}

@@ -22,6 +22,7 @@ app.post('/webhooks/orders/create', async (req, res) => {
   if (hash === hmac) {
     /**\textcolor{allcomment}{// En caso de corresponder obtenemos los datos y los almacenamos } -*/
     const order = JSON.parse(req.body.toString());
+    /**\textcolor{allcomment}{// Llamada a la función que almacena las ordenes en Firestore } -*/
     orderUpdate(order);
     res.sendStatus(200);
   } else {
