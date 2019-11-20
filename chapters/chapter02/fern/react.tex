@@ -1,0 +1,29 @@
+React es una biblioteca de JavaScript declarativa, eficiente y flexible creada en 2013 por el equipo de desarrollo de Facebook. React quería que las interfaces de usuario fueran más modulares (o reutilizables) y más fáciles de mantener. Según el sitio web de React, se utiliza para \textit{construir componentes encapsulados que administran su propio estado, y unirlos para crear interfaces de usuario complejas}. React es una biblioteca JavaScript que permite componer interfaces de usuario complejas a partir de piezas de código pequeñas y aisladas llamadas \textit{componentes}.
+\vspace{0.8cm}
+
+En términos generales, al crear aplicaciones con React.js, se crean componentes que corresponden a distintos elementos de una interfaz de usuario. Después se organizan estos elementos dentro de componentes de orden superior que definen la estructura de la aplicación. Es importante destacar que cada componente en una aplicación React se rige por principios estrictos de gestión de datos. Interfaces avanzadas comúnmente involucran datos complejos y manejo de estado. React.js es limitado y tiene como objetivo darnos las herramientas para poder anticipar cómo se verá una aplicación con un conjunto de circunstancias dado.
+\subsection{Componentes React}
+Un componente es una pequeña parte de la interfaz de usuario. Todas las piezas reutilizables de una página web se abstraen en un componente.
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{components}
+  \caption{Componentes principales de una página web.}
+\end{figure}
+En primer lugar, hay un componente principal llamado componente APP. Este componente de la aplicación contiene cuatro componentes secundarios o se divide en cuatro componentes:
+\begin{enumerate}
+  \item Encabezado
+  \item Barra lateral
+  \item Contenido
+  \item Pie de página
+\end{enumerate}
+La función de cada componente se manejará independientemente con otros componentes. Cada componente es una pieza reutilizable, y se puede pensar en cada componente de forma aislada.
+\vspace{0.8cm}
+
+Dentro de un componente, tendremos subcomponentes o componentes dentro de un componente padre. Esos serán reutilizables también.
+\vspace{0.8cm}
+
+
+\lstinputlisting[style=ES6, caption=Ejemplo de página con componentes React.js]{code/react-example.js}
+
+\subsection{DOM Virtual}
+React utiliza un DOM virtual, que es una representación virtual del DOM (Document Object Model). Detrás de escena, React hace un gran trabajo para editar y volver a renderizar eficientemente el DOM cuando algo en la interfaz necesita cambiar.

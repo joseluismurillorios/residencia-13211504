@@ -19,6 +19,37 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{ethan}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f2c747cbf3c76c3e80587678a9840e94}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Ethan},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {O’Reilly}%
+      }
+      \strng{namehash}{f2c747cbf3c76c3e80587678a9840e94}
+      \strng{fullhash}{f2c747cbf3c76c3e80587678a9840e94}
+      \strng{bibnamehash}{f2c747cbf3c76c3e80587678a9840e94}
+      \strng{authorbibnamehash}{f2c747cbf3c76c3e80587678a9840e94}
+      \strng{authornamehash}{f2c747cbf3c76c3e80587678a9840e94}
+      \strng{authorfullhash}{f2c747cbf3c76c3e80587678a9840e94}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Web Development with Node and Express}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb http://www.vanmeegern.de/fileadmin/user_upload/PDF/Web_Development_with_Node_Express.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.vanmeegern.de/fileadmin/user_upload/PDF/Web_Development_with_Node_Express.pdf
+      \endverb
+      \keyw{node}
+    \endentry
     \entry{transactions}{online}{}
       \name{author}{1}{}{%
         {{hash=035489ff8d092741943e4a83241f5af9}{%
@@ -44,6 +75,31 @@
       \verb https://firebase.google.com/docs/firestore/manage-data/transactions
       \endverb
       \keyw{firebase}
+    \endentry
+    \entry{goalkicker-node}{online}{}
+      \name{author}{1}{}{%
+        {{hash=7a7e66197f2bd8ea939d95fdef9b4b00}{%
+           family={GoalKicker},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a7e66197f2bd8ea939d95fdef9b4b00}
+      \strng{fullhash}{7a7e66197f2bd8ea939d95fdef9b4b00}
+      \strng{bibnamehash}{7a7e66197f2bd8ea939d95fdef9b4b00}
+      \strng{authorbibnamehash}{7a7e66197f2bd8ea939d95fdef9b4b00}
+      \strng{authornamehash}{7a7e66197f2bd8ea939d95fdef9b4b00}
+      \strng{authorfullhash}{7a7e66197f2bd8ea939d95fdef9b4b00}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Node.js - Notes for Professionals}
+      \verb{urlraw}
+      \verb https://goalkicker.com/NodeJSBook/
+      \endverb
+      \verb{url}
+      \verb https://goalkicker.com/NodeJSBook/
+      \endverb
+      \keyw{node}
     \endentry
     \entry{kelleher}{online}{}
       \name{author}{1}{}{%
@@ -115,21 +171,8 @@
       \keyw{node,javascript}
     \endentry
     \entry{storefront}{online}{}
-      \name{author}{1}{}{%
-        {{hash=48b1feaa8b0d1805a23f59f268fc7c91}{%
-           family={Shopify},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{48b1feaa8b0d1805a23f59f268fc7c91}
-      \strng{fullhash}{48b1feaa8b0d1805a23f59f268fc7c91}
-      \strng{bibnamehash}{48b1feaa8b0d1805a23f59f268fc7c91}
-      \strng{authorbibnamehash}{48b1feaa8b0d1805a23f59f268fc7c91}
-      \strng{authornamehash}{48b1feaa8b0d1805a23f59f268fc7c91}
-      \strng{authorfullhash}{48b1feaa8b0d1805a23f59f268fc7c91}
-      \field{extraname}{1}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Storefront API}
       \field{year}{2019}
@@ -141,22 +184,37 @@
       \endverb
       \keyw{shopify,api}
     \endentry
-    \entry{webhook}{online}{}
+    \entry{srinivasan}{online}{}
       \name{author}{1}{}{%
-        {{hash=48b1feaa8b0d1805a23f59f268fc7c91}{%
-           family={Shopify},
-           familyi={S\bibinitperiod}}}%
+        {{hash=864fab7ca7174126c66a41546ce552dd}{%
+           family={Subramanian},
+           familyi={S\bibinitperiod},
+           given={Srinivasan},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{48b1feaa8b0d1805a23f59f268fc7c91}
-      \strng{fullhash}{48b1feaa8b0d1805a23f59f268fc7c91}
-      \strng{bibnamehash}{48b1feaa8b0d1805a23f59f268fc7c91}
-      \strng{authorbibnamehash}{48b1feaa8b0d1805a23f59f268fc7c91}
-      \strng{authornamehash}{48b1feaa8b0d1805a23f59f268fc7c91}
-      \strng{authorfullhash}{48b1feaa8b0d1805a23f59f268fc7c91}
-      \field{extraname}{2}
+      \strng{namehash}{864fab7ca7174126c66a41546ce552dd}
+      \strng{fullhash}{864fab7ca7174126c66a41546ce552dd}
+      \strng{bibnamehash}{864fab7ca7174126c66a41546ce552dd}
+      \strng{authorbibnamehash}{864fab7ca7174126c66a41546ce552dd}
+      \strng{authornamehash}{864fab7ca7174126c66a41546ce552dd}
+      \strng{authorfullhash}{864fab7ca7174126c66a41546ce552dd}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Why MERN?}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.apress.com/gp/blog/all-blog-posts/why-mern/12056000
+      \endverb
+      \verb{url}
+      \verb https://www.apress.com/gp/blog/all-blog-posts/why-mern/12056000
+      \endverb
+      \keyw{mern,mongodb,react,node}
+    \endentry
+    \entry{webhook}{online}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
       \field{labeltitlesource}{title}
       \field{title}{Webhooks — Shopify Help Center}
       \field{year}{2019}

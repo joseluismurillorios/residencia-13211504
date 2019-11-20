@@ -1,18 +1,22 @@
+#stacks
 https://blog.cloudboost.io/mean-and-mern-stacks-eb4cee991390
 https://bitbucket.org/blog/lamp-vs-mean-which-stack-is-right-for-you
 https://medium.com/@Intersog/mean-vs-lamp-choosing-the-right-stack-for-your-startup-project-96fa9e9df27f
+https://www.apress.com/gp/blog/all-blog-posts/why-mern/12056000
 https://medium.com/@PurpleGreenLemon/we-need-to-talk-about-firebase-1ffea1180d75
+
 https://medium.com/prod-io/understanding-the-basics-of-node-js-99e01c5d844f
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+#react
 https://medium.com/@hamzzza.ahmed95/a-beginners-guide-to-reactjs-2b59db83fa18
 https://medium.com/zenofai/beginners-guide-to-reactjs-3ca07f56d526
 https://medium.com/javascript-in-plain-english/react-redux-for-beginners-d51b46cb6d58
-https://www.apress.com/gp/blog/all-blog-posts/why-mern/12056000
 https://www.fullstackreact.com/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf
+https://web.stanford.edu/class/cs142/lectures/ReactJS.pdf
+
 https://facebook.github.io/jsx/
 https://www.tutorialspoint.com/sass/sass_tutorial.pdf
 https://www.tutorialspoint.com/babeljs/babeljs_tutorial.pdf
-https://web.stanford.edu/class/cs142/lectures/ReactJS.pdf
 # git
 https://pdfs.semanticscholar.org/c7e4/c5b47622ba79bb0235fcd358cf2eb4b3c2cd.pdf
 https://www.acens.com/wp-content/images/2015/07/git-github-wp-acens.pdf
@@ -24,4 +28,6 @@ https://pepa.holla.cz/wp-content/uploads/2016/08/Express.js-Guide.pdf
 https://jonathanleemartin.com/books/sample.pdf
 http://www.vanmeegern.de/fileadmin/user_upload/PDF/Web_Development_with_Node_Express.pdf
 # firebase
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
 https://www.toptal.com/firebase/role-based-firebase-authentication
+https://medium.com/firebase-developers/patterns-for-security-with-firebase-supercharged-custom-claims-with-firestore-and-cloud-functions-bb8f46b24e11

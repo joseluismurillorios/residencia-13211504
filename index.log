@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  19 NOV 2019 02:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  19 NOV 2019 23:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -811,68 +811,47 @@ Cap\'{\i }tulo 1.
 
 ] (/Users/josemurillo/Git/thesis/chapters/chapter01/motivation.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/proposal.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/general.tex) (/Users/josemurillo/Git/thesis/chapters/chapter01/specific.tex [2]) [3]
 Cap\'{\i }tulo 2.
-(/Users/josemurillo/Git/thesis/chapters/chapter02/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter02/mern.tex
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
-Make it at least 14.49998pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
-
-[4
+(/Users/josemurillo/Git/thesis/chapters/chapter02/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter02/mern/intro.tex [4
 
 ]
-<./images/mean.png, id=401, 991.705pt x 238.8925pt>
+<./images/mean.png, id=402, 991.705pt x 238.8925pt>
 File: ./images/mean.png Graphic file (type png)
 <use ./images/mean.png>
-Package pdftex.def Info: ./images/mean.png  used on input line 19.
+Package pdftex.def Info: ./images/mean.png  used on input line 20.
 (pdftex.def)             Requested size: 397.48499pt x 95.74849pt.
- [5]
-<./images/sql-nosql.png, id=407, 1031.855pt x 546.04pt>
+ [5] (/Users/josemurillo/Git/thesis/chapters/chapter02/mern/nosql.tex [6 <./images/mean.png>]
+<./images/sql-nosql.png, id=414, 1031.855pt x 546.04pt>
 File: ./images/sql-nosql.png Graphic file (type png)
 <use ./images/sql-nosql.png>
-Package pdftex.def Info: ./images/sql-nosql.png  used on input line 31.
+Package pdftex.def Info: ./images/sql-nosql.png  used on input line 13.
 (pdftex.def)             Requested size: 397.48499pt x 210.33853pt.
- [6 <./images/mean.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-
- []
-
-[7 <./images/sql-nosql.png>]) [8] (/Users/josemurillo/Git/thesis/chapters/chapter02/fern.tex
-<./images/fern.png, id=423, 800.9925pt x 471.7625pt>
+) (/Users/josemurillo/Git/thesis/chapters/chapter02/mern/angular-react.tex) [7 <./images/sql-nosql.png>]) [8] (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/intro.tex
+<./images/fern.png, id=425, 800.9925pt x 471.7625pt>
 File: ./images/fern.png Graphic file (type png)
 <use ./images/fern.png>
-Package pdftex.def Info: ./images/fern.png  used on input line 20.
+Package pdftex.def Info: ./images/fern.png  used on input line 15.
 (pdftex.def)             Requested size: 317.9892pt x 187.29074pt.
- [9]
-<./images/firestore.jpg, id=428, 2047.65pt x 1194.4625pt>
+ [9] (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/firestore.tex
+<./images/firestore.jpg, id=430, 2047.65pt x 1194.4625pt>
 File: ./images/firestore.jpg Graphic file (type jpg)
 <use ./images/firestore.jpg>
-Package pdftex.def Info: ./images/firestore.jpg  used on input line 28.
+Package pdftex.def Info: ./images/firestore.jpg  used on input line 7.
 (pdftex.def)             Requested size: 357.73405pt x 208.66954pt.
- [10 <./images/fern.png>]
-<./images/node.png, id=434, 726.715pt x 377.41pt>
+) [10 <./images/fern.png>] (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/node.tex
+<./images/node.png, id=436, 726.715pt x 377.41pt>
 File: ./images/node.png Graphic file (type png)
 <use ./images/node.png>
-Package pdftex.def Info: ./images/node.png  used on input line 36.
+Package pdftex.def Info: ./images/node.png  used on input line 7.
 (pdftex.def)             Requested size: 317.9892pt x 165.14525pt.
- [11 <./images/firestore.jpg>] [12 <./images/node.png>] (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+ [11 <./images/firestore.jpg>]) (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/npm.tex [12 <./images/node.png>] (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 64--69
-
- []
-
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 69.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1cmtt.fd
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 24.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [13]
-Underfull \hbox (badness 10000) in paragraph at lines 75--78
-
- []
-
-(/Users/josemurillo/Git/thesis/code/express.js
+)) [13] (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/express.tex (/Users/josemurillo/Git/thesis/code/express.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -964,18 +943,13 @@ Package xcolor Warning: Incompatible color definition on input line 7.
 
 Package xcolor Warning: Incompatible color definition on input line 7.
 
-) [14]
-<./images/components.png, id=474, 909.3975pt x 758.835pt>
+)) (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/react.tex [14]
+<./images/components.png, id=478, 909.3975pt x 758.835pt>
 File: ./images/components.png Graphic file (type png)
 <use ./images/components.png>
-Package pdftex.def Info: ./images/components.png  used on input line 88.
+Package pdftex.def Info: ./images/components.png  used on input line 9.
 (pdftex.def)             Requested size: 317.9892pt x 265.34149pt.
- [15]
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
-
- []
-
-[16 <./images/components.png>] (/Users/josemurillo/Git/thesis/code/react-example.js
+ [15] [16 <./images/components.png>] (/Users/josemurillo/Git/thesis/code/react-example.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -1039,7 +1013,7 @@ Package xcolor Warning: Incompatible color definition on input line 25.
 
 Package xcolor Warning: Incompatible color definition on input line 25.
 
-)) [17] [18] (/Users/josemurillo/Git/thesis/chapters/chapter02/jsx.tex
+))) [17] [18] (/Users/josemurillo/Git/thesis/chapters/chapter02/jsx.tex
 Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
@@ -1070,7 +1044,7 @@ Package xcolor Warning: Incompatible color definition on input line 18.
 Package xcolor Warning: Incompatible color definition on input line 21.
 
 ) [20]) [21] (/Users/josemurillo/Git/thesis/chapters/chapter02/git.tex
-<./images/git.png, id=569, 847.165pt x 730.73pt>
+<./images/git.png, id=573, 847.165pt x 730.73pt>
 File: ./images/git.png Graphic file (type png)
 <use ./images/git.png>
 Package pdftex.def Info: ./images/git.png  used on input line 9.
@@ -1083,7 +1057,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--11
 [22])) [23 <./images/git.png>]
 Cap\'{\i }tulo 3.
 (/Users/josemurillo/Git/thesis/chapters/chapter03/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter03/ecommerce.tex
-<./images/rosesland.png, id=579, 939.51pt x 794.97pt>
+<./images/rosesland.png, id=583, 939.51pt x 794.97pt>
 File: ./images/rosesland.png Graphic file (type png)
 <use ./images/rosesland.png>
 Package pdftex.def Info: ./images/rosesland.png  used on input line 5.
@@ -1091,13 +1065,13 @@ Package pdftex.def Info: ./images/rosesland.png  used on input line 5.
  [24
 
 ]
-<./images/shopify.png, id=584, 937.5025pt x 558.085pt>
+<./images/shopify.png, id=588, 937.5025pt x 558.085pt>
 File: ./images/shopify.png Graphic file (type png)
 <use ./images/shopify.png>
 Package pdftex.def Info: ./images/shopify.png  used on input line 18.
 (pdftex.def)             Requested size: 357.73405pt x 212.95161pt.
 ) [25 <./images/rosesland.png>] (/Users/josemurillo/Git/thesis/chapters/chapter03/requirements.tex [26 <./images/shopify.png>] [27] [28]
-<./images/app.jpg, id=608, 457.71pt x 965.6075pt>
+<./images/app.jpg, id=612, 457.71pt x 965.6075pt>
 File: ./images/app.jpg Graphic file (type jpg)
 <use ./images/app.jpg>
 Package pdftex.def Info: ./images/app.jpg  used on input line 50.
@@ -1170,7 +1144,7 @@ Package xcolor Warning: Incompatible color definition on input line 11.
 Package xcolor Warning: Incompatible color definition on input line 11.
 
 )) [31] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/node-server.tex
-<./images/node-traditional.png, id=636, 835.12pt x 588.1975pt>
+<./images/node-traditional.png, id=640, 835.12pt x 588.1975pt>
 File: ./images/node-traditional.png Graphic file (type png)
 <use ./images/node-traditional.png>
 Package pdftex.def Info: ./images/node-traditional.png  used on input line 6.
@@ -1240,7 +1214,7 @@ Package xcolor Warning: Incompatible color definition on input line 9.
 Package xcolor Warning: Incompatible color definition on input line 9.
 
 )) (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/express-server.tex [34]
-<./images/express-router.png, id=666, 796.9775pt x 449.68pt>
+<./images/express-router.png, id=672, 796.9775pt x 449.68pt>
 File: ./images/express-router.png Graphic file (type png)
 <use ./images/express-router.png>
 Package pdftex.def Info: ./images/express-router.png  used on input line 10.
@@ -1574,34 +1548,34 @@ Package xcolor Warning: Incompatible color definition on input line 37.
 Package xcolor Warning: Incompatible color definition on input line 37.
 
 )) [36] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/firebase.tex
-<./images/firebase-01.png, id=717, 941.5175pt x 293.095pt>
+<./images/firebase-01.png, id=723, 941.5175pt x 293.095pt>
 File: ./images/firebase-01.png Graphic file (type png)
 <use ./images/firebase-01.png>
 Package pdftex.def Info: ./images/firebase-01.png  used on input line 6.
 (pdftex.def)             Requested size: 397.48499pt x 123.73859pt.
-<./images/firebase-02.png, id=718, 941.5175pt x 558.085pt>
+<./images/firebase-02.png, id=724, 941.5175pt x 558.085pt>
 File: ./images/firebase-02.png Graphic file (type png)
 <use ./images/firebase-02.png>
 Package pdftex.def Info: ./images/firebase-02.png  used on input line 15.
 (pdftex.def)             Requested size: 397.48499pt x 235.61185pt.
-<./images/firebase-03.png, id=719, 941.5175pt x 381.425pt>
+<./images/firebase-03.png, id=725, 941.5175pt x 381.425pt>
 File: ./images/firebase-03.png Graphic file (type png)
 <use ./images/firebase-03.png>
 Package pdftex.def Info: ./images/firebase-03.png  used on input line 22.
 (pdftex.def)             Requested size: 397.48499pt x 161.02966pt.
  [37 <./images/firebase-01.png> <./images/firebase-02.png>]
-<./images/firebase-04.png, id=729, 943.525pt x 479.7925pt>
+<./images/firebase-04.png, id=735, 943.525pt x 479.7925pt>
 File: ./images/firebase-04.png Graphic file (type png)
 <use ./images/firebase-04.png>
 Package pdftex.def Info: ./images/firebase-04.png  used on input line 29.
 (pdftex.def)             Requested size: 397.48499pt x 202.12643pt.
-<./images/firebase-05.png, id=730, 939.51pt x 608.2725pt>
+<./images/firebase-05.png, id=736, 939.51pt x 608.2725pt>
 File: ./images/firebase-05.png Graphic file (type png)
 <use ./images/firebase-05.png>
 Package pdftex.def Info: ./images/firebase-05.png  used on input line 36.
 (pdftex.def)             Requested size: 397.48499pt x 257.34756pt.
  [38 <./images/firebase-03.png> <./images/firebase-04.png>]
-<./images/firebase-06.png, id=742, 945.5325pt x 489.83pt>
+<./images/firebase-06.png, id=748, 945.5325pt x 489.83pt>
 File: ./images/firebase-06.png Graphic file (type png)
 <use ./images/firebase-06.png>
 Package pdftex.def Info: ./images/firebase-06.png  used on input line 43.
@@ -1714,7 +1688,7 @@ Package xcolor Warning: Incompatible color definition on input line 25.
 Package xcolor Warning: Incompatible color definition on input line 25.
 
 ) [41]
-<./images/firebase-auth.png, id=816, 835.12pt x 144.54pt>
+<./images/firebase-auth.png, id=822, 835.12pt x 144.54pt>
 File: ./images/firebase-auth.png Graphic file (type png)
 <use ./images/firebase-auth.png>
 Package pdftex.def Info: ./images/firebase-auth.png  used on input line 70.
@@ -1863,7 +1837,7 @@ Package xcolor Warning: Incompatible color definition on input line 8.
 Package xcolor Warning: Incompatible color definition on input line 11.
 
 )) (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/webhooks.tex [45]
-<./images/webhook.png, id=895, 939.51pt x 556.0775pt>
+<./images/webhook.png, id=902, 939.51pt x 556.0775pt>
 File: ./images/webhook.png Graphic file (type png)
 <use ./images/webhook.png>
 Package pdftex.def Info: ./images/webhook.png  used on input line 9.
@@ -2008,7 +1982,7 @@ Package xcolor Warning: Incompatible color definition on input line 24.
 Package xcolor Warning: Incompatible color definition on input line 28.
 
 )) [47] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/sockets.tex
-<./images/websocket.png, id=940, 975.645pt x 533.995pt>
+<./images/websocket.png, id=946, 975.645pt x 533.995pt>
 File: ./images/websocket.png Graphic file (type png)
 <use ./images/websocket.png>
 Package pdftex.def Info: ./images/websocket.png  used on input line 9.
@@ -2111,7 +2085,7 @@ Package xcolor Warning: Incompatible color definition on input line 33.
 Package xcolor Warning: Incompatible color definition on input line 33.
 
 ))) [49] (/Users/josemurillo/Git/thesis/chapters/chapter03/frontend/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter03/frontend/redux.tex
-<./images/flux-redux.png, id=987, 993.7125pt x 752.8125pt>
+<./images/flux-redux.png, id=993, 993.7125pt x 752.8125pt>
 File: ./images/flux-redux.png Graphic file (type png)
 <use ./images/flux-redux.png>
 Package pdftex.def Info: ./images/flux-redux.png  used on input line 8.
@@ -2432,13 +2406,28 @@ Package xcolor Warning: Incompatible color definition on input line 25.
 Package xcolor Warning: Incompatible color definition on input line 25.
 
 ))) [53]
+Overfull \hbox (9.42114pt too wide) in paragraph at lines 119--119
+\T1/cmtt/m/n/12 / / www . vanmeegern . de / fileadmin / user _ upload / PDF / Web _ Development _
+ []
+
+
 Overfull \hbox (16.68259pt too wide) in paragraph at lines 119--119
 []\T1/cmr/m/n/12 Firebase. \T1/cmr/m/it/12 Tran-sac-cio-nes y es-cri-tu-ras en lo-tes\T1/cmr/m/n/12 . 2019. \T1/cmr/m/sc/12 url\T1/cmr/m/n/12 : []$\T1/cmtt/m/n/12 https : / / firebase .
  []
 
 
+Overfull \hbox (3.71954pt too wide) in paragraph at lines 119--119
+[]\T1/cmr/m/n/12 GoalKicker. \T1/cmr/m/it/12 No-de.js - No-tes for Pro-fes-sio-nals\T1/cmr/m/n/12 . \T1/cmr/m/sc/12 url\T1/cmr/m/n/12 : []$\T1/cmtt/m/n/12 https : / / goalkicker .
+ []
+
+
 Overfull \hbox (13.59442pt too wide) in paragraph at lines 119--119
 []\T1/cmr/m/n/12 Fionn Ke-lleher. \T1/cmr/m/it/12 Un-ders-tan-ding Soc-ket.IO\T1/cmr/m/n/12 . 2014. \T1/cmr/m/sc/12 url\T1/cmr/m/n/12 : []$\T1/cmtt/m/n/12 https : / / nodesource .
+ []
+
+
+Overfull \hbox (1.42767pt too wide) in paragraph at lines 119--119
+[]\T1/cmr/m/n/12 Srinivasan Su-bra-ma-nian. \T1/cmr/m/it/12 Why MERN? \T1/cmr/m/n/12 2017. \T1/cmr/m/sc/12 url\T1/cmr/m/n/12 : []$\T1/cmtt/m/n/12 https : / / www . apress .
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
@@ -2461,18 +2450,18 @@ Package logreq Info: Writing requests to 'index.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
  ) 
 Here is how much of TeX's memory you used:
- 20562 strings out of 492167
- 340446 string characters out of 6125388
- 890159 words of memory out of 5000000
- 24047 multiletter control sequences out of 15000+600000
- 19899 words of font info for 46 fonts, out of 8000000 for 9000
+ 20602 strings out of 492167
+ 342138 string characters out of 6125388
+ 890306 words of memory out of 5000000
+ 24063 multiletter control sequences out of 15000+600000
+ 19078 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,11n,60p,6813b,2429s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,7n,60p,6813b,2429s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pfb>
-Output written on /Users/josemurillo/Git/thesis/index.pdf (66 pages, 2820515 bytes).
+Output written on /Users/josemurillo/Git/thesis/index.pdf (66 pages, 2824623 bytes).
 PDF statistics:
- 1235 PDF objects out of 1440 (max. 8388607)
- 1099 compressed objects within 11 object streams
- 546 named destinations out of 1000 (max. 500000)
+ 1250 PDF objects out of 1440 (max. 8388607)
+ 1113 compressed objects within 12 object streams
+ 549 named destinations out of 1000 (max. 500000)
  500 words of extra memory for PDF output out of 10000 (max. 10000000)
 
