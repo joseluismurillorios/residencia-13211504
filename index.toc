@@ -23,124 +23,124 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.1}Componentes MEAN}{5}{subsection.2.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}Base de datos NOSQL}{6}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.2}Beneficios}{6}{subsection.2.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.3}Orientado a documentos}{6}{subsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.1.3}Desventajas}{6}{subsection.2.1.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.4}Angular/React}{7}{subsection.2.1.4}% 
+\contentsline {subsection}{\numberline {2.1.4}Base de datos NoSQL}{7}{subsection.2.1.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.5}Beneficios}{8}{subsection.2.1.5}% 
+\contentsline {subsection}{\numberline {2.1.5}Orientado a documentos}{8}{subsection.2.1.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.6}Desventajas}{8}{subsection.2.1.6}% 
+\contentsline {subsection}{\numberline {2.1.6}Angular/React}{9}{subsection.2.1.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}FERN}{9}{section.2.2}% 
+\contentsline {section}{\numberline {2.2}FERN}{10}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Componentes}{9}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.1}Componentes FERN}{10}{subsection.2.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Cloud Firestore}{10}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.2}Cloud Firestore}{11}{subsection.2.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}Node.js}{11}{subsection.2.2.3}% 
+\contentsline {subsection}{\numberline {2.2.3}Node.js}{12}{subsection.2.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Motor V8 de Google Chrome}{12}{section*.11}% 
+\contentsline {subsubsection}{Motor V8 de Google Chrome}{13}{section*.13}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.4}El ecosistema NPM}{12}{subsection.2.2.4}% 
+\contentsline {subsection}{\numberline {2.2.4}El ecosistema NPM}{13}{subsection.2.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Sitio web}{13}{section*.12}% 
+\contentsline {subsubsection}{Sitio web}{14}{section*.15}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Registro}{13}{section*.13}% 
+\contentsline {subsubsection}{Registro}{14}{section*.16}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{CLI (interfaz de línea de comando)}{13}{section*.14}% 
+\contentsline {subsubsection}{CLI (interfaz de línea de comando)}{14}{section*.17}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.5}Comandos NPM}{13}{subsection.2.2.5}% 
+\contentsline {subsection}{\numberline {2.2.5}Comandos NPM}{14}{subsection.2.2.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.6}Express.js}{14}{subsection.2.2.6}% 
+\contentsline {subsection}{\numberline {2.2.6}Express.js}{15}{subsection.2.2.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.7}React.js}{15}{subsection.2.2.7}% 
+\contentsline {subsection}{\numberline {2.2.7}React.js}{16}{subsection.2.2.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.8}Componentes React}{15}{subsection.2.2.8}% 
+\contentsline {subsection}{\numberline {2.2.8}Componentes React}{16}{subsection.2.2.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.9}DOM Virtual}{18}{subsection.2.2.9}% 
+\contentsline {subsection}{\numberline {2.2.9}DOM Virtual}{19}{subsection.2.2.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Preprocesamiento}{19}{section.2.3}% 
+\contentsline {section}{\numberline {2.3}Preprocesamiento}{20}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}ES5/ES6}{19}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.1}ES5/ES6}{20}{subsection.2.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{JSX}{19}{section*.16}% 
+\contentsline {subsubsection}{JSX}{20}{section*.19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{BabelJS}{20}{section*.17}% 
+\contentsline {subsubsection}{BabelJS}{21}{section*.20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Sass (Syntactically Awesome Style Sheets)}{21}{section*.18}% 
+\contentsline {subsubsection}{Sass (Syntactically Awesome Style Sheets)}{22}{section*.21}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Webpack}{21}{section*.19}% 
+\contentsline {subsubsection}{Webpack}{22}{section*.22}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Control de versiones}{22}{section.2.4}% 
+\contentsline {section}{\numberline {2.4}Control de versiones}{23}{section.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.1}Git}{22}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.1}Git}{23}{subsection.2.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Análisis y diseño del sistema}{24}{chapter.3}% 
+\contentsline {chapter}{\numberline {3}Análisis y diseño del sistema}{25}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}E-Commerce (Comercio electrónico)}{24}{section.3.1}% 
+\contentsline {section}{\numberline {3.1}E-Commerce (Comercio electrónico)}{25}{section.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Shopify}{25}{section*.22}% 
+\contentsline {subsubsection}{Shopify}{26}{section*.25}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Requerimientos del proyecto}{26}{section.3.2}% 
+\contentsline {section}{\numberline {3.2}Requerimientos del proyecto}{27}{section.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Herramientas}{27}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.1}Herramientas}{28}{subsection.3.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Dependencias de desarrollo}{27}{section*.24}% 
+\contentsline {subsubsection}{Dependencias de desarrollo}{28}{section*.27}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Estructura del proyecto}{28}{section*.25}% 
+\contentsline {subsubsection}{Estructura del proyecto}{29}{section*.28}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Directorios}{28}{section*.26}% 
+\contentsline {subsubsection}{Directorios}{29}{section*.29}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Archivos principales}{29}{section*.27}% 
+\contentsline {subsubsection}{Archivos principales}{30}{section*.30}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Variables del entorno}{31}{section*.29}% 
+\contentsline {subsubsection}{Variables del entorno}{32}{section*.32}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Configuración del servidor (Backend)}{32}{section.3.3}% 
+\contentsline {section}{\numberline {3.3}Configuración del servidor (Backend)}{33}{section.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Servidor NodeJS}{32}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.1}Servidor NodeJS}{33}{subsection.3.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Programación basada en eventos}{34}{section*.31}% 
+\contentsline {subsubsection}{Programación basada en eventos}{35}{section*.34}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Configuración Express}{35}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.2}Configuración Express}{36}{subsection.3.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Enrutamiento}{35}{section*.32}% 
+\contentsline {subsubsection}{Enrutamiento}{36}{section*.35}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Configuración Firebase}{37}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.3}Configuración Firebase}{38}{subsection.3.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Configuración de Firebase Firestore en Node.js}{40}{section*.40}% 
+\contentsline {subsubsection}{Configuración de Firebase Firestore en Node.js}{41}{section*.43}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Escrituras en lotes}{41}{section*.41}% 
+\contentsline {subsubsection}{Escrituras en lotes}{42}{section*.44}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.4}Autenticación}{42}{subsection.3.3.4}% 
+\contentsline {subsection}{\numberline {3.3.4}Autenticación}{43}{subsection.3.3.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Autenticación basada en roles}{42}{section*.42}% 
+\contentsline {subsubsection}{Autenticación basada en roles}{43}{section*.45}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Firebase Custom Claims}{42}{section*.44}% 
+\contentsline {subsubsection}{Firebase Custom Claims}{43}{section*.47}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.5}Integración con Shopify}{44}{subsection.3.3.5}% 
+\contentsline {subsection}{\numberline {3.3.5}Integración con Shopify}{45}{subsection.3.3.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.6}Webhooks}{45}{subsection.3.3.6}% 
+\contentsline {subsection}{\numberline {3.3.6}Webhooks}{46}{subsection.3.3.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.7}Webhooks Shopify}{45}{subsection.3.3.7}% 
+\contentsline {subsection}{\numberline {3.3.7}Webhooks Shopify}{46}{subsection.3.3.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.8}Configuración de webhook en Express.js}{47}{subsection.3.3.8}% 
+\contentsline {subsection}{\numberline {3.3.8}Configuración de webhook en Express.js}{48}{subsection.3.3.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.9}Websockets con Socket.IO}{48}{subsection.3.3.9}% 
+\contentsline {subsection}{\numberline {3.3.9}Websockets con Socket.IO}{49}{subsection.3.3.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Desarrollo de la aplicación web (Frontend)}{50}{section.3.4}% 
+\contentsline {section}{\numberline {3.4}Desarrollo de la aplicación web (Frontend)}{51}{section.3.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}Patrones de diseño}{50}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.1}Patrones de diseño}{51}{subsection.3.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.2}Redux}{50}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.4.2}Redux}{51}{subsection.3.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Redux/Flux}{50}{section*.47}% 
+\contentsline {subsubsection}{Redux/Flux}{51}{section*.50}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Redux Store}{51}{section*.49}% 
+\contentsline {subsubsection}{Redux Store}{52}{section*.52}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Redux Reducer}{52}{section*.50}% 
+\contentsline {subsubsection}{Redux Reducer}{53}{section*.53}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Acciones Redux}{52}{section*.51}% 
+\contentsline {subsubsection}{Acciones Redux}{53}{section*.54}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Integración React/Redux}{53}{section.3.5}% 
+\contentsline {section}{\numberline {3.5}Integración React/Redux}{55}{section.3.5}% 

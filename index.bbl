@@ -170,6 +170,34 @@
       \endverb
       \keyw{node,javascript}
     \endentry
+    \entry{stefanov}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a4bf6558e723fe21d97b5a0fd026ff63}{%
+           family={Stefanov},
+           familyi={S\bibinitperiod},
+           given={Stoyan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4bf6558e723fe21d97b5a0fd026ff63}
+      \strng{fullhash}{a4bf6558e723fe21d97b5a0fd026ff63}
+      \strng{bibnamehash}{a4bf6558e723fe21d97b5a0fd026ff63}
+      \strng{authorbibnamehash}{a4bf6558e723fe21d97b5a0fd026ff63}
+      \strng{authornamehash}{a4bf6558e723fe21d97b5a0fd026ff63}
+      \strng{authorfullhash}{a4bf6558e723fe21d97b5a0fd026ff63}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{React: Up and Running}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb http://www.phpied.com/files/react/book/reactbook1-4.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.phpied.com/files/react/book/reactbook1-4.pdf
+      \endverb
+      \keyw{react,facebook}
+    \endentry
     \entry{storefront}{online}{}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}

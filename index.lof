@@ -5,38 +5,38 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Flujo de informacion en MEAN Stack.\relax }}{6}{figure.caption.6}% 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Flujo de información en MEAN Stack.\relax }}{6}{figure.caption.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Diagrama que representa las diferencias clave entre la base de datos SQL y las bases de datos NoSQL.\relax }}{7}{figure.caption.7}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Diagrama que representa las diferencias clave entre la base de datos SQL y las bases de datos NoSQL.\relax }}{8}{figure.caption.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Flujo de información en FERN Stack.\relax }}{10}{figure.caption.8}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Flujo de información en FERN Stack.\relax }}{10}{figure.caption.10}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Colección de Firestore con sus documentos internos.\relax }}{11}{figure.caption.9}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Colección de Firestore con sus documentos internos.\relax }}{11}{figure.caption.11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Analogía Node.js con Java.\relax }}{12}{figure.caption.10}% 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Analogía Node.js con Java.\relax }}{12}{figure.caption.12}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Componentes principales de una página web.\relax }}{16}{figure.caption.15}% 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Componentes principales de una página web.\relax }}{17}{figure.caption.18}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Diferencias entre controladores de versiones.\relax }}{23}{figure.caption.20}% 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Diferencias entre controladores de versiones.\relax }}{24}{figure.caption.23}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Tienda en linea actual de la empresa.\relax }}{25}{figure.caption.21}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Tienda en linea actual de la empresa.\relax }}{26}{figure.caption.24}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Interfaz del administrador Shopify.\relax }}{26}{figure.caption.23}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Interfaz del administrador Shopify.\relax }}{27}{figure.caption.26}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Vista general de la raíz del proyecto.\relax }}{30}{figure.caption.28}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Vista general de la raíz del proyecto.\relax }}{31}{figure.caption.31}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Comparación de node y servidores tradicionales.\relax }}{33}{figure.caption.30}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Comparación de node y servidores tradicionales.\relax }}{34}{figure.caption.33}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Cada función de middleware en la pila se ejecuta antes que las que están debajo de ella.\relax }}{35}{figure.caption.33}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Cada función de middleware en la pila se ejecuta antes que las que están debajo de ella.\relax }}{36}{figure.caption.36}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Consola de Google Firebase.\relax }}{37}{figure.caption.34}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Consola de Google Firebase.\relax }}{38}{figure.caption.37}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Autenticación basada en roles.\relax }}{42}{figure.caption.43}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Autenticación basada en roles.\relax }}{43}{figure.caption.46}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Panel para crear webhooks en Shopify.\relax }}{46}{figure.caption.45}% 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Panel para crear webhooks en Shopify.\relax }}{47}{figure.caption.48}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Comparación de transporte por sondeo (Ajax) y websockets (Socket.IO).\relax }}{48}{figure.caption.46}% 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Comparación de transporte por sondeo (Ajax) y websockets (Socket.IO).\relax }}{49}{figure.caption.49}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Comparación Flux/Redux.\relax }}{51}{figure.caption.48}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Comparación Flux/Redux.\relax }}{52}{figure.caption.51}% 

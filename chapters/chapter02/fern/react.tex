@@ -26,4 +26,8 @@ Dentro de un componente, tendremos subcomponentes o componentes dentro de un com
 \lstinputlisting[style=ES6, caption=Ejemplo de página con componentes React.js]{code/react-example.js}
 
 \subsection{DOM Virtual}
-React utiliza un DOM virtual, que es una representación virtual del DOM (Document Object Model). Detrás de escena, React hace un gran trabajo para editar y volver a renderizar eficientemente el DOM cuando algo en la interfaz necesita cambiar.
+En el desarrollo web de software, DOM significa Modelo de Objeto de Documento (Document Object Model) y representa la estructura de los elementos en una página web. El HTML DOM se construye como un árbol de objetos.
+
+Algunas bibliotecas de JavaScript, como jQuery, manipulan los elementos DOM directamente, cambiando sus atributos, agregando o eliminando componentes. Sin embargo, en lugar de cambiar el DOM directamente, React usa un DOM virtual, que es una replicación virtual del árbol DOM actual. En consecuencia, React puede manipular el DOM virtual innumerables veces y comparar su estado con el DOM real. De esta manera, React sabe exactamente qué elemento cambió y luego actualiza solo ese elemento específico en la pantalla.
+
+Detrás de escena, React hace un gran trabajo para editar y volver a renderizar eficientemente el DOM cuando algo en la interfaz necesita cambiar. Este enfoque le brinda al desarrollador una gran flexibilidad y sorprendentes ganancias de rendimiento porque React.js calcula con anticipación qué cambios se deben realizar en el DOM y actualiza los árboles DOM en consecuencia. De esta manera, React.js evita las costosas operaciones DOM y realiza actualizaciones de manera eficiente \cite{stefanov}.

@@ -1,11 +1,16 @@
-En comparación con LAMP, el paquete de aplicaciones MEAN es bastante nuevo. Una de sus mayores diferencias es que MEAN no depende de un sistema operativo específico. Node.js se encarga de la ejecución del lado del servidor. MEAN Stack se recomienda especialmente para desarrolladores de JavaScript, ya que utiliza JavaScript en todos los niveles, tanto para el código del lado del cliente, así como el código del lado del servidor. Angular, el potente \textit{framework} de \textit{front-end}, utiliza un patrón de diseño Modelo-Vista-Controlador. A medida que React crece en popularidad, ha presentado una opción alternativa para el desarrollo \textit{frontend}, aunque React es simplemente una biblioteca, no un \textit{framework} MVC completo. MongoDB es un juega un papel importante y una opción increíblemente popular en el mundo de la gestión de bases de datos NoSQL. Node.js le permite al programador escribir el back-end de la aplicación en Javascript, Express.js se usa encima de Node para manejar las solicitudes de enrutamiento y proporcionar una API REST, o incluso puede usarse para generar el HTML final para ser utilizado por el \textit{framework} de \textit{front-end} \cite{srinivasan}.
+En comparación con LAMP, el paquete de aplicaciones MEAN es bastante nuevo. Una de sus mayores diferencias es que MEAN no depende de un sistema operativo específico. Node.js se encarga de la ejecución del lado del servidor. MEAN Stack se recomienda especialmente para desarrolladores de JavaScript, ya que utiliza JavaScript en todos los niveles, tanto para el código del lado del cliente, así como el código del lado del servidor \cite{srinivasan}.
+\vspace{0.8cm}
 
 \subsection{Componentes MEAN}
 \begin{itemize}
-  \item MongoDB (base de datos)
-  \item Express.js (servidor)
-  \item Angular.js (cliente)
-  \item Node.js (entorno del servidor)
+  \item MongoDB (base de datos)\\
+  Una opción increíblemente popular en el mundo de la gestión de bases de datos NoSQL.
+  \item Express.js (servidor)\\
+  Para manejar las solicitudes de enrutamiento y proporcionar una API REST, o incluso puede usarse para generar el HTML final para ser utilizado por el framework de \textit{frontend}.
+  \item Angular.js / React.js (cliente)\\
+  Es un potente framework \textit{frontend}, utiliza un patrón de diseño Modelo-Vista-Controlador. React.js es una opción alternativa para el desarrollo \textit{frontend}, aunque React es simplemente una biblioteca, no un framework MVC completo.
+  \item Node.js (entorno del servidor)\\
+  Permite al programador escribir el \textit{backend} de la aplicación en Javascript y ejecutarlo en la mayoría de los sistemas operativos modernos.
 \end{itemize}
 
 Derivados:
@@ -13,22 +18,23 @@ Derivados:
 \begin{itemize}
   \item MERN (React.js en lugar de Angular.js)
   \item MEEN (Ember.js en lugar de Angular.js)
-\end{itemize}
+\end{itemize} 
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=1\textwidth]{mean}
-  \caption{Flujo de informacion en MEAN Stack.}
+  \caption{Flujo de información en MEAN Stack.}
 \end{figure}
-
-\subsection{Base de datos NOSQL}
-\input{chapters/chapter02/mern/nosql}
-
-\subsection{Angular/React}
-\input{chapters/chapter02/mern/angular-react}
 
 \subsection{Beneficios}
 Usar JavaScript como el lenguaje de programación principal es una gran ventaja. Todo se puede configurar rápidamente y hacer en JavaScript, lo que hace que sea mucho más fácil encontrar desarrolladores, y los desarrolladores de LAMP generalmente también conocen JavaScript. Otra gran ventaja es la capacidad de crear fácilmente aplicaciones móviles o de escritorio, por ejemplo con Ionic. El código y los componentes se pueden reutilizar o agregar fácilmente.
 
 \subsection{Desventajas}
 Muchas librerías y \textit{frameworks} son bastante nuevos, y las nuevas versiones se lanzan rápidamente, por lo que mantener una aplicación puede ser una molestia. Dado que muchas tecnologías desaparecen después de unos años, la sostenibilidad puede convertirse en un problema. También es más difícil mantener una base de código limpia y seguir las mejores prácticas a medida que su aplicación crece. Además, debe confiar en el cliente y las tecnologías disponibles del cliente.
+
+\newpage
+\subsection{Base de datos NoSQL}
+\input{chapters/chapter02/mern/nosql}
+
+\subsection{Angular/React}
+\input{chapters/chapter02/mern/angular-react}

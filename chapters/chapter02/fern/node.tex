@@ -2,6 +2,8 @@ Node.js es un entorno multiplataforma de código abierto para ejecutar código J
 \vspace{0.8cm}
 
 Node.js surgió cuando los desarrolladores originales de JavaScript lo extendieron de algo que solo podía ejecutar en el navegador a algo que podría ejecutar en su máquina como una aplicación independiente. Ahora puede hacer mucho más con JavaScript que simplemente hacer que los sitios web sean interactivos. JavaScript ahora tiene la capacidad de hacer cosas que otros lenguajes de secuencias de comandos como Python pueden hacer. Tanto su navegador JavaScript como Node.js se ejecutan en el motor de tiempo de ejecución JavaScript V8. Este motor toma su código JavaScript y lo convierte en un código de máquina más rápido. El código de máquina es un código de bajo nivel que la computadora puede ejecutar sin necesidad de interpretarlo primero.
+\vspace{0.8cm}
+
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.8\textwidth]{node}
@@ -14,3 +16,42 @@ Node.js utiliza el motor de ejecución ultra rápido V8 de Google Chrome. Hasta 
 \vspace{0.8cm}
 
 El motor V8 de Google Chrome funciona completamente diferente. Está altamente optimizado y lleva a cabo lo que llamamos compilación JIT (Just In Time). Transforma rápidamente el código JavaScript en lenguaje máquina.
+\vspace{0.8cm}
+
+\begin{table}[H]
+  \renewcommand{\arraystretch}{1.5}
+  \centering
+  \scriptsize
+  \begin{tabular}{ |p{2cm}||p{5cm}|p{5cm}|  }
+    \hline
+        Navegador
+      & Motor de renderizado / diseño
+      & Motor de secuencias de comandos \\
+    \hline
+        Chrome
+      & Blink (C++)
+      & V8 (C++) \\
+    \hline
+    \hline
+        Mozilla Firefox
+      & Gecko (C++)
+      & SpiderMonkey (C/C++) \\
+    \hline
+    \hline
+        IE Edge
+      & EdgeHTML (C++)
+      & Chakra JavaScript engine (C++) \\
+    \hline
+    \hline
+    Opera
+      & Blink (C++)
+      & V8 (C++) \\
+    \hline
+    Internet Explorer
+      & Trident (C++)
+      & Chakra JScript engine (C++) \\
+    \hline
+  \end{tabular}
+  \caption{Motores de renderizado y secuencias de comandos}
+\end{table}
+\vspace{0.8cm}
