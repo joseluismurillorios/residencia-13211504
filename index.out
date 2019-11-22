@@ -21,7 +21,7 @@
 \BOOKMARK [2][-]{subsection.2.2.4}{El ecosistema NPM}{section.2.2}% 21
 \BOOKMARK [2][-]{subsection.2.2.5}{Comandos NPM}{section.2.2}% 22
 \BOOKMARK [2][-]{subsection.2.2.6}{Express.js}{section.2.2}% 23
-\BOOKMARK [2][-]{subsection.2.2.7}{React.js}{section.2.2}% 24
+\BOOKMARK [2][-]{subsection.2.2.7}{ReactJS}{section.2.2}% 24
 \BOOKMARK [2][-]{subsection.2.2.8}{Componentes React}{section.2.2}% 25
 \BOOKMARK [2][-]{subsection.2.2.9}{DOM Virtual}{section.2.2}% 26
 \BOOKMARK [1][-]{section.2.3}{Preprocesamiento}{chapter.2}% 27
@@ -45,4 +45,6 @@
 \BOOKMARK [1][-]{section.3.4}{Desarrollo de la aplicaci\363n web \(Frontend\)}{chapter.3}% 45
 \BOOKMARK [2][-]{subsection.3.4.1}{Patrones de dise\361o}{section.3.4}% 46
 \BOOKMARK [2][-]{subsection.3.4.2}{Redux}{section.3.4}% 47
-\BOOKMARK [1][-]{section.3.5}{Integraci\363n React/Redux}{chapter.3}% 48
+\BOOKMARK [2][-]{subsection.3.4.3}{Integraci\363n React/Redux}{section.3.4}% 48
+\BOOKMARK [2][-]{subsection.3.4.4}{Dise\361o At\363mico \(Atomic Design\)}{section.3.4}% 49
+\BOOKMARK [2][-]{subsection.3.4.5}{Estructura de la aplicaci\363n web}{section.3.4}% 50

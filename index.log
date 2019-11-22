@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  21 NOV 2019 00:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  22 NOV 2019 01:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,7 +762,7 @@ Package biblatex Info: ... file 'index.bbl' found.
  (/Users/josemurillo/Git/thesis/index.bbl)
 Package biblatex Info: Reference section=0 on input line 37.
 Package biblatex Info: Reference segment=0 on input line 37.
-<./images/escudo1.png, id=196, 484.209pt x 461.0826pt>
+<./images/escudo1.png, id=205, 484.209pt x 461.0826pt>
 File: ./images/escudo1.png Graphic file (type png)
 <use ./images/escudo1.png>
 Package pdftex.def Info: ./images/escudo1.png  used on input line 48.
@@ -814,7 +814,7 @@ Cap\'{\i }tulo 2.
 (/Users/josemurillo/Git/thesis/chapters/chapter02/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter02/mern/intro.tex [4
 
 ]
-<./images/mean.png, id=408, 991.705pt x 238.8925pt>
+<./images/mean.png, id=438, 991.705pt x 238.8925pt>
 File: ./images/mean.png Graphic file (type png)
 <use ./images/mean.png>
 Package pdftex.def Info: ./images/mean.png  used on input line 25.
@@ -825,7 +825,7 @@ Underfull \hbox (badness 2261) in paragraph at lines 35--36
  []
 
 [7]
-<./images/sql-nosql.png, id=426, 1031.855pt x 546.04pt>
+<./images/sql-nosql.png, id=456, 1031.855pt x 546.04pt>
 File: ./images/sql-nosql.png Graphic file (type png)
 <use ./images/sql-nosql.png>
 Package pdftex.def Info: ./images/sql-nosql.png  used on input line 56.
@@ -841,19 +841,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
  []
 
 )) [9] (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/intro.tex
-<./images/fern.png, id=436, 800.9925pt x 471.7625pt>
+<./images/fern.png, id=466, 800.9925pt x 471.7625pt>
 File: ./images/fern.png Graphic file (type png)
 <use ./images/fern.png>
 Package pdftex.def Info: ./images/fern.png  used on input line 13.
 (pdftex.def)             Requested size: 317.9892pt x 187.29074pt.
  (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/firestore.tex [10 <./images/fern.png>]
-<./images/firestore.jpg, id=442, 2047.65pt x 1194.4625pt>
+<./images/firestore.jpg, id=472, 2047.65pt x 1194.4625pt>
 File: ./images/firestore.jpg Graphic file (type jpg)
 <use ./images/firestore.jpg>
 Package pdftex.def Info: ./images/firestore.jpg  used on input line 9.
 (pdftex.def)             Requested size: 357.73405pt x 208.66954pt.
 ) (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/node.tex [11 <./images/firestore.jpg>]
-<./images/node.png, id=447, 726.715pt x 377.41pt>
+<./images/node.png, id=478, 726.715pt x 377.41pt>
 File: ./images/node.png Graphic file (type png)
 <use ./images/node.png>
 Package pdftex.def Info: ./images/node.png  used on input line 9.
@@ -959,7 +959,7 @@ Package xcolor Warning: Incompatible color definition on input line 7.
 Package xcolor Warning: Incompatible color definition on input line 7.
 
 )) (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/react.tex [15]
-<./images/components.png, id=489, 909.3975pt x 758.835pt>
+<./images/components.png, id=519, 909.3975pt x 758.835pt>
 File: ./images/components.png Graphic file (type png)
 <use ./images/components.png>
 Package pdftex.def Info: ./images/components.png  used on input line 9.
@@ -1059,7 +1059,7 @@ Package xcolor Warning: Incompatible color definition on input line 18.
 Package xcolor Warning: Incompatible color definition on input line 21.
 
 ) [21]) [22] (/Users/josemurillo/Git/thesis/chapters/chapter02/git.tex
-<./images/git.png, id=586, 847.165pt x 730.73pt>
+<./images/git.png, id=616, 847.165pt x 730.73pt>
 File: ./images/git.png Graphic file (type png)
 <use ./images/git.png>
 Package pdftex.def Info: ./images/git.png  used on input line 9.
@@ -1072,7 +1072,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--11
 [23])) [24 <./images/git.png>]
 Cap\'{\i }tulo 3.
 (/Users/josemurillo/Git/thesis/chapters/chapter03/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter03/ecommerce.tex
-<./images/rosesland.png, id=596, 939.51pt x 794.97pt>
+<./images/rosesland.png, id=626, 939.51pt x 794.97pt>
 File: ./images/rosesland.png Graphic file (type png)
 <use ./images/rosesland.png>
 Package pdftex.def Info: ./images/rosesland.png  used on input line 5.
@@ -1080,13 +1080,13 @@ Package pdftex.def Info: ./images/rosesland.png  used on input line 5.
  [25
 
 ]
-<./images/shopify.png, id=602, 937.5025pt x 558.085pt>
+<./images/shopify.png, id=632, 937.5025pt x 558.085pt>
 File: ./images/shopify.png Graphic file (type png)
 <use ./images/shopify.png>
 Package pdftex.def Info: ./images/shopify.png  used on input line 18.
 (pdftex.def)             Requested size: 357.73405pt x 212.95161pt.
 ) [26 <./images/rosesland.png>] (/Users/josemurillo/Git/thesis/chapters/chapter03/requirements.tex [27 <./images/shopify.png>] [28] [29]
-<./images/app.jpg, id=625, 457.71pt x 965.6075pt>
+<./images/app.jpg, id=655, 457.71pt x 965.6075pt>
 File: ./images/app.jpg Graphic file (type jpg)
 <use ./images/app.jpg>
 Package pdftex.def Info: ./images/app.jpg  used on input line 50.
@@ -1159,7 +1159,7 @@ Package xcolor Warning: Incompatible color definition on input line 11.
 Package xcolor Warning: Incompatible color definition on input line 11.
 
 )) [32] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/node-server.tex
-<./images/node-traditional.png, id=653, 835.12pt x 588.1975pt>
+<./images/node-traditional.png, id=683, 835.12pt x 588.1975pt>
 File: ./images/node-traditional.png Graphic file (type png)
 <use ./images/node-traditional.png>
 Package pdftex.def Info: ./images/node-traditional.png  used on input line 6.
@@ -1229,7 +1229,7 @@ Package xcolor Warning: Incompatible color definition on input line 9.
 Package xcolor Warning: Incompatible color definition on input line 9.
 
 )) (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/express-server.tex [35]
-<./images/express-router.png, id=686, 796.9775pt x 449.68pt>
+<./images/express-router.png, id=716, 796.9775pt x 449.68pt>
 File: ./images/express-router.png Graphic file (type png)
 <use ./images/express-router.png>
 Package pdftex.def Info: ./images/express-router.png  used on input line 10.
@@ -1563,34 +1563,34 @@ Package xcolor Warning: Incompatible color definition on input line 37.
 Package xcolor Warning: Incompatible color definition on input line 37.
 
 )) [37] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/firebase.tex
-<./images/firebase-01.png, id=737, 941.5175pt x 293.095pt>
+<./images/firebase-01.png, id=767, 941.5175pt x 293.095pt>
 File: ./images/firebase-01.png Graphic file (type png)
 <use ./images/firebase-01.png>
 Package pdftex.def Info: ./images/firebase-01.png  used on input line 6.
 (pdftex.def)             Requested size: 397.48499pt x 123.73859pt.
-<./images/firebase-02.png, id=738, 941.5175pt x 558.085pt>
+<./images/firebase-02.png, id=768, 941.5175pt x 558.085pt>
 File: ./images/firebase-02.png Graphic file (type png)
 <use ./images/firebase-02.png>
 Package pdftex.def Info: ./images/firebase-02.png  used on input line 15.
 (pdftex.def)             Requested size: 397.48499pt x 235.61185pt.
-<./images/firebase-03.png, id=739, 941.5175pt x 381.425pt>
+<./images/firebase-03.png, id=769, 941.5175pt x 381.425pt>
 File: ./images/firebase-03.png Graphic file (type png)
 <use ./images/firebase-03.png>
 Package pdftex.def Info: ./images/firebase-03.png  used on input line 22.
 (pdftex.def)             Requested size: 397.48499pt x 161.02966pt.
  [38 <./images/firebase-01.png> <./images/firebase-02.png>]
-<./images/firebase-04.png, id=748, 943.525pt x 479.7925pt>
+<./images/firebase-04.png, id=778, 943.525pt x 479.7925pt>
 File: ./images/firebase-04.png Graphic file (type png)
 <use ./images/firebase-04.png>
 Package pdftex.def Info: ./images/firebase-04.png  used on input line 29.
 (pdftex.def)             Requested size: 397.48499pt x 202.12643pt.
-<./images/firebase-05.png, id=749, 939.51pt x 608.2725pt>
+<./images/firebase-05.png, id=779, 939.51pt x 608.2725pt>
 File: ./images/firebase-05.png Graphic file (type png)
 <use ./images/firebase-05.png>
 Package pdftex.def Info: ./images/firebase-05.png  used on input line 36.
 (pdftex.def)             Requested size: 397.48499pt x 257.34756pt.
  [39 <./images/firebase-03.png> <./images/firebase-04.png>]
-<./images/firebase-06.png, id=761, 945.5325pt x 489.83pt>
+<./images/firebase-06.png, id=791, 945.5325pt x 489.83pt>
 File: ./images/firebase-06.png Graphic file (type png)
 <use ./images/firebase-06.png>
 Package pdftex.def Info: ./images/firebase-06.png  used on input line 43.
@@ -1703,7 +1703,7 @@ Package xcolor Warning: Incompatible color definition on input line 25.
 Package xcolor Warning: Incompatible color definition on input line 25.
 
 ) [42]
-<./images/firebase-auth.png, id=835, 835.12pt x 144.54pt>
+<./images/firebase-auth.png, id=865, 835.12pt x 144.54pt>
 File: ./images/firebase-auth.png Graphic file (type png)
 <use ./images/firebase-auth.png>
 Package pdftex.def Info: ./images/firebase-auth.png  used on input line 70.
@@ -1852,7 +1852,7 @@ Package xcolor Warning: Incompatible color definition on input line 8.
 Package xcolor Warning: Incompatible color definition on input line 11.
 
 )) (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/webhooks.tex [46]
-<./images/webhook.png, id=915, 939.51pt x 556.0775pt>
+<./images/webhook.png, id=945, 939.51pt x 556.0775pt>
 File: ./images/webhook.png Graphic file (type png)
 <use ./images/webhook.png>
 Package pdftex.def Info: ./images/webhook.png  used on input line 9.
@@ -1997,7 +1997,7 @@ Package xcolor Warning: Incompatible color definition on input line 24.
 Package xcolor Warning: Incompatible color definition on input line 28.
 
 )) [48] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/sockets.tex
-<./images/websocket.png, id=959, 975.645pt x 533.995pt>
+<./images/websocket.png, id=989, 975.645pt x 533.995pt>
 File: ./images/websocket.png Graphic file (type png)
 <use ./images/websocket.png>
 Package pdftex.def Info: ./images/websocket.png  used on input line 9.
@@ -2100,12 +2100,12 @@ Package xcolor Warning: Incompatible color definition on input line 33.
 Package xcolor Warning: Incompatible color definition on input line 33.
 
 ))) [50] (/Users/josemurillo/Git/thesis/chapters/chapter03/frontend/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter03/frontend/redux.tex [51]
-<./images/flux-redux.png, id=1012, 993.7125pt x 752.8125pt>
+<./images/flux-redux.png, id=1041, 993.7125pt x 752.8125pt>
 File: ./images/flux-redux.png Graphic file (type png)
 <use ./images/flux-redux.png>
-Package pdftex.def Info: ./images/flux-redux.png  used on input line 8.
+Package pdftex.def Info: ./images/flux-redux.png  used on input line 12.
 (pdftex.def)             Requested size: 357.73405pt x 271.01228pt.
- (/Users/josemurillo/Git/thesis/code/redux-store.js
+ [52] [53 <./images/flux-redux.png>] (/Users/josemurillo/Git/thesis/code/redux-store.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -2151,7 +2151,7 @@ Package xcolor Warning: Incompatible color definition on input line 5.
 
 Package xcolor Warning: Incompatible color definition on input line 5.
 
-) [52 <./images/flux-redux.png>] (/Users/josemurillo/Git/thesis/code/redux-reducer.js
+) (/Users/josemurillo/Git/thesis/code/redux-reducer.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -2194,14 +2194,13 @@ Package xcolor Warning: Incompatible color definition on input line 8.
 
 Package xcolor Warning: Incompatible color definition on input line 8.
 
-) (/Users/josemurillo/Git/thesis/code/redux-action.js
+) [54] (/Users/josemurillo/Git/thesis/code/redux-action.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
-[53]
 
 Package xcolor Warning: Incompatible color definition on input line 2.
 
@@ -2217,12 +2216,7 @@ Package xcolor Warning: Incompatible color definition on input line 2.
 
 Package xcolor Warning: Incompatible color definition on input line 2.
 
-))) [54] (/Users/josemurillo/Git/thesis/chapters/chapter03/react-redux.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
- []
-
-(/Users/josemurillo/Git/thesis/code/redux-react.js
+)) (/Users/josemurillo/Git/thesis/chapters/chapter03/frontend/react-redux.tex [55] (/Users/josemurillo/Git/thesis/code/redux-react.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -2421,7 +2415,66 @@ Package xcolor Warning: Incompatible color definition on input line 25.
 
 Package xcolor Warning: Incompatible color definition on input line 25.
 
-))) [55]
+)) (/Users/josemurillo/Git/thesis/chapters/chapter03/frontend/atomic-design.tex [56]
+<./images/atomic.png, id=1116, 1784.6675pt x 591.20876pt>
+File: ./images/atomic.png Graphic file (type png)
+<use ./images/atomic.png>
+Package pdftex.def Info: ./images/atomic.png  used on input line 19.
+(pdftex.def)             Requested size: 397.48499pt x 131.67207pt.
+) (/Users/josemurillo/Git/thesis/chapters/chapter03/frontend/structure.tex [57 <./images/atomic.png>]
+<./images/app-login.png, id=1129, 1092.08pt x 899.36pt>
+File: ./images/app-login.png Graphic file (type png)
+<use ./images/app-login.png>
+Package pdftex.def Info: ./images/app-login.png  used on input line 6.
+(pdftex.def)             Requested size: 397.48499pt x 327.33736pt.
+<./images/app-main.png, id=1130, 1084.05pt x 962.59625pt>
+File: ./images/app-main.png Graphic file (type png)
+<use ./images/app-main.png>
+Package pdftex.def Info: ./images/app-main.png  used on input line 13.
+(pdftex.def)             Requested size: 397.48499pt x 352.95305pt.
+ [58 <./images/app-login.png>]
+<./images/app-sales.png, id=1136, 1096.095pt x 900.36375pt>
+File: ./images/app-sales.png Graphic file (type png)
+<use ./images/app-sales.png>
+Package pdftex.def Info: ./images/app-sales.png  used on input line 20.
+(pdftex.def)             Requested size: 397.48499pt x 326.50745pt.
+ [59 <./images/app-main.png>]
+<./images/app-catalog.png, id=1142, 1082.0425pt x 900.36375pt>
+File: ./images/app-catalog.png Graphic file (type png)
+<use ./images/app-catalog.png>
+Package pdftex.def Info: ./images/app-catalog.png  used on input line 27.
+(pdftex.def)             Requested size: 397.48499pt x 330.73889pt.
+ [60 <./images/app-sales.png>]
+<./images/app-single.png, id=1148, 1082.0425pt x 960.58875pt>
+File: ./images/app-single.png Graphic file (type png)
+<use ./images/app-single.png>
+Package pdftex.def Info: ./images/app-single.png  used on input line 34.
+(pdftex.def)             Requested size: 397.48499pt x 352.86188pt.
+ [61 <./images/app-catalog.png>]
+<./images/app-map.png, id=1155, 1096.095pt x 900.36375pt>
+File: ./images/app-map.png Graphic file (type png)
+<use ./images/app-map.png>
+Package pdftex.def Info: ./images/app-map.png  used on input line 41.
+(pdftex.def)             Requested size: 397.48499pt x 326.50745pt.
+ [62 <./images/app-single.png>]
+<./images/app-orders.png, id=1161, 1096.095pt x 900.36375pt>
+File: ./images/app-orders.png Graphic file (type png)
+<use ./images/app-orders.png>
+Package pdftex.def Info: ./images/app-orders.png  used on input line 48.
+(pdftex.def)             Requested size: 397.48499pt x 326.50745pt.
+ [63 <./images/app-map.png>]
+<./images/app-admin.png, id=1167, 1094.0875pt x 961.5925pt>
+File: ./images/app-admin.png Graphic file (type png)
+<use ./images/app-admin.png>
+Package pdftex.def Info: ./images/app-admin.png  used on input line 55.
+(pdftex.def)             Requested size: 397.48499pt x 349.34233pt.
+ [64 <./images/app-orders.png>]
+<./images/app-atomic.png, id=1173, 1096.095pt x 958.58125pt>
+File: ./images/app-atomic.png Graphic file (type png)
+<use ./images/app-atomic.png>
+Package pdftex.def Info: ./images/app-atomic.png  used on input line 62.
+(pdftex.def)             Requested size: 397.48499pt x 347.61942pt.
+))) [65 <./images/app-admin.png>] [66 <./images/app-atomic.png>]
 Overfull \hbox (0.53731pt too wide) in paragraph at lines 119--119
 \T1/cmtt/m/n/12 firebase . google . com / docs / firestore / manage -[] data / transactions$[]\T1/cmr/m/n/12 . 
  []
@@ -2442,7 +2495,7 @@ Overfull \hbox (7.30124pt too wide) in paragraph at lines 119--119
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
-[56
+[67
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
@@ -2454,25 +2507,25 @@ LaTeX Info: Redefining \% on input line 25.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
 Package rerunfilecheck Info: File `index.out' has not changed.
-(rerunfilecheck)             Checksum: 93D1C7B3479B22C8DF4AE0AF874C358A;3323.
+(rerunfilecheck)             Checksum: D171C935A305007505131BF19523FE95;3509.
 Package logreq Info: Writing requests to 'index.run.xml'.
 \openout1 = `index.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
  ) 
 Here is how much of TeX's memory you used:
- 20616 strings out of 492167
- 342375 string characters out of 6125388
- 890351 words of memory out of 5000000
- 24070 multiletter control sequences out of 15000+600000
+ 20732 strings out of 492167
+ 344906 string characters out of 6125388
+ 890433 words of memory out of 5000000
+ 24150 multiletter control sequences out of 15000+600000
  20069 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,10n,60p,6813b,2429s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pfb>
-Output written on /Users/josemurillo/Git/thesis/index.pdf (68 pages, 2867022 bytes).
+Output written on /Users/josemurillo/Git/thesis/index.pdf (79 pages, 4610692 bytes).
 PDF statistics:
- 1273 PDF objects out of 1440 (max. 8388607)
- 1133 compressed objects within 12 object streams
- 555 named destinations out of 1000 (max. 500000)
- 500 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1388 PDF objects out of 1440 (max. 8388607)
+ 1216 compressed objects within 13 object streams
+ 585 named destinations out of 1000 (max. 500000)
+ 566 words of extra memory for PDF output out of 10000 (max. 10000000)
 

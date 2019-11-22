@@ -1,7 +1,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {lstlisting}{\numberline {2.1}Simple aplicación Express.js}{15}{lstlisting.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {2.2}Ejemplo de página con componentes React.js}{18}{lstlisting.2.2}% 
+\contentsline {lstlisting}{\numberline {2.2}Ejemplo de página con componentes ReactJS}{18}{lstlisting.2.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {lstlisting}{\numberline {2.3}Ejemplo de sintaxis ES5 y ES6}{21}{lstlisting.2.3}% 
 \defcounter {refsection}{0}\relax 
@@ -23,10 +23,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {lstlisting}{\numberline {3.9}Fragmento de configuración de Socket.IO del sistema}{50}{lstlisting.3.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.10}Fragmento de código para inicializar el Redux Store}{52}{lstlisting.3.10}% 
+\contentsline {lstlisting}{\numberline {3.10}Fragmento de código para inicializar el Redux Store}{54}{lstlisting.3.10}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.11}Fragmento de código del reducer común de la app}{53}{lstlisting.3.11}% 
+\contentsline {lstlisting}{\numberline {3.11}Fragmento de código del reducer común de la app}{54}{lstlisting.3.11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.12}Fragmento de una acción que actualiza el estado}{53}{lstlisting.3.12}% 
+\contentsline {lstlisting}{\numberline {3.12}Fragmento de una acción que actualiza el estado}{55}{lstlisting.3.12}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.13}Fragmento de código de la aplicación React principal}{55}{lstlisting.3.13}% 
+\contentsline {lstlisting}{\numberline {3.13}Fragmento de código de la aplicación React principal}{56}{lstlisting.3.13}% 

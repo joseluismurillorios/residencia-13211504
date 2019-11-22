@@ -76,6 +76,34 @@
       \endverb
       \keyw{firebase}
     \endentry
+    \entry{frost}{online}{}
+      \name{author}{1}{}{%
+        {{hash=689a1fbcd0c358d7a4a4b35ccbbb28c9}{%
+           family={Frost},
+           familyi={F\bibinitperiod},
+           given={Brad},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{689a1fbcd0c358d7a4a4b35ccbbb28c9}
+      \strng{fullhash}{689a1fbcd0c358d7a4a4b35ccbbb28c9}
+      \strng{bibnamehash}{689a1fbcd0c358d7a4a4b35ccbbb28c9}
+      \strng{authorbibnamehash}{689a1fbcd0c358d7a4a4b35ccbbb28c9}
+      \strng{authornamehash}{689a1fbcd0c358d7a4a4b35ccbbb28c9}
+      \strng{authorfullhash}{689a1fbcd0c358d7a4a4b35ccbbb28c9}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Atomic Design}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb http://www.softouch.on.ca/kb/data/Atomic%20Design.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.softouch.on.ca/kb/data/Atomic%20Design.pdf
+      \endverb
+      \keyw{atomic design}
+    \endentry
     \entry{goalkicker-node}{online}{}
       \name{author}{1}{}{%
         {{hash=7a7e66197f2bd8ea939d95fdef9b4b00}{%
@@ -156,6 +184,38 @@
       \verb https://pepa.holla.cz/wp-content/uploads/2016/08/Express.js-Guide.pdf
       \endverb
       \keyw{node,express}
+    \endentry
+    \entry{mukhiya}{book}{}
+      \name{author}{3}{}{%
+        {{hash=675bad389fa9026c86f44bd29b6dd16b}{%
+           family={Mukhiya},
+           familyi={M\bibinitperiod},
+           given={Suresh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8021807c09a9679a296e9f28f0478db1}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=545112ca0f9331c904eb3afd3f3878d2}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{8048bc8749023919bfedf3387c185d22}
+      \strng{fullhash}{8048bc8749023919bfedf3387c185d22}
+      \strng{bibnamehash}{8048bc8749023919bfedf3387c185d22}
+      \strng{authorbibnamehash}{8048bc8749023919bfedf3387c185d22}
+      \strng{authornamehash}{8048bc8749023919bfedf3387c185d22}
+      \strng{authorfullhash}{8048bc8749023919bfedf3387c185d22}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{02}
+      \field{title}{Redux Quick Start Guide}
+      \field{year}{2019}
     \endentry
     \entry{express}{online}{}
       \field{sortinit}{N}

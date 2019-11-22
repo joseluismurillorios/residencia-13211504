@@ -39,4 +39,24 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {3.9}{\ignorespaces Comparación de transporte por sondeo (Ajax) y websockets (Socket.IO).\relax }}{49}{figure.caption.49}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Comparación Flux/Redux.\relax }}{52}{figure.caption.51}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Comparación Flux/Redux.\relax }}{53}{figure.caption.51}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Metodología de diseño atómico.\relax }}{57}{figure.caption.55}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Módulo de inicio de sesión.\relax }}{58}{figure.caption.56}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Sección principal.\relax }}{59}{figure.caption.57}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Sección de ventas.\relax }}{60}{figure.caption.58}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Módulo de catálogo de productos.\relax }}{61}{figure.caption.59}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Módulo de producto.\relax }}{62}{figure.caption.60}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Módulo de Google Map.\relax }}{63}{figure.caption.61}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Módulo de manufactura y entrega.\relax }}{64}{figure.caption.62}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Módulo de administración de usuarios.\relax }}{65}{figure.caption.63}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Implementación Redux y Diseño Atómico.\relax }}{66}{figure.caption.64}% 
