@@ -291,6 +291,9 @@ INPUT ./images/rosesland.png
 INPUT /Users/josemurillo/Git/thesis/./images/shopify.png
 INPUT ./images/shopify.png
 INPUT ./images/shopify.png
+INPUT /Users/josemurillo/Git/thesis/./images/use-case.png
+INPUT ./images/use-case.png
+INPUT ./images/use-case.png
 INPUT /Users/josemurillo/Git/thesis/chapters/chapter03/requirements.tex
 INPUT /Users/josemurillo/Git/thesis/chapters/chapter03/requirements.tex
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
@@ -399,6 +402,9 @@ INPUT ./images/atomic.png
 INPUT ./images/atomic.png
 INPUT /Users/josemurillo/Git/thesis/chapters/chapter03/frontend/structure.tex
 INPUT /Users/josemurillo/Git/thesis/chapters/chapter03/frontend/structure.tex
+INPUT /Users/josemurillo/Git/thesis/./images/secuence.png
+INPUT ./images/secuence.png
+INPUT ./images/secuence.png
 INPUT /Users/josemurillo/Git/thesis/./images/app-login.png
 INPUT ./images/app-login.png
 INPUT ./images/app-login.png

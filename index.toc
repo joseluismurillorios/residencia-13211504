@@ -83,68 +83,70 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Shopify}{26}{section*.25}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Requerimientos del proyecto}{27}{section.3.2}% 
+\contentsline {section}{\numberline {3.2}Planeación del sistema}{28}{section.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Herramientas}{28}{subsection.3.2.1}% 
+\contentsline {section}{\numberline {3.3}Requerimientos del proyecto}{29}{section.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Dependencias de desarrollo}{28}{section*.27}% 
+\contentsline {subsection}{\numberline {3.3.1}Herramientas}{29}{subsection.3.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Estructura del proyecto}{29}{section*.28}% 
+\contentsline {subsubsection}{Dependencias de desarrollo}{30}{section*.28}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Directorios}{29}{section*.29}% 
+\contentsline {subsubsection}{Estructura del proyecto}{30}{section*.29}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Archivos principales}{30}{section*.30}% 
+\contentsline {subsubsection}{Directorios}{31}{section*.30}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Variables del entorno}{32}{section*.32}% 
+\contentsline {subsubsection}{Archivos principales}{31}{section*.31}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Configuración del servidor (Backend)}{33}{section.3.3}% 
+\contentsline {subsubsection}{Variables del entorno}{33}{section*.33}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Servidor NodeJS}{33}{subsection.3.3.1}% 
+\contentsline {section}{\numberline {3.4}Configuración del servidor (Backend)}{34}{section.3.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Programación basada en eventos}{35}{section*.34}% 
+\contentsline {subsection}{\numberline {3.4.1}Servidor NodeJS}{34}{subsection.3.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Configuración Express}{36}{subsection.3.3.2}% 
+\contentsline {subsubsection}{Programación basada en eventos}{36}{section*.35}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Enrutamiento}{36}{section*.35}% 
+\contentsline {subsection}{\numberline {3.4.2}Configuración Express}{37}{subsection.3.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Configuración Firebase}{38}{subsection.3.3.3}% 
+\contentsline {subsubsection}{Enrutamiento}{37}{section*.36}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Configuración de Firebase Firestore en Node.js}{41}{section*.43}% 
+\contentsline {subsection}{\numberline {3.4.3}Configuración Firebase}{39}{subsection.3.4.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Escrituras en lotes}{42}{section*.44}% 
+\contentsline {subsubsection}{Configuración de Firebase Firestore en Node.js}{42}{section*.44}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.4}Autenticación}{43}{subsection.3.3.4}% 
+\contentsline {subsubsection}{Escrituras en lotes}{43}{section*.45}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Autenticación basada en roles}{43}{section*.45}% 
+\contentsline {subsection}{\numberline {3.4.4}Autenticación}{44}{subsection.3.4.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Firebase Custom Claims}{43}{section*.47}% 
+\contentsline {subsubsection}{Autenticación basada en roles}{44}{section*.46}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.5}Integración con Shopify}{45}{subsection.3.3.5}% 
+\contentsline {subsubsection}{Firebase Custom Claims}{44}{section*.48}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.6}Webhooks}{46}{subsection.3.3.6}% 
+\contentsline {subsection}{\numberline {3.4.5}Integración con Shopify}{46}{subsection.3.4.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.7}Webhooks Shopify}{46}{subsection.3.3.7}% 
+\contentsline {subsection}{\numberline {3.4.6}Webhooks}{47}{subsection.3.4.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.8}Configuración de webhook en Express.js}{48}{subsection.3.3.8}% 
+\contentsline {subsection}{\numberline {3.4.7}Webhooks Shopify}{47}{subsection.3.4.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.9}Websockets con Socket.IO}{49}{subsection.3.3.9}% 
+\contentsline {subsection}{\numberline {3.4.8}Configuración de webhook en Express.js}{49}{subsection.3.4.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Desarrollo de la aplicación web (Frontend)}{51}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.9}Websockets con Socket.IO}{50}{subsection.3.4.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}Patrones de diseño}{51}{subsection.3.4.1}% 
+\contentsline {section}{\numberline {3.5}Desarrollo de la aplicación web (Frontend)}{52}{section.3.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.2}Redux}{52}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.5.1}Patrones de diseño}{52}{subsection.3.5.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Redux/Flux}{52}{section*.50}% 
+\contentsline {subsection}{\numberline {3.5.2}Redux}{53}{subsection.3.5.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Redux Store}{54}{section*.52}% 
+\contentsline {subsubsection}{Redux/Flux}{53}{section*.51}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Redux Reducer}{54}{section*.53}% 
+\contentsline {subsubsection}{Redux Store}{55}{section*.53}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Acciones Redux}{55}{section*.54}% 
+\contentsline {subsubsection}{Redux Reducer}{55}{section*.54}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.3}Integración React/Redux}{55}{subsection.3.4.3}% 
+\contentsline {subsubsection}{Acciones Redux}{56}{section*.55}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.4}Diseño Atómico (Atomic Design)}{57}{subsection.3.4.4}% 
+\contentsline {subsection}{\numberline {3.5.3}Integración React/Redux}{56}{subsection.3.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.5}Estructura de la aplicación web}{58}{subsection.3.4.5}% 
+\contentsline {subsection}{\numberline {3.5.4}Diseño Atómico (Atomic Design)}{58}{subsection.3.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.5}Estructura de la aplicación web}{59}{subsection.3.5.5}% 

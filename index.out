@@ -30,21 +30,22 @@
 \BOOKMARK [2][-]{subsection.2.4.1}{Git}{section.2.4}% 30
 \BOOKMARK [0][-]{chapter.3}{An\341lisis y dise\361o del sistema}{}% 31
 \BOOKMARK [1][-]{section.3.1}{E-Commerce \(Comercio electr\363nico\)}{chapter.3}% 32
-\BOOKMARK [1][-]{section.3.2}{Requerimientos del proyecto}{chapter.3}% 33
-\BOOKMARK [2][-]{subsection.3.2.1}{Herramientas}{section.3.2}% 34
-\BOOKMARK [1][-]{section.3.3}{Configuraci\363n del servidor \(Backend\)}{chapter.3}% 35
-\BOOKMARK [2][-]{subsection.3.3.1}{Servidor NodeJS}{section.3.3}% 36
-\BOOKMARK [2][-]{subsection.3.3.2}{Configuraci\363n Express}{section.3.3}% 37
-\BOOKMARK [2][-]{subsection.3.3.3}{Configuraci\363n Firebase}{section.3.3}% 38
-\BOOKMARK [2][-]{subsection.3.3.4}{Autenticaci\363n}{section.3.3}% 39
-\BOOKMARK [2][-]{subsection.3.3.5}{Integraci\363n con Shopify}{section.3.3}% 40
-\BOOKMARK [2][-]{subsection.3.3.6}{Webhooks}{section.3.3}% 41
-\BOOKMARK [2][-]{subsection.3.3.7}{Webhooks Shopify}{section.3.3}% 42
-\BOOKMARK [2][-]{subsection.3.3.8}{Configuraci\363n de webhook en Express.js}{section.3.3}% 43
-\BOOKMARK [2][-]{subsection.3.3.9}{Websockets con Socket.IO}{section.3.3}% 44
-\BOOKMARK [1][-]{section.3.4}{Desarrollo de la aplicaci\363n web \(Frontend\)}{chapter.3}% 45
-\BOOKMARK [2][-]{subsection.3.4.1}{Patrones de dise\361o}{section.3.4}% 46
-\BOOKMARK [2][-]{subsection.3.4.2}{Redux}{section.3.4}% 47
-\BOOKMARK [2][-]{subsection.3.4.3}{Integraci\363n React/Redux}{section.3.4}% 48
-\BOOKMARK [2][-]{subsection.3.4.4}{Dise\361o At\363mico \(Atomic Design\)}{section.3.4}% 49
-\BOOKMARK [2][-]{subsection.3.4.5}{Estructura de la aplicaci\363n web}{section.3.4}% 50
+\BOOKMARK [1][-]{section.3.2}{Planeaci\363n del sistema}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.3}{Requerimientos del proyecto}{chapter.3}% 34
+\BOOKMARK [2][-]{subsection.3.3.1}{Herramientas}{section.3.3}% 35
+\BOOKMARK [1][-]{section.3.4}{Configuraci\363n del servidor \(Backend\)}{chapter.3}% 36
+\BOOKMARK [2][-]{subsection.3.4.1}{Servidor NodeJS}{section.3.4}% 37
+\BOOKMARK [2][-]{subsection.3.4.2}{Configuraci\363n Express}{section.3.4}% 38
+\BOOKMARK [2][-]{subsection.3.4.3}{Configuraci\363n Firebase}{section.3.4}% 39
+\BOOKMARK [2][-]{subsection.3.4.4}{Autenticaci\363n}{section.3.4}% 40
+\BOOKMARK [2][-]{subsection.3.4.5}{Integraci\363n con Shopify}{section.3.4}% 41
+\BOOKMARK [2][-]{subsection.3.4.6}{Webhooks}{section.3.4}% 42
+\BOOKMARK [2][-]{subsection.3.4.7}{Webhooks Shopify}{section.3.4}% 43
+\BOOKMARK [2][-]{subsection.3.4.8}{Configuraci\363n de webhook en Express.js}{section.3.4}% 44
+\BOOKMARK [2][-]{subsection.3.4.9}{Websockets con Socket.IO}{section.3.4}% 45
+\BOOKMARK [1][-]{section.3.5}{Desarrollo de la aplicaci\363n web \(Frontend\)}{chapter.3}% 46
+\BOOKMARK [2][-]{subsection.3.5.1}{Patrones de dise\361o}{section.3.5}% 47
+\BOOKMARK [2][-]{subsection.3.5.2}{Redux}{section.3.5}% 48
+\BOOKMARK [2][-]{subsection.3.5.3}{Integraci\363n React/Redux}{section.3.5}% 49
+\BOOKMARK [2][-]{subsection.3.5.4}{Dise\361o At\363mico \(Atomic Design\)}{section.3.5}% 50
+\BOOKMARK [2][-]{subsection.3.5.5}{Estructura de la aplicaci\363n web}{section.3.5}% 51
