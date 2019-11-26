@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  26 NOV 2019 00:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  26 NOV 2019 01:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -454,74 +454,211 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
 )
 \Hy@SectionHShift=\skip55
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2019/08/31 v3.13a programmable bibliographies (PK/MW)
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2019/09/28 v4.43 (NLCT)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count125
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
  (/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count125
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.sty
+\etb@tempcnta=\count126
+)
+\@glsmfirst=\toks28
+\@glsmrest=\toks29
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/xfor/xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/substr/substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count127
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/datatool/datatool-fp.sty
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+ `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count128
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count129
+\FP@xia=\count130
+\FP@xib=\count131
+\FP@xfa=\count132
+\FP@xfb=\count133
+\FP@rega=\count134
+\FP@regb=\count135
+\FP@regs=\count136
+\FP@times=\count137
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count138
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks30
+\@dtl@tmpcount=\count139
+\dtl@tmplength=\skip56
+\dtl@sortresult=\count140
+\@dtl@numgrpsepcount=\count141
+\@dtl@datatype=\count142
+\dtl@codeA=\count143
+\dtl@codeB=\count144
+\@dtl@foreach@level=\count145
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-307.sty
+Package: glossaries-compatible-307 2019/09/28 v4.43 (NLCT)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tracklang/tracklang.sty
+Package: tracklang 2019/10/06 v1.3.8 (NLCT) Track Languages
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/tracklang/tracklang.tex)) (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish.ldf
+File: glossaries-spanish.ldf 2014/11/23 v1.0
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish-utf8.ldf))
+\gls@level=\count146
+\@gls@tmpb=\toks31
+\gls@tmplen=\skip57
+\glskeylisttok=\toks32
+\glslabeltok=\toks33
+\glsshorttok=\toks34
+\glslongtok=\toks35
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.sty
+Package: glossary-hypernav 2019/09/28 v4.43 (NLCT)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+Package: glossary-list 2019/09/28 v4.43 (NLCT)
+\glslistdottedwidth=\skip58
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+Package: glossary-long 2019/09/28 v4.43 (NLCT)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2019/02/06 v4.12 Multi-page Table package (DPC)
+\LTleft=\skip59
+\LTright=\skip60
+\LTpre=\skip61
+\LTpost=\skip62
+\LTchunksize=\count147
+\LTcapwidth=\dimen130
+\LT@head=\box33
+\LT@firsthead=\box34
+\LT@foot=\box35
+\LT@lastfoot=\box36
+\LT@cols=\count148
+\LT@rows=\count149
+\c@LT@tables=\count150
+\c@LT@chunks=\count151
+\LT@p@ftn=\toks36
+)
+\glsdescwidth=\skip63
+\glspagelistwidth=\skip64
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+Package: glossary-super 2019/09/28 v4.43 (NLCT)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count152
+\ST@wd=\dimen131
+\ST@rightskip=\skip65
+\ST@leftskip=\skip66
+\ST@parfillskip=\skip67
+\ST@pageleft=\dimen132
+\ST@headht=\dimen133
+\ST@tailht=\dimen134
+\ST@pagesofar=\dimen135
+\ST@pboxht=\dimen136
+\ST@lineht=\dimen137
+\ST@stretchht=\dimen138
+\ST@prevht=\dimen139
+\ST@toadd=\dimen140
+\ST@dimen=\dimen141
+\ST@pbox=\box37
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
+Package: glossary-tree 2019/09/28 v4.43 (NLCT)
+\glstreeindent=\skip68
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2019/08/31 v3.13a programmable bibliographies (PK/MW)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count126
+\lrq@indent=\count153
  (/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\c@tabx@nest=\count127
-\c@listtotal=\count128
-\c@listcount=\count129
-\c@liststart=\count130
-\c@liststop=\count131
-\c@citecount=\count132
-\c@citetotal=\count133
-\c@multicitecount=\count134
-\c@multicitetotal=\count135
-\c@instcount=\count136
-\c@maxnames=\count137
-\c@minnames=\count138
-\c@maxitems=\count139
-\c@minitems=\count140
-\c@citecounter=\count141
-\c@maxcitecounter=\count142
-\c@savedcitecounter=\count143
-\c@uniquelist=\count144
-\c@uniquename=\count145
-\c@refsection=\count146
-\c@refsegment=\count147
-\c@maxextratitle=\count148
-\c@maxextratitleyear=\count149
-\c@maxextraname=\count150
-\c@maxextradate=\count151
-\c@maxextraalpha=\count152
-\c@abbrvpenalty=\count153
-\c@highnamepenalty=\count154
-\c@lownamepenalty=\count155
-\c@maxparens=\count156
-\c@parenlevel=\count157
-\blx@tempcnta=\count158
-\blx@tempcntb=\count159
-\blx@tempcntc=\count160
-\blx@maxsection=\count161
-\blx@maxsegment@0=\count162
-\blx@notetype=\count163
-\blx@parenlevel@text=\count164
-\blx@parenlevel@foot=\count165
-\blx@sectionciteorder@0=\count166
-\blx@entrysetcounter=\count167
-\labelnumberwidth=\skip56
-\labelalphawidth=\skip57
-\biblabelsep=\skip58
-\bibitemsep=\skip59
-\bibnamesep=\skip60
-\bibinitsep=\skip61
-\bibparsep=\skip62
-\bibhang=\skip63
+))
+\c@tabx@nest=\count154
+\c@listtotal=\count155
+\c@listcount=\count156
+\c@liststart=\count157
+\c@liststop=\count158
+\c@citecount=\count159
+\c@citetotal=\count160
+\c@multicitecount=\count161
+\c@multicitetotal=\count162
+\c@instcount=\count163
+\c@maxnames=\count164
+\c@minnames=\count165
+\c@maxitems=\count166
+\c@minitems=\count167
+\c@citecounter=\count168
+\c@maxcitecounter=\count169
+\c@savedcitecounter=\count170
+\c@uniquelist=\count171
+\c@uniquename=\count172
+\c@refsection=\count173
+\c@refsegment=\count174
+\c@maxextratitle=\count175
+\c@maxextratitleyear=\count176
+\c@maxextraname=\count177
+\c@maxextradate=\count178
+\c@maxextraalpha=\count179
+\c@abbrvpenalty=\count180
+\c@highnamepenalty=\count181
+\c@lownamepenalty=\count182
+\c@maxparens=\count183
+\c@parenlevel=\count184
+\blx@tempcnta=\count185
+\blx@tempcntb=\count186
+\blx@tempcntc=\count187
+\blx@maxsection=\count188
+\blx@maxsegment@0=\count189
+\blx@notetype=\count190
+\blx@parenlevel@text=\count191
+\blx@parenlevel@foot=\count192
+\blx@sectionciteorder@0=\count193
+\blx@entrysetcounter=\count194
+\labelnumberwidth=\skip69
+\labelalphawidth=\skip70
+\biblabelsep=\skip71
+\bibitemsep=\skip72
+\bibnamesep=\skip73
+\bibinitsep=\skip74
+\bibparsep=\skip75
+\bibhang=\skip76
 \blx@bcfin=\read1
 \blx@bcfout=\write3
 \blx@langwohyphens=\language85
-\c@mincomprange=\count168
-\c@maxcomprange=\count169
-\c@mincompwidth=\count170
+\c@mincomprange=\count195
+\c@maxcomprange=\count196
+\c@mincompwidth=\count197
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-dm.def
@@ -529,88 +666,88 @@ File: blx-dm.def 2019/08/31 v3.13a biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count171
-\c@savedafterword=\count172
-\c@annotator=\count173
-\c@savedannotator=\count174
-\c@author=\count175
-\c@savedauthor=\count176
-\c@bookauthor=\count177
-\c@savedbookauthor=\count178
-\c@commentator=\count179
-\c@savedcommentator=\count180
-\c@editor=\count181
-\c@savededitor=\count182
-\c@editora=\count183
-\c@savededitora=\count184
-\c@editorb=\count185
-\c@savededitorb=\count186
-\c@editorc=\count187
-\c@savededitorc=\count188
-\c@foreword=\count189
-\c@savedforeword=\count190
-\c@holder=\count191
-\c@savedholder=\count192
-\c@introduction=\count193
-\c@savedintroduction=\count194
-\c@namea=\count195
-\c@savednamea=\count196
-\c@nameb=\count197
-\c@savednameb=\count198
-\c@namec=\count199
-\c@savednamec=\count266
-\c@translator=\count267
-\c@savedtranslator=\count268
-\c@shortauthor=\count269
-\c@savedshortauthor=\count270
-\c@shorteditor=\count271
-\c@savedshorteditor=\count272
-\c@labelname=\count273
-\c@savedlabelname=\count274
-\c@institution=\count275
-\c@savedinstitution=\count276
-\c@lista=\count277
-\c@savedlista=\count278
-\c@listb=\count279
-\c@savedlistb=\count280
-\c@listc=\count281
-\c@savedlistc=\count282
-\c@listd=\count283
-\c@savedlistd=\count284
-\c@liste=\count285
-\c@savedliste=\count286
-\c@listf=\count287
-\c@savedlistf=\count288
-\c@location=\count289
-\c@savedlocation=\count290
-\c@organization=\count291
-\c@savedorganization=\count292
-\c@origlocation=\count293
-\c@savedoriglocation=\count294
-\c@origpublisher=\count295
-\c@savedorigpublisher=\count296
-\c@publisher=\count297
-\c@savedpublisher=\count298
-\c@language=\count299
-\c@savedlanguage=\count300
-\c@origlanguage=\count301
-\c@savedoriglanguage=\count302
-\c@pageref=\count303
-\c@savedpageref=\count304
-\shorthandwidth=\skip64
-\shortjournalwidth=\skip65
-\shortserieswidth=\skip66
-\shorttitlewidth=\skip67
-\shortauthorwidth=\skip68
-\shorteditorwidth=\skip69
-\locallabelnumberwidth=\skip70
-\locallabelalphawidth=\skip71
-\localshorthandwidth=\skip72
-\localshortjournalwidth=\skip73
-\localshortserieswidth=\skip74
-\localshorttitlewidth=\skip75
-\localshortauthorwidth=\skip76
-\localshorteditorwidth=\skip77
+\c@afterword=\count198
+\c@savedafterword=\count199
+\c@annotator=\count266
+\c@savedannotator=\count267
+\c@author=\count268
+\c@savedauthor=\count269
+\c@bookauthor=\count270
+\c@savedbookauthor=\count271
+\c@commentator=\count272
+\c@savedcommentator=\count273
+\c@editor=\count274
+\c@savededitor=\count275
+\c@editora=\count276
+\c@savededitora=\count277
+\c@editorb=\count278
+\c@savededitorb=\count279
+\c@editorc=\count280
+\c@savededitorc=\count281
+\c@foreword=\count282
+\c@savedforeword=\count283
+\c@holder=\count284
+\c@savedholder=\count285
+\c@introduction=\count286
+\c@savedintroduction=\count287
+\c@namea=\count288
+\c@savednamea=\count289
+\c@nameb=\count290
+\c@savednameb=\count291
+\c@namec=\count292
+\c@savednamec=\count293
+\c@translator=\count294
+\c@savedtranslator=\count295
+\c@shortauthor=\count296
+\c@savedshortauthor=\count297
+\c@shorteditor=\count298
+\c@savedshorteditor=\count299
+\c@labelname=\count300
+\c@savedlabelname=\count301
+\c@institution=\count302
+\c@savedinstitution=\count303
+\c@lista=\count304
+\c@savedlista=\count305
+\c@listb=\count306
+\c@savedlistb=\count307
+\c@listc=\count308
+\c@savedlistc=\count309
+\c@listd=\count310
+\c@savedlistd=\count311
+\c@liste=\count312
+\c@savedliste=\count313
+\c@listf=\count314
+\c@savedlistf=\count315
+\c@location=\count316
+\c@savedlocation=\count317
+\c@organization=\count318
+\c@savedorganization=\count319
+\c@origlocation=\count320
+\c@savedoriglocation=\count321
+\c@origpublisher=\count322
+\c@savedorigpublisher=\count323
+\c@publisher=\count324
+\c@savedpublisher=\count325
+\c@language=\count326
+\c@savedlanguage=\count327
+\c@origlanguage=\count328
+\c@savedoriglanguage=\count329
+\c@pageref=\count330
+\c@savedpageref=\count331
+\shorthandwidth=\skip77
+\shortjournalwidth=\skip78
+\shortserieswidth=\skip79
+\shorttitlewidth=\skip80
+\shortauthorwidth=\skip81
+\shorteditorwidth=\skip82
+\locallabelnumberwidth=\skip83
+\locallabelalphawidth=\skip84
+\localshorthandwidth=\skip85
+\localshortjournalwidth=\skip86
+\localshortserieswidth=\skip87
+\localshorttitlewidth=\skip88
+\localshortauthorwidth=\skip89
+\localshorteditorwidth=\skip90
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-compat.def
@@ -620,19 +757,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
-\c@textcitecount=\count305
-\c@textcitetotal=\count306
-\c@textcitemaxnames=\count307
-\c@biburlbigbreakpenalty=\count308
-\c@biburlbreakpenalty=\count309
-\c@biburlnumpenalty=\count310
-\c@biburlucpenalty=\count311
-\c@biburllcpenalty=\count312
+\c@textcitecount=\count332
+\c@textcitetotal=\count333
+\c@textcitemaxnames=\count334
+\c@biburlbigbreakpenalty=\count335
+\c@biburlbreakpenalty=\count336
+\c@biburlnumpenalty=\count337
+\c@biburlucpenalty=\count338
+\c@biburllcpenalty=\count339
 \biburlbigskip=\muskip12
 \biburlnumskip=\muskip13
 \biburlucskip=\muskip14
 \biburllcskip=\muskip15
-\c@smartand=\count313
+\c@smartand=\count340
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -642,8 +779,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count314
-\c@bbx:relatedtotal=\count315
+\c@bbx:relatedcount=\count341
+\c@bbx:relatedtotal=\count342
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -666,6 +803,16 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
+\glswrite=\write4
+\glo@main@file=\write5
+\openout5 = `index.glo'.
+
+Package glossaries Info: Writing glossary file index.glo on input line 19.
+\glo@acronym@file=\write6
+\openout6 = `index.acn'.
+
+Package glossaries Info: Writing glossary file index.acn on input line 19.
+ (/Users/josemurillo/Git/thesis/glossary.tex)
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
@@ -675,48 +822,48 @@ File: spanish.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count316
-\@quotereset=\count317
+\@quotelevel=\count343
+\@quotereset=\count344
 (/Users/josemurillo/Git/thesis/index.aux
-LaTeX Info: Redefining \sptext on input line 25.
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \sptext on input line 32.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
 )
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 45.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
  (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count318
-\scratchdimen=\dimen130
-\scratchbox=\box33
-\nofMPsegments=\count319
-\nofMParguments=\count320
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count321
-\MPscratchDim=\dimen131
-\MPnumerator=\count322
-\makeMPintoPDFobject=\count323
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count345
+\scratchdimen=\dimen142
+\scratchbox=\box38
+\nofMPsegments=\count346
+\nofMParguments=\count347
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count348
+\MPscratchDim=\dimen143
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
+\everyMPtoPDFconversion=\toks38
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -729,29 +876,35 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \sptext on input line 40.
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
-\c@lstlisting=\count324
+LaTeX Info: Redefining \sptext on input line 45.
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+\c@lstlisting=\count351
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 40.
+\AtBeginShipoutBox=\box39
+Package hyperref Info: Link coloring OFF on input line 45.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count325
+\c@section@level=\count352
 )
-LaTeX Info: Redefining \ref on input line 40.
-LaTeX Info: Redefining \pageref on input line 40.
-LaTeX Info: Redefining \nameref on input line 40.
+LaTeX Info: Redefining \ref on input line 45.
+LaTeX Info: Redefining \pageref on input line 45.
+LaTeX Info: Redefining \nameref on input line 45.
  (/Users/josemurillo/Git/thesis/index.out) (/Users/josemurillo/Git/thesis/index.out)
-\@outlinefile=\write4
-\openout4 = `index.out'.
+\@outlinefile=\write7
+\openout7 = `index.out'.
 
+ (/Users/josemurillo/Git/thesis/index.glsdefs)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -760,14 +913,16 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'index.bbl' found.
  (/Users/josemurillo/Git/thesis/index.bbl)
-Package biblatex Info: Reference section=0 on input line 40.
-Package biblatex Info: Reference segment=0 on input line 40.
-<./images/escudo1.png, id=221, 484.209pt x 461.0826pt>
+Package biblatex Info: Reference section=0 on input line 45.
+Package biblatex Info: Reference segment=0 on input line 45.
+<./images/escudo1.png, id=229, 484.209pt x 461.0826pt>
 File: ./images/escudo1.png Graphic file (type png)
 <use ./images/escudo1.png>
-Package pdftex.def Info: ./images/escudo1.png  used on input line 51.
+Package pdftex.def Info: ./images/escudo1.png  used on input line 56.
 (pdftex.def)             Requested size: 164.33334pt x 156.49014pt.
  [1
+
+\openout4 = `index.ist'.
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/escudo1.png>] [2] (/Users/josemurillo/Git/thesis/chapters/abstract.tex) [3] (/Users/josemurillo/Git/thesis/chapters/dedication.tex) [4] (/Users/josemurillo/Git/thesis/chapters/aknowledgements.tex) [5] (/Users/josemurillo/Git/thesis/index.toc
 LaTeX Info: Redefining \sptext on input line 2.
@@ -776,16 +931,16 @@ LaTeX Info: Redefining \% on input line 2.
  [6
 
 ] [7])
-\tf@toc=\write5
-\openout5 = `index.toc'.
+\tf@toc=\write8
+\openout8 = `index.toc'.
 
  [8] (/Users/josemurillo/Git/thesis/index.lot
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 )
-\tf@lot=\write6
-\openout6 = `index.lot'.
+\tf@lot=\write9
+\openout9 = `index.lot'.
 
  [9
 
@@ -796,12 +951,12 @@ LaTeX Info: Redefining \% on input line 2.
  [10
 
 ])
-\tf@lof=\write7
-\openout7 = `index.lof'.
+\tf@lof=\write10
+\openout10 = `index.lof'.
 
  [11] (/Users/josemurillo/Git/thesis/index.lol)
-\tf@lol=\write8
-\openout8 = `index.lol'.
+\tf@lol=\write11
+\openout11 = `index.lol'.
 
  [12
 
@@ -814,7 +969,7 @@ Cap\'{\i }tulo 2.
 (/Users/josemurillo/Git/thesis/chapters/chapter02/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter02/mern/intro.tex [4
 
 ]
-<./images/mean.png, id=466, 991.705pt x 238.8925pt>
+<./images/mean.png, id=482, 991.705pt x 238.8925pt>
 File: ./images/mean.png Graphic file (type png)
 <use ./images/mean.png>
 Package pdftex.def Info: ./images/mean.png  used on input line 25.
@@ -825,7 +980,7 @@ Underfull \hbox (badness 2261) in paragraph at lines 35--36
  []
 
 [7]
-<./images/sql-nosql.png, id=484, 1031.855pt x 546.04pt>
+<./images/sql-nosql.png, id=502, 1031.855pt x 546.04pt>
 File: ./images/sql-nosql.png Graphic file (type png)
 <use ./images/sql-nosql.png>
 Package pdftex.def Info: ./images/sql-nosql.png  used on input line 56.
@@ -841,19 +996,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
  []
 
 )) [9] (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/intro.tex
-<./images/fern.png, id=495, 800.9925pt x 471.7625pt>
+<./images/fern.png, id=513, 800.9925pt x 471.7625pt>
 File: ./images/fern.png Graphic file (type png)
 <use ./images/fern.png>
 Package pdftex.def Info: ./images/fern.png  used on input line 13.
 (pdftex.def)             Requested size: 317.9892pt x 187.29074pt.
  (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/firestore.tex [10 <./images/fern.png>]
-<./images/firestore.jpg, id=501, 2047.65pt x 1194.4625pt>
+<./images/firestore.jpg, id=519, 2047.65pt x 1194.4625pt>
 File: ./images/firestore.jpg Graphic file (type jpg)
 <use ./images/firestore.jpg>
 Package pdftex.def Info: ./images/firestore.jpg  used on input line 9.
 (pdftex.def)             Requested size: 357.73405pt x 208.66954pt.
 ) (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/node.tex [11 <./images/firestore.jpg>]
-<./images/node.png, id=506, 726.715pt x 377.41pt>
+<./images/node.png, id=524, 726.715pt x 377.41pt>
 File: ./images/node.png Graphic file (type png)
 <use ./images/node.png>
 Package pdftex.def Info: ./images/node.png  used on input line 9.
@@ -959,7 +1114,7 @@ Package xcolor Warning: Incompatible color definition on input line 7.
 Package xcolor Warning: Incompatible color definition on input line 7.
 
 )) (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/react.tex [15]
-<./images/components.png, id=547, 831.105pt x 811.03pt>
+<./images/components.png, id=565, 831.105pt x 811.03pt>
 File: ./images/components.png Graphic file (type png)
 <use ./images/components.png>
 Package pdftex.def Info: ./images/components.png  used on input line 9.
@@ -1059,7 +1214,7 @@ Package xcolor Warning: Incompatible color definition on input line 18.
 Package xcolor Warning: Incompatible color definition on input line 21.
 
 ) [21]) [22] (/Users/josemurillo/Git/thesis/chapters/chapter02/git.tex
-<./images/git.png, id=644, 847.165pt x 730.73pt>
+<./images/git.png, id=662, 847.165pt x 730.73pt>
 File: ./images/git.png Graphic file (type png)
 <use ./images/git.png>
 Package pdftex.def Info: ./images/git.png  used on input line 9.
@@ -1072,7 +1227,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--11
 [23])) [24 <./images/git.png>]
 Cap\'{\i }tulo 3.
 (/Users/josemurillo/Git/thesis/chapters/chapter03/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter03/ecommerce.tex
-<./images/rosesland.png, id=654, 939.51pt x 794.97pt>
+<./images/rosesland.png, id=672, 939.51pt x 794.97pt>
 File: ./images/rosesland.png Graphic file (type png)
 <use ./images/rosesland.png>
 Package pdftex.def Info: ./images/rosesland.png  used on input line 5.
@@ -1080,19 +1235,19 @@ Package pdftex.def Info: ./images/rosesland.png  used on input line 5.
  [25
 
 ]
-<./images/shopify.png, id=660, 937.5025pt x 558.085pt>
+<./images/shopify.png, id=678, 937.5025pt x 558.085pt>
 File: ./images/shopify.png Graphic file (type png)
 <use ./images/shopify.png>
 Package pdftex.def Info: ./images/shopify.png  used on input line 18.
 (pdftex.def)             Requested size: 357.73405pt x 212.95161pt.
 ) [26 <./images/rosesland.png>] [27 <./images/shopify.png>]
-<./images/use-case.png, id=672, 1186.4325pt x 1069.9975pt>
+<./images/use-case.png, id=690, 1186.4325pt x 1069.9975pt>
 File: ./images/use-case.png Graphic file (type png)
 <use ./images/use-case.png>
 Package pdftex.def Info: ./images/use-case.png  used on input line 16.
 (pdftex.def)             Requested size: 397.48499pt x 358.47179pt.
  [28 <./images/use-case.png>] (/Users/josemurillo/Git/thesis/chapters/chapter03/requirements.tex [29] [30] [31]
-<./images/app.jpg, id=695, 457.71pt x 965.6075pt>
+<./images/app.jpg, id=718, 457.71pt x 965.6075pt>
 File: ./images/app.jpg Graphic file (type jpg)
 <use ./images/app.jpg>
 Package pdftex.def Info: ./images/app.jpg  used on input line 51.
@@ -1165,7 +1320,7 @@ Package xcolor Warning: Incompatible color definition on input line 11.
 Package xcolor Warning: Incompatible color definition on input line 11.
 
 )) [33] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/node-server.tex
-<./images/node-traditional.png, id=718, 835.12pt x 588.1975pt>
+<./images/node-traditional.png, id=740, 835.12pt x 588.1975pt>
 File: ./images/node-traditional.png Graphic file (type png)
 <use ./images/node-traditional.png>
 Package pdftex.def Info: ./images/node-traditional.png  used on input line 6.
@@ -1235,7 +1390,7 @@ Package xcolor Warning: Incompatible color definition on input line 9.
 Package xcolor Warning: Incompatible color definition on input line 9.
 
 )) (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/express-server.tex [36]
-<./images/express-router.png, id=750, 796.9775pt x 449.68pt>
+<./images/express-router.png, id=772, 796.9775pt x 449.68pt>
 File: ./images/express-router.png Graphic file (type png)
 <use ./images/express-router.png>
 Package pdftex.def Info: ./images/express-router.png  used on input line 10.
@@ -1569,34 +1724,34 @@ Package xcolor Warning: Incompatible color definition on input line 37.
 Package xcolor Warning: Incompatible color definition on input line 37.
 
 )) [38] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/firebase.tex
-<./images/firebase-01.png, id=801, 941.5175pt x 293.095pt>
+<./images/firebase-01.png, id=824, 941.5175pt x 293.095pt>
 File: ./images/firebase-01.png Graphic file (type png)
 <use ./images/firebase-01.png>
 Package pdftex.def Info: ./images/firebase-01.png  used on input line 6.
 (pdftex.def)             Requested size: 397.48499pt x 123.73859pt.
-<./images/firebase-02.png, id=802, 941.5175pt x 558.085pt>
+<./images/firebase-02.png, id=825, 941.5175pt x 558.085pt>
 File: ./images/firebase-02.png Graphic file (type png)
 <use ./images/firebase-02.png>
 Package pdftex.def Info: ./images/firebase-02.png  used on input line 15.
 (pdftex.def)             Requested size: 397.48499pt x 235.61185pt.
-<./images/firebase-03.png, id=803, 941.5175pt x 381.425pt>
+<./images/firebase-03.png, id=826, 941.5175pt x 381.425pt>
 File: ./images/firebase-03.png Graphic file (type png)
 <use ./images/firebase-03.png>
 Package pdftex.def Info: ./images/firebase-03.png  used on input line 22.
 (pdftex.def)             Requested size: 397.48499pt x 161.02966pt.
  [39 <./images/firebase-01.png> <./images/firebase-02.png>]
-<./images/firebase-04.png, id=812, 943.525pt x 479.7925pt>
+<./images/firebase-04.png, id=835, 943.525pt x 479.7925pt>
 File: ./images/firebase-04.png Graphic file (type png)
 <use ./images/firebase-04.png>
 Package pdftex.def Info: ./images/firebase-04.png  used on input line 29.
 (pdftex.def)             Requested size: 397.48499pt x 202.12643pt.
-<./images/firebase-05.png, id=813, 939.51pt x 608.2725pt>
+<./images/firebase-05.png, id=837, 939.51pt x 608.2725pt>
 File: ./images/firebase-05.png Graphic file (type png)
 <use ./images/firebase-05.png>
 Package pdftex.def Info: ./images/firebase-05.png  used on input line 36.
 (pdftex.def)             Requested size: 397.48499pt x 257.34756pt.
  [40 <./images/firebase-03.png> <./images/firebase-04.png>]
-<./images/firebase-06.png, id=826, 945.5325pt x 489.83pt>
+<./images/firebase-06.png, id=849, 945.5325pt x 489.83pt>
 File: ./images/firebase-06.png Graphic file (type png)
 <use ./images/firebase-06.png>
 Package pdftex.def Info: ./images/firebase-06.png  used on input line 43.
@@ -1709,7 +1864,7 @@ Package xcolor Warning: Incompatible color definition on input line 25.
 Package xcolor Warning: Incompatible color definition on input line 25.
 
 ) [43]
-<./images/firebase-auth.png, id=900, 835.12pt x 144.54pt>
+<./images/firebase-auth.png, id=923, 835.12pt x 144.54pt>
 File: ./images/firebase-auth.png Graphic file (type png)
 <use ./images/firebase-auth.png>
 Package pdftex.def Info: ./images/firebase-auth.png  used on input line 70.
@@ -1858,7 +2013,7 @@ Package xcolor Warning: Incompatible color definition on input line 8.
 Package xcolor Warning: Incompatible color definition on input line 11.
 
 )) (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/webhooks.tex [47]
-<./images/webhook.png, id=979, 939.51pt x 556.0775pt>
+<./images/webhook.png, id=1002, 939.51pt x 556.0775pt>
 File: ./images/webhook.png Graphic file (type png)
 <use ./images/webhook.png>
 Package pdftex.def Info: ./images/webhook.png  used on input line 9.
@@ -2003,7 +2158,7 @@ Package xcolor Warning: Incompatible color definition on input line 24.
 Package xcolor Warning: Incompatible color definition on input line 28.
 
 )) [49] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/sockets.tex
-<./images/websocket.png, id=1024, 975.645pt x 533.995pt>
+<./images/websocket.png, id=1049, 975.645pt x 533.995pt>
 File: ./images/websocket.png Graphic file (type png)
 <use ./images/websocket.png>
 Package pdftex.def Info: ./images/websocket.png  used on input line 9.
@@ -2452,7 +2607,7 @@ Package xcolor Warning: Incompatible color definition on input line 23.
 Package xcolor Warning: Incompatible color definition on input line 23.
 
 ) [56]) (/Users/josemurillo/Git/thesis/chapters/chapter03/frontend/patterns.tex) (/Users/josemurillo/Git/thesis/chapters/chapter03/frontend/redux.tex [57]
-<./images/flux-redux.png, id=1168, 993.7125pt x 752.8125pt>
+<./images/flux-redux.png, id=1193, 993.7125pt x 752.8125pt>
 File: ./images/flux-redux.png Graphic file (type png)
 <use ./images/flux-redux.png>
 Package pdftex.def Info: ./images/flux-redux.png  used on input line 12.
@@ -2768,60 +2923,60 @@ Package xcolor Warning: Incompatible color definition on input line 25.
 Package xcolor Warning: Incompatible color definition on input line 25.
 
 )) (/Users/josemurillo/Git/thesis/chapters/chapter03/frontend/atomic-design.tex [62]
-<./images/atomic.png, id=1244, 1784.6675pt x 591.20876pt>
+<./images/atomic.png, id=1269, 1784.6675pt x 591.20876pt>
 File: ./images/atomic.png Graphic file (type png)
 <use ./images/atomic.png>
 Package pdftex.def Info: ./images/atomic.png  used on input line 19.
 (pdftex.def)             Requested size: 397.48499pt x 131.67207pt.
 ) (/Users/josemurillo/Git/thesis/chapters/chapter03/frontend/structure.tex [63 <./images/atomic.png>]
-<./images/app-login.png, id=1256, 1092.08pt x 899.36pt>
+<./images/app-login.png, id=1281, 1092.08pt x 899.36pt>
 File: ./images/app-login.png Graphic file (type png)
 <use ./images/app-login.png>
 Package pdftex.def Info: ./images/app-login.png  used on input line 14.
 (pdftex.def)             Requested size: 397.48499pt x 327.33736pt.
-<./images/app-main.png, id=1257, 1084.05pt x 962.59625pt>
+<./images/app-main.png, id=1282, 1084.05pt x 962.59625pt>
 File: ./images/app-main.png Graphic file (type png)
 <use ./images/app-main.png>
 Package pdftex.def Info: ./images/app-main.png  used on input line 21.
 (pdftex.def)             Requested size: 397.48499pt x 352.95305pt.
  [64 <./images/app-login.png>]
-<./images/app-sales.png, id=1263, 1096.095pt x 900.36375pt>
+<./images/app-sales.png, id=1288, 1096.095pt x 900.36375pt>
 File: ./images/app-sales.png Graphic file (type png)
 <use ./images/app-sales.png>
 Package pdftex.def Info: ./images/app-sales.png  used on input line 28.
 (pdftex.def)             Requested size: 397.48499pt x 326.50745pt.
  [65 <./images/app-main.png>]
-<./images/app-catalog.png, id=1269, 1082.0425pt x 900.36375pt>
+<./images/app-catalog.png, id=1294, 1082.0425pt x 900.36375pt>
 File: ./images/app-catalog.png Graphic file (type png)
 <use ./images/app-catalog.png>
 Package pdftex.def Info: ./images/app-catalog.png  used on input line 35.
 (pdftex.def)             Requested size: 397.48499pt x 330.73889pt.
  [66 <./images/app-sales.png>]
-<./images/app-single.png, id=1275, 1082.0425pt x 960.58875pt>
+<./images/app-single.png, id=1300, 1082.0425pt x 960.58875pt>
 File: ./images/app-single.png Graphic file (type png)
 <use ./images/app-single.png>
 Package pdftex.def Info: ./images/app-single.png  used on input line 42.
 (pdftex.def)             Requested size: 397.48499pt x 352.86188pt.
  [67 <./images/app-catalog.png>]
-<./images/app-map.png, id=1282, 1096.095pt x 900.36375pt>
+<./images/app-map.png, id=1307, 1096.095pt x 900.36375pt>
 File: ./images/app-map.png Graphic file (type png)
 <use ./images/app-map.png>
 Package pdftex.def Info: ./images/app-map.png  used on input line 49.
 (pdftex.def)             Requested size: 397.48499pt x 326.50745pt.
  [68 <./images/app-single.png>]
-<./images/app-orders.png, id=1288, 1096.095pt x 900.36375pt>
+<./images/app-orders.png, id=1313, 1096.095pt x 900.36375pt>
 File: ./images/app-orders.png Graphic file (type png)
 <use ./images/app-orders.png>
 Package pdftex.def Info: ./images/app-orders.png  used on input line 56.
 (pdftex.def)             Requested size: 397.48499pt x 326.50745pt.
  [69 <./images/app-map.png>]
-<./images/app-admin.png, id=1294, 1094.0875pt x 961.5925pt>
+<./images/app-admin.png, id=1319, 1094.0875pt x 961.5925pt>
 File: ./images/app-admin.png Graphic file (type png)
 <use ./images/app-admin.png>
 Package pdftex.def Info: ./images/app-admin.png  used on input line 63.
 (pdftex.def)             Requested size: 397.48499pt x 349.34233pt.
  [70 <./images/app-orders.png>]
-<./images/app-atomic.png, id=1300, 1096.095pt x 958.58125pt>
+<./images/app-atomic.png, id=1325, 1096.095pt x 958.58125pt>
 File: ./images/app-atomic.png Graphic file (type png)
 <use ./images/app-atomic.png>
 Package pdftex.def Info: ./images/app-atomic.png  used on input line 70.
@@ -2832,58 +2987,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
  []
 
 )) [73]
-Overfull \hbox (0.53731pt too wide) in paragraph at lines 122--122
+Overfull \hbox (0.53731pt too wide) in paragraph at lines 127--127
 \T1/cmtt/m/n/12 firebase . google . com / docs / firestore / manage -[] data / transactions$[]\T1/cmr/m/n/12 . 
  []
 
 
-Overfull \hbox (9.59311pt too wide) in paragraph at lines 122--122
+Overfull \hbox (9.59311pt too wide) in paragraph at lines 127--127
 []\T1/cmr/m/n/12 GoalKicker. \T1/cmr/m/it/12 No-de.js - No-tes for Pro-fes-sio-nals\T1/cmr/m/n/12 . \T1/cmr/m/sc/12 url\T1/cmr/m/n/12 : []$\T1/cmtt/m/n/12 https : / / goalkicker .
  []
 
 
-Overfull \hbox (19.46799pt too wide) in paragraph at lines 122--122
+Overfull \hbox (19.46799pt too wide) in paragraph at lines 127--127
 []\T1/cmr/m/n/12 Fionn Ke-lleher. \T1/cmr/m/it/12 Un-ders-tan-ding Soc-ket.IO\T1/cmr/m/n/12 . 2014. \T1/cmr/m/sc/12 url\T1/cmr/m/n/12 : []$\T1/cmtt/m/n/12 https : / / nodesource .
  []
 
 
-Overfull \hbox (7.30124pt too wide) in paragraph at lines 122--122
+Overfull \hbox (7.30124pt too wide) in paragraph at lines 127--127
 []\T1/cmr/m/n/12 Srinivasan Su-bra-ma-nian. \T1/cmr/m/it/12 Why MERN? \T1/cmr/m/n/12 2017. \T1/cmr/m/sc/12 url\T1/cmr/m/n/12 : []$\T1/cmtt/m/n/12 https : / / www . apress .
  []
 
 [74
 
+] (/Users/josemurillo/Git/thesis/index.gls [75]) [76
+
+
+] (/Users/josemurillo/Git/thesis/index.acr)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
+ [77
+
+
+
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 123.
- [75]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
  (/Users/josemurillo/Git/thesis/index.aux
-LaTeX Info: Redefining \sptext on input line 25.
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \sptext on input line 32.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 123.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 123.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
 Package rerunfilecheck Info: File `index.out' has not changed.
-(rerunfilecheck)             Checksum: F8E8E514A7B14710750E3D4E9CC2AD5C;3856.
+(rerunfilecheck)             Checksum: 0CEEFE4E4810A1861298AFD5ACD2B28C;3946.
 Package logreq Info: Writing requests to 'index.run.xml'.
 \openout1 = `index.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 123.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
  ) 
 Here is how much of TeX's memory you used:
- 20918 strings out of 492167
- 348181 string characters out of 6125388
- 890524 words of memory out of 5000000
- 24232 multiletter control sequences out of 15000+600000
+ 26778 strings out of 492167
+ 460104 string characters out of 6125388
+ 1039278 words of memory out of 5000000
+ 29947 multiletter control sequences out of 15000+600000
  20069 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,10n,60p,6813b,2429s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,10n,124p,6813b,2545s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pfb>
-Output written on /Users/josemurillo/Git/thesis/index.pdf (87 pages, 4762217 bytes).
+Output written on /Users/josemurillo/Git/thesis/index.pdf (89 pages, 4766213 bytes).
 PDF statistics:
- 1542 PDF objects out of 1728 (max. 8388607)
- 1359 compressed objects within 14 object streams
- 671 named destinations out of 1000 (max. 500000)
- 603 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1589 PDF objects out of 1728 (max. 8388607)
+ 1403 compressed objects within 15 object streams
+ 680 named destinations out of 1000 (max. 500000)
+ 619 words of extra memory for PDF output out of 10000 (max. 10000000)
 

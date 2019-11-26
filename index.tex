@@ -9,10 +9,15 @@
 \usepackage{jslisting}
 \usepackage{jslistings}
 
+\usepackage[acronym, toc]{glossaries}
 \usepackage{biblatex}
 \addbibresource{references.bib}
 
 \graphicspath{ {./images/} }
+
+\renewcommand{\glstextformat}[1]{\textit{#1}}
+\makeglossaries
+\input{glossary.tex}
 
 \setlength{\oddsidemargin}{0in}
 \setlength{\textwidth}{6in}
@@ -119,5 +124,11 @@ JOSÉ LUIS MURILLO RÍOS\\[0.8cm]
 \input{chapters/chapter03/intro}
 
 \printbibliography
+ 
+\printglossary
+
+\clearpage
+
+\printglossary[type=\acronymtype]
 
 \end{document}

@@ -1,0 +1,60 @@
+\ifglsentryexists{frontend}{}%
+{%
+\gls@defglossaryentry{frontend}%
+{%
+name={frontend},%
+sort={frontend},%
+type={main},%
+first={frontend},%
+firstplural={frontends},%
+text={frontend},%
+plural={frontends},%
+description={Se encarga de la parte del software que interactúa con el usuario y que el usuario puede ver.},%
+descriptionplural={Se encarga de la parte del software que interactúa con el usuario y que el usuario puede ver.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{backend}{}%
+{%
+\gls@defglossaryentry{backend}%
+{%
+name={backend},%
+sort={backend},%
+type={main},%
+first={backend},%
+firstplural={backends},%
+text={backend},%
+plural={backends},%
+description={Representa la capa de acceso de datos.},%
+descriptionplural={Representa la capa de acceso de datos.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%

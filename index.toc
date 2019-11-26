@@ -164,3 +164,7 @@
 \contentsline {subsection}{\numberline {3.6.1}Configurar despliegue automático con Git}{72}{subsection.3.6.1}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Prerrequisitos}{73}{section*.69}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Glosario}{76}{section*.71}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Siglas}{77}{section*.73}% 
