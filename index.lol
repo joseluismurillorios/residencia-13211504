@@ -23,10 +23,16 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {lstlisting}{\numberline {3.9}Fragmento de configuración de Socket.IO del sistema}{51}{lstlisting.3.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.10}Fragmento de código para inicializar el Redux Store}{55}{lstlisting.3.10}% 
+\contentsline {lstlisting}{\numberline {3.10}Fragmeno de configuración Babel.}{54}{lstlisting.3.10}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.11}Fragmento de código del reducer común de la app}{55}{lstlisting.3.11}% 
+\contentsline {lstlisting}{\numberline {3.11}Fragmeno de configuración Webpack}{55}{lstlisting.3.11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.12}Fragmento de una acción que actualiza el estado}{56}{lstlisting.3.12}% 
+\contentsline {lstlisting}{\numberline {3.12}Configuración Webpack Dev Server.}{56}{lstlisting.3.12}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {3.13}Fragmento de código de la aplicación React principal}{57}{lstlisting.3.13}% 
+\contentsline {lstlisting}{\numberline {3.13}Fragmento de código para inicializar el Redux Store}{60}{lstlisting.3.13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {lstlisting}{\numberline {3.14}Fragmento de código del reducer común de la app}{60}{lstlisting.3.14}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {lstlisting}{\numberline {3.15}Fragmento de una acción que actualiza el estado}{61}{lstlisting.3.15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {lstlisting}{\numberline {3.16}Fragmento de código de la aplicación React principal}{62}{lstlisting.3.16}% 

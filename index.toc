@@ -133,20 +133,34 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.5}Desarrollo de la aplicación web (Frontend)}{52}{section.3.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.1}Patrones de diseño}{52}{subsection.3.5.1}% 
+\contentsline {subsection}{\numberline {3.5.1}Configuración del entorno de desarrollo}{52}{subsection.3.5.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.2}Redux}{53}{subsection.3.5.2}% 
+\contentsline {subsubsection}{Conceptos clave}{53}{section*.51}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Redux/Flux}{53}{section*.51}% 
+\contentsline {subsubsection}{Babel Loader}{54}{section*.52}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Redux Store}{55}{section*.53}% 
+\contentsline {subsubsection}{Webpack Dev Server}{56}{section*.53}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Redux Reducer}{55}{section*.54}% 
+\contentsline {subsection}{\numberline {3.5.2}Patrones de diseño}{57}{subsection.3.5.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Acciones Redux}{56}{section*.55}% 
+\contentsline {subsection}{\numberline {3.5.3}Redux}{58}{subsection.3.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.3}Integración React/Redux}{56}{subsection.3.5.3}% 
+\contentsline {subsubsection}{Redux/Flux}{58}{section*.54}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.4}Diseño Atómico (Atomic Design)}{58}{subsection.3.5.4}% 
+\contentsline {subsubsection}{Redux Store}{60}{section*.56}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.5}Estructura de la aplicación web}{59}{subsection.3.5.5}% 
+\contentsline {subsubsection}{Redux Reducer}{60}{section*.57}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Acciones Redux}{61}{section*.58}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.4}Integración React/Redux}{61}{subsection.3.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.5}Diseño Atómico (Atomic Design)}{63}{subsection.3.5.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.6}Estructura de la aplicación web}{64}{subsection.3.5.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Configuración para producción}{72}{section.3.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.1}Configurar despliegue automático con Git}{72}{subsection.3.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Prerrequisitos}{73}{section*.69}% 

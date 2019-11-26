@@ -44,8 +44,11 @@
 \BOOKMARK [2][-]{subsection.3.4.8}{Configuraci\363n de webhook en Express.js}{section.3.4}% 44
 \BOOKMARK [2][-]{subsection.3.4.9}{Websockets con Socket.IO}{section.3.4}% 45
 \BOOKMARK [1][-]{section.3.5}{Desarrollo de la aplicaci\363n web \(Frontend\)}{chapter.3}% 46
-\BOOKMARK [2][-]{subsection.3.5.1}{Patrones de dise\361o}{section.3.5}% 47
-\BOOKMARK [2][-]{subsection.3.5.2}{Redux}{section.3.5}% 48
-\BOOKMARK [2][-]{subsection.3.5.3}{Integraci\363n React/Redux}{section.3.5}% 49
-\BOOKMARK [2][-]{subsection.3.5.4}{Dise\361o At\363mico \(Atomic Design\)}{section.3.5}% 50
-\BOOKMARK [2][-]{subsection.3.5.5}{Estructura de la aplicaci\363n web}{section.3.5}% 51
+\BOOKMARK [2][-]{subsection.3.5.1}{Configuraci\363n del entorno de desarrollo}{section.3.5}% 47
+\BOOKMARK [2][-]{subsection.3.5.2}{Patrones de dise\361o}{section.3.5}% 48
+\BOOKMARK [2][-]{subsection.3.5.3}{Redux}{section.3.5}% 49
+\BOOKMARK [2][-]{subsection.3.5.4}{Integraci\363n React/Redux}{section.3.5}% 50
+\BOOKMARK [2][-]{subsection.3.5.5}{Dise\361o At\363mico \(Atomic Design\)}{section.3.5}% 51
+\BOOKMARK [2][-]{subsection.3.5.6}{Estructura de la aplicaci\363n web}{section.3.5}% 52
+\BOOKMARK [1][-]{section.3.6}{Configuraci\363n para producci\363n}{chapter.3}% 53
+\BOOKMARK [2][-]{subsection.3.6.1}{Configurar despliegue autom\341tico con Git}{section.3.6}% 54

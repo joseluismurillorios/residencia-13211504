@@ -230,6 +230,34 @@
       \endverb
       \keyw{node,javascript}
     \endentry
+    \entry{ochin}{book}{}
+      \name{author}{1}{}{%
+        {{hash=726a7471c4ae3182496e4a53ea6728ec}{%
+           family={Ochin},
+           familyi={O\bibinitperiod},
+           given={Jugnu\bibnamedelima Gaur},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{726a7471c4ae3182496e4a53ea6728ec}
+      \strng{fullhash}{726a7471c4ae3182496e4a53ea6728ec}
+      \strng{bibnamehash}{726a7471c4ae3182496e4a53ea6728ec}
+      \strng{authorbibnamehash}{726a7471c4ae3182496e4a53ea6728ec}
+      \strng{authornamehash}{726a7471c4ae3182496e4a53ea6728ec}
+      \strng{authorfullhash}{726a7471c4ae3182496e4a53ea6728ec}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{title}{Cross Browser Incompatibility: Reasons and Solutions}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb http://www.airccse.org/journal/ijsea/papers/0711ijsea05.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.airccse.org/journal/ijsea/papers/0711ijsea05.pdf
+      \endverb
+    \endentry
     \entry{stefanov}{online}{}
       \name{author}{1}{}{%
         {{hash=a4bf6558e723fe21d97b5a0fd026ff63}{%
