@@ -22,7 +22,10 @@
 \setlength{\oddsidemargin}{0in}
 \setlength{\textwidth}{6in}
 \setlength{\topmargin}{0in}
-\setlength{\voffset}{0.5in}
+% \setlength{\voffset}{0.5in}
+\setlength{\voffset}{0in}
+\setlength{\headheight}{0.25in}
+\setlength{\headsep}{0.5in}
 \setlength{\hoffset}{0.5in}
 % \setlength{\textheight}{8in}
 \setlength{\textwidth}{5.5in}
@@ -41,6 +44,28 @@
 \author{José Luis Murillo Ríos}
 \date{21 DE JUNIO DEL 2019}
 
+% \fancyhead{}
+% \fancyfoot{}
+% \renewcommand{\headrulewidth}{0pt}
+% \fancyhead[RO,LE]{\footnotesize\thepage}
+% \fancyhead[RE]{\footnotesize\slshape\leftmark}
+
+% \fancyhead{\fontsize{8}{10}\selectfont\nouppercase\rightmark}
+\newcommand{\changefont}{\fontsize{10}{12}\selectfont}
+
+\fancyhf{}
+
+\fancyhead[L]{\changefont \slshape \nouppercase\leftmark}
+\fancyfoot[R]{\changefont \slshape \thepage}
+% \fancyfoot[L]{\changefont \slshape \nouppercase\rightmark}
+
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0.5pt}
+
+\pagestyle{fancy}
+
+% \rhead{\leftmark}
+% \cfoot{\thepage}
 
 \begin{document}
 \setcounter{page}{1}

@@ -1,7 +1,15 @@
-Redux practica la teoría de flujo de datos unidireccional y se convirtió en un patrón de facto como tecnología de gestión de estado para aplicaciones ReactJS. React utiliza \textit{props} (abreviatura de propiedades) en un componente que permite el uso de variables no estáticas. Con la ayuda de \textit{props}, podemos pasar estas variables a varios otros componentes (componentes secundarios) desde el componente principal.
+Redux practica la teoría de flujo de datos unidireccional y se convirtió en un patrón de facto como tecnología de gestión de estado para aplicaciones ReactJS. React utiliza \textit{props} (abreviatura de propiedades) en un componente que permite el uso de variables no estáticas. Con la ayuda de \textit{props}, podemos pasar estas variables a varios otros componentes (secundarios) desde el componente principal.
 \vspace{0.8cm}
 
-La conexión del Store de Redux con los componentes de React, es mediante un componente llamado Provider. En React para compartir datos entre componentes, un estado tiene que vivir en el componente principal. Este componente principal proporciona un método para actualizar este estado y se pasa como \textit{props} a estos componentes. El único propósito de Provider es agregar el Store al contexto del componente de la Aplicación, para que todos los componentes secundarios puedan acceder a ella. Provider envuelve a la aplicación React y hace que sea consciente de el Store.
+La conexión del Store de Redux con los componentes de React, es mediante un componente llamado \code{Provider} del módulo \code{react-redux}. En React para compartir datos entre componentes, un estado tiene que vivir en el componente principal. Este componente principal proporciona un método para actualizar este estado y se pasa como \textit{props} a estos componentes. El único propósito de \code{Provider} es agregar el Store al contexto del componente de la Aplicación, para que todos los componentes secundarios puedan acceder a ella mediante la función \code{connect} de \code{react-redux}. \code{Provider} envuelve a la aplicación React y hace que sea consciente de el Store.
 \vspace{0.8cm}
 
 \lstinputlisting[style=ES6, caption=Fragmento de código de la aplicación React principal]{code/redux-react.js}
+
+La función \code{connect} ayuda a conectar un componente con el estado de la aplicación, se debe definir una función especial llamada \code{mapStateToProps} para describir que partes del estado actual de Redux se desean pasar al componente que está envolviendo y una función de nombre \code{mapDispatchToProps} conecta las acciones de Redux con React \textit{props}. De esta manera, un componente React conectado podrá enviar mensajes a el Store.
+\vspace{0.8cm}
+
+\lstinputlisting[style=ES6, caption=Ejemplo de conexión de un componente React con el estado Redux]{code/connect.js}
+% \begin{enumerate}
+%   \item El primer argumento es
+% \end{enumerate}

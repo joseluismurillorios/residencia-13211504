@@ -36,3 +36,5 @@
 \contentsline {lstlisting}{\numberline {3.15}Fragmento de una acción que actualiza el estado}{61}{lstlisting.3.15}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {lstlisting}{\numberline {3.16}Fragmento de código de la aplicación React principal}{62}{lstlisting.3.16}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {lstlisting}{\numberline {3.17}Ejemplo de conexión de un componente React con el estado Redux}{63}{lstlisting.3.17}% 

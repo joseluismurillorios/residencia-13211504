@@ -13,11 +13,11 @@ Webpack necesita una configuración básica para que funcione debidamente:
 \begin{itemize}
   \item Entrada:
   Webpack utiliza el grafo de dependencias para decidir qué módulos deben agruparse. Esto significa que Webpack comienza desde un solo módulo y procesa todas sus dependencias directas e indirectas para formar el grafo de dependencia completo y luego agrupar todos los módulos necesarios.
-  El punto de entrada determina desde dónde debe comenzar el paquete web para construir su gráfico de dependencia interna.
+  El punto de entrada determina desde dónde debe comenzar el paquete web para construir su gráfico de dependencia interna.\\
   Entrada del proyecto: \code{./src/app.js}
   \item Salida:
-  La salida determina dónde se supone que el paquete web debe emitir los paquetes que crea y cómo los nombra. Este directorio también contendrá todos los archivos estáticos de la aplicación web que serán visibles al publico mediante el servidor Express.js.
-  Salida del proyecto: ./www/bundle.js 
+  La salida determina dónde se supone que el paquete web debe emitir los paquetes que crea y cómo los nombra. Este directorio también contendrá todos los archivos estáticos de la aplicación web que serán visibles al publico mediante el servidor Express.js.\\
+  Salida del proyecto: \code{./www/bundle.js}
   \item Loaders
   Los loaders en el paquete web son los que le permiten manejar archivos que no son JavaScript (el empaquetador web solo comprende JavaScript). Los loaders leen varios tipos de archivos y los transforman en módulos válidos que webpack puede entender.
   \item Plugins
