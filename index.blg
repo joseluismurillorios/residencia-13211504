@@ -1,16 +1,19 @@
 [0] Config.pm:304> INFO - This is Biber 2.13
 [0] Config.pm:307> INFO - Logfile is 'index.blg'
-[111] biber-darwin:315> INFO - === Tue Nov 26, 2019, 23:16:11
-[204] Biber.pm:375> INFO - Reading 'index.bcf'
-[391] Biber.pm:905> INFO - Found 13 citekeys in bib section 0
-[454] Biber.pm:4196> INFO - Processing section 0
-[454] Utils.pm:75> INFO - Globbing data source 'references.bib'
-[454] Utils.pm:91> INFO - Globbed data source 'references.bib' to references.bib
-[500] Biber.pm:4373> INFO - Looking for bibtex format file 'references.bib' for section 0
-[502] bibtex.pm:1462> INFO - LaTeX decoding ...
-[532] bibtex.pm:1281> INFO - Found BibTeX data source 'references.bib'
-[672] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[672] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[673] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
-[763] bbl.pm:648> INFO - Writing 'index.bbl' with encoding 'UTF-8'
-[771] bbl.pm:751> INFO - Output to index.bbl
+[142] biber-darwin:315> INFO - === Thu Nov 28, 2019, 01:57:21
+[247] Biber.pm:375> INFO - Reading 'index.bcf'
+[461] Biber.pm:905> INFO - Found 14 citekeys in bib section 0
+[516] Biber.pm:4196> INFO - Processing section 0
+[552] Utils.pm:75> INFO - Globbing data source 'references.bib'
+[555] Utils.pm:91> INFO - Globbed data source 'references.bib' to references.bib
+[588] Biber.pm:4373> INFO - Looking for bibtex format file 'references.bib' for section 0
+[592] bibtex.pm:1462> INFO - LaTeX decoding ...
+[648] bibtex.pm:1281> INFO - Found BibTeX data source 'references.bib'
+[802] Utils.pm:300> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[802] Utils.pm:300> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[851] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1104] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1105] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[1214] bbl.pm:648> INFO - Writing 'index.bbl' with encoding 'UTF-8'
+[1229] bbl.pm:751> INFO - Output to index.bbl
+[1229] Biber.pm:110> INFO - WARNINGS: 2

@@ -38,3 +38,7 @@
 \contentsline {lstlisting}{\numberline {3.16}Fragmento de código de la aplicación React principal}{62}{lstlisting.3.16}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {lstlisting}{\numberline {3.17}Ejemplo de conexión de un componente React con el estado Redux}{63}{lstlisting.3.17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {lstlisting}{\numberline {3.18}Fragmento de código del manejo de sesión de usuario}{66}{lstlisting.3.18}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {lstlisting}{\numberline {3.19}Función para calcular distancia entre dos puntos geográficos}{73}{lstlisting.3.19}% 

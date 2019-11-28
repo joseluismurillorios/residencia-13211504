@@ -159,8 +159,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.5.6}Estructura de la aplicación web}{65}{subsection.3.5.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Configuración para producción}{73}{section.3.6}% 
+\contentsline {subsubsection}{Módulo de inicio de sesión}{65}{section*.60}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.1}Configurar despliegue automático con Git}{73}{subsection.3.6.1}% 
+\contentsline {subsubsection}{Interfaz de usuario principal}{67}{section*.62}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Prerrequisitos}{74}{section*.69}% 
+\contentsline {subsubsection}{Interfaz de usuario de la sección de ventas}{70}{section*.65}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Configuración para producción}{76}{section.3.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.1}Configurar despliegue automático con Git}{76}{subsection.3.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Prerrequisitos}{77}{section*.73}% 

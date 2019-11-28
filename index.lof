@@ -45,20 +45,22 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {3.12}{\ignorespaces Metodología de diseño atómico.\relax }}{64}{figure.caption.59}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Módulo de inicio de sesión.\relax }}{65}{figure.caption.60}% 
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Diseño final de la sección de inicio de sesión.\relax }}{67}{figure.caption.61}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Sección principal.\relax }}{66}{figure.caption.61}% 
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Diseño final de la sección principal.\relax }}{68}{figure.caption.63}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Sección de ventas.\relax }}{67}{figure.caption.62}% 
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Diseño de la aplicación móvil.\relax }}{69}{figure.caption.64}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.16}{\ignorespaces Módulo de catálogo de productos.\relax }}{68}{figure.caption.63}% 
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Diseño final de la sección de ventas.\relax }}{70}{figure.caption.66}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.17}{\ignorespaces Módulo de producto.\relax }}{69}{figure.caption.64}% 
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Componente de catálogo de productos.\relax }}{71}{figure.caption.67}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.18}{\ignorespaces Módulo de Google Map.\relax }}{70}{figure.caption.65}% 
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Componente de producto.\relax }}{71}{figure.caption.68}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.19}{\ignorespaces Módulo de manufactura y entrega.\relax }}{71}{figure.caption.66}% 
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Componente de Google Map.\relax }}{72}{figure.caption.69}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.20}{\ignorespaces Módulo de administración de usuarios.\relax }}{72}{figure.caption.67}% 
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Diseño final de la sección de manufactura y entrega.\relax }}{74}{figure.caption.70}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.21}{\ignorespaces Implementación Redux y Diseño Atómico.\relax }}{73}{figure.caption.68}% 
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Diseño final de la sección de administración de usuarios.\relax }}{75}{figure.caption.71}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Implementación Redux y Diseño Atómico.\relax }}{76}{figure.caption.72}% 

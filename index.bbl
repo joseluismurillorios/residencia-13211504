@@ -19,6 +19,38 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{anisya}{article}{}
+      \name{author}{2}{}{%
+        {{hash=950a0b1c55c7908b4e86db39f5333554}{%
+           family={Anisya},
+           familyi={A\bibinitperiod}}}%
+        {{hash=85f97a19e2986333a0121b40dbd678a9}{%
+           family={Swara},
+           familyi={S\bibinitperiod},
+           given={Ganda},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{4369e98082f8e001fa5e82414aaaab5c}
+      \strng{fullhash}{4369e98082f8e001fa5e82414aaaab5c}
+      \strng{bibnamehash}{4369e98082f8e001fa5e82414aaaab5c}
+      \strng{authorbibnamehash}{4369e98082f8e001fa5e82414aaaab5c}
+      \strng{authornamehash}{4369e98082f8e001fa5e82414aaaab5c}
+      \strng{authorfullhash}{4369e98082f8e001fa5e82414aaaab5c}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IOP Conference Series: Earth and Environmental Science}
+      \field{month}{12}
+      \field{title}{Implementation Of Haversine Formula And Best First Search Method In Searching Of Tsunami Evacuation Route}
+      \field{volume}{97}
+      \field{year}{2017}
+      \field{pages}{012004}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1755-1315/97/1/012004
+      \endverb
+    \endentry
     \entry{ethan}{online}{}
       \name{author}{1}{}{%
         {{hash=f2c747cbf3c76c3e80587678a9840e94}{%
