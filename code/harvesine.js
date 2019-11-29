@@ -1,4 +1,4 @@
-/**\textcolor{allcomment}{// Funcioón para convertir grados en radianes }  -*/
+/**\textcolor{allcomment}{// Función para convertir grados en radianes }  -*/
 export const deg2rad = deg => deg * (Math.PI / 180);
 
 export const getDistanceFromLatLonInKm = (lat1, lon1, lat2, lon2) => {

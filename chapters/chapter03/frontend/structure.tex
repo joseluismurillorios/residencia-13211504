@@ -1,4 +1,4 @@
-Rosesland cuenta con dispositivos tipo tablet, por lo que el diseño de la interfaz de usuario debe aprovechar las ventajas que ofrece este entorno interactivo. Se pretende resumir el proceso de venta, elaboracion y entrega de productos en dos secciones. También se agrega una sección de administración de usuarios y una página con información general de la florería.
+Rosesland cuenta con dispositivos tipo tablet, por lo que el diseño de la interfaz de usuario debe aprovechar las ventajas que ofrece este entorno interactivo. Se pretende resumir el proceso de venta, elaboración y entrega de productos en dos secciones. También se agrega una sección de administración de usuarios y una página con información general de la florería.
 \vspace{0.8cm}
 
 La interfaz de usuario juega un papel muy importante en el aumento de la usabilidad de una aplicación, dado que la IU ofrece al usuario una vista abstracta de todo el sistema, el éxito del sistema depende en gran medida de ello. Por lo tanto, el diseño de la interfaz de usuario debe tener la importancia adecuada en el proceso del ciclo de vida del diseño del sistema.
@@ -108,31 +108,45 @@ Una vez seleccionada la ubicación, el sistema ejecuta una función que recibe l
 
 \textbf{Donde:}\\
 \-\hspace{0.5cm} haversin es la función haversine, haversin($\Theta$) = $sen^2$ ($\Theta$/2) = (1-cos ($\Theta$))/2\\
-\-\hspace{0.5cm} d es la distancia entre dos puntos (sobre un círculo máximo de la esfera, véase distancia esférica),\\
-\-\hspace{0.5cm} R es el radio de la esfera,\\
+\-\hspace{0.5cm} d es la distancia entre dos puntos\\
+\-\hspace{0.5cm} R es el radio de la esfera\\
 \-\hspace{0.5cm} $\Delta\varphi$ es la diferencia de latitudes\\
 \-\hspace{0.5cm} $\Delta\lambda$ es la diferencia de longitudes
 \vspace{0.8cm}
 
 \lstinputlisting[style=ES6, label=login, caption=Función para calcular distancia entre dos puntos geográficos]{code/harvesine.js}
 
+\subsubsection{Interfaz para el área de manufactura y entrega}
+En esta sección se muestra el detalle de las ordenes, su principal función es desplegar en pantalla la información necesaria para elaborar y entregar los pedidos. Esta parte de la aplicación es visible para todos los usuarios, pero la información mostrada es distinta para cada empleado. Los floristas y chóferes solo pueden ver las ordenes asignadas a su usuario, los administradores y empleados de venta tienen acceso a todas las ordenes, debido a que en esta sección se encuentran los enlaces para editar las ordenes e imprimir los recibos en caso de ser solicitados.
+\vspace{0.8cm}
+
 \begin{figure}[H]
   \centering
   \includegraphics[width=1\textwidth]{app-orders}
   \caption{Diseño final de la sección de manufactura y entrega.}
+  \label{production-ui}
 \end{figure}
+
+En la figura \ref{production-ui} se observan dos módulos principales; en el lado izquierdo se tiene una lista con las ordenes del día organizadas por hora de entrega, además de opciones para ver todas las fechas y/o filtrarlas por estatus. El lado derecho consta de un mapa con la dirección de entrega (invisible para los floristas o en caso de que la orden sea para recoger en la florería) y un tablero con las especificaciones de la orden incluidas las imágenes de los arreglos para proporcionar una ayuda visual en el área de elaboración de productos.
+\vspace{0.8cm}
+
+\subsubsection{Interfaz de administración de usuarios}
+Este panel permita agregar y editar la información de los usuarios incluidos sus permisos, solo los administradores tienen acceso a este módulo; a diferencia del módulo de inicio de sesión, las actividades realizadas en estos componentes deben ser validadas por Firebase Authentication en el lado del servidor.
 \vspace{0.8cm}
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=1\textwidth]{app-admin}
   \caption{Diseño final de la sección de administración de usuarios.}
+  \label{admin-ui}
 \end{figure}
+
+Por el lado izquierdo se tiene una lista con los usuarios con un indicador del estatus de su conexión en el sistema; en color rojo se muestran los empleados inactivos y en verde los empleados conectados al sistema. En el lado derecho se encuentran los campos con la información del usuario y la opción de actualizarlo o eliminarlo. En esta sección se aprecia con todo detalle los beneficios de utilizar Redux y el Diseño Atómico, distintos componentes conectados con un mismo estado (figura \ref{admin-atomic}).
 \vspace{0.8cm}
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=1\textwidth]{app-atomic}
   \caption{Implementación Redux y Diseño Atómico.}
+  \label{admin-atomic}
 \end{figure}
-\vspace{0.8cm}
