@@ -169,8 +169,18 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Interfaz de administración de usuarios}{75}{section*.72}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Configuración para producción}{77}{section.3.6}% 
+\contentsline {subsubsection}{Evaluación de la interfaz de usuario}{77}{section*.75}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.1}Configurar despliegue automático con Git}{77}{subsection.3.6.1}% 
+\contentsline {section}{\numberline {3.6}Configuración para producción}{78}{section.3.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Prerrequisitos}{77}{section*.75}% 
+\contentsline {subsubsection}{Requisitos del servidor}{78}{section*.76}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Servidor Privado Virtual}{78}{section*.77}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.1}Configurar despliegue automático con Git}{80}{subsection.3.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Configuración de repositorios}{80}{section*.79}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Git Hooks}{80}{section*.80}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Despliegue Node.js en un entorno de producción}{82}{section*.81}% 

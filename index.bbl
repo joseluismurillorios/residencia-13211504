@@ -203,6 +203,7 @@
       \strng{authorbibnamehash}{15e1045706ba0f923763122f975d4964}
       \strng{authornamehash}{15e1045706ba0f923763122f975d4964}
       \strng{authorfullhash}{15e1045706ba0f923763122f975d4964}
+      \field{extraname}{1}
       \field{sortinit}{M}
       \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
       \field{labelnamesource}{author}
@@ -216,6 +217,35 @@
       \verb https://pepa.holla.cz/wp-content/uploads/2016/08/Express.js-Guide.pdf
       \endverb
       \keyw{node,express}
+    \endentry
+    \entry{mardan}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=15e1045706ba0f923763122f975d4964}{%
+           family={Mardan},
+           familyi={M\bibinitperiod},
+           given={Azat},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{15e1045706ba0f923763122f975d4964}
+      \strng{fullhash}{15e1045706ba0f923763122f975d4964}
+      \strng{bibnamehash}{15e1045706ba0f923763122f975d4964}
+      \strng{authorbibnamehash}{15e1045706ba0f923763122f975d4964}
+      \strng{authornamehash}{15e1045706ba0f923763122f975d4964}
+      \strng{authorfullhash}{15e1045706ba0f923763122f975d4964}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-4302-6595-5}
+      \field{month}{07}
+      \field{title}{Getting Node.js Apps Production Ready}
+      \field{year}{2014}
+      \field{pages}{215\bibrangedash 241}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1007/978-1-4302-6596-2_10
+      \endverb
     \endentry
     \entry{mukhiya}{book}{}
       \name{author}{3}{}{%
@@ -359,6 +389,34 @@
       \verb https://www.apress.com/gp/blog/all-blog-posts/why-mern/12056000
       \endverb
       \keyw{mern,mongodb,react,node}
+    \endentry
+    \entry{vaccaro}{online}{}
+      \name{author}{1}{}{%
+        {{hash=6336dbd8afccb2cf4265cc05dc44e833}{%
+           family={Vaccaro},
+           familyi={V\bibinitperiod},
+           given={Caio},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6336dbd8afccb2cf4265cc05dc44e833}
+      \strng{fullhash}{6336dbd8afccb2cf4265cc05dc44e833}
+      \strng{bibnamehash}{6336dbd8afccb2cf4265cc05dc44e833}
+      \strng{authorbibnamehash}{6336dbd8afccb2cf4265cc05dc44e833}
+      \strng{authornamehash}{6336dbd8afccb2cf4265cc05dc44e833}
+      \strng{authorfullhash}{6336dbd8afccb2cf4265cc05dc44e833}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How To Set Up Automatic Deployment with Git with a VPS}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
+      \endverb
+      \verb{url}
+      \verb https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
+      \endverb
+      \keyw{git}
     \endentry
     \entry{webhook}{online}{}
       \field{sortinit}{W}
