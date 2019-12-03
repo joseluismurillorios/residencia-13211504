@@ -3,7 +3,7 @@ Hacer que las aplicaciones de Node.js estén listas para producción es probable
 \subsubsection{Requisitos del servidor}
 
 \begin{itemize}
-  \item Servidor CentOS 7 con Git instalado.
+  \item Servidor CentOS 7 con Node.js y Git instalado.
   \item Al menos 512 Mb de RAM y 15 Gb de espacio libre en disco.
   \item Acceso de usuario root a través de SSH.
   \item Un nombre de dominio apuntado a la dirección IP del servidor (rosesland.app)
@@ -85,4 +85,125 @@ Con esto es posible empujar cambios en el repositorio al servidor remoto usando 
 Con esto se le dice a Git que empuje al remoto `live' en la rama `master'.
 \vspace{0.8cm}
 
-\subsubsection{Despliegue Node.js en un entorno de producción}
+\subsection{Despliegue Node.js en un entorno de producción}
+El término servidor puede ser un poco confuso para las personas nuevas en el tema porque puede referirse tanto al hardware (computadoras físicas que albergan todos los archivos requeridos por los sitios web) como al software (programa que permite a los usuarios acceder a esos archivos en la web). El hardware se encuentra alojado en un servidor virtual privado, por tal motivo esta sección se centra en el lado del software.
+
+\subsubsection{Servidor proxy inverso}
+Una vez transferido el código del proyecto al servidor y configurar un entorno para la aplicación, es momento de configurar un servidor proxy inverso. Un servidor proxy es un servidor intermedio o intermediario que reenvía solicitudes de contenido de varios clientes a diferentes servidores a través de Internet. Un servidor proxy inverso es un tipo de servidor proxy que generalmente se encuentra detrás del firewall en una red privada y dirige las solicitudes de los clientes al servidor apropiado. Un proxy inverso proporciona un nivel adicional de abstracción y control para garantizar el flujo fluido del tráfico de red entre clientes y servidores.
+
+\subsubsection{Configuración nginx y firewall-cmd}
+Nginx (Engine X) es una de las mejores soluciones para configurar un servidor proxy inverso, con el será posible entregar contenido de forma rápida, confiable y segura. Hará que la aplicación sea accesible desde un navegador, y en caso de ejecutar varios sitios desde el mismo servidor, también podría funcionar como equilibrador de carga.
+\vspace{0.8cm}
+
+Después de iniciar sesión como usuario root, se agrega el repositorio CentOS 7 EPEL y se instala nginx con los siguientes comandos:\\
+\\
+\code{yum install epel-release}\\
+\code{yum install nginx}\\
+\\
+Se presiona ‘y’ dos veces para finalizar la instalación. Para inicializar el servicio nginx y este inicie con el arranque del servidor se introducen los siguientes comandos:\\
+\\
+\code{sudo systemctl enable nginx}\\
+\code{sudo systemctl start nginx}\\
+\\
+A continuación se instala firewall-cmd, el front-end de línea de comandos para firewalld (firewalld daemon), para CentOS. Admite IPv4 e IPv6, zonas de firewall, puentes y conjuntos de ip, registra paquetes denegados, carga automáticamente módulos de kernel, entre otras cosas mas. Se instala con el siguiente comando:\\
+\\
+\code{yum install firewalld}\\
+\\
+Ahora, se habilita para que se inicie automáticamente en el arranque del sistema y se observa su estado:\\
+\\
+\code{systemctl start firewalld}\\
+\code{systemctl enable firewalld}\\
+\code{systemctl status firewalld}\\
+\\
+En nginx para CentOS se necesita crear carpetas para sitios disponibles y habilitados. Se crean con los siguientes comandos:\\
+\\
+\code{mkdir /etc/nginx/sites-available}\\
+\code{mkdir /etc/nginx/sites-enabled}\\
+\\
+Después se edita el archivo de configuración global de nginx:\\
+\\
+\code{nano /etc/nginx/nginx.conf}\\
+\\
+Se identifica la linea:\\
+\\
+\code{include /etc/nginx/conf.d/*.conf;}\\
+\\
+Se inserta lo siguiente:\\
+\\
+\code{include /etc/nginx/sites-enabled/*;}\\
+\code{server\_names\_hash\_bucket\_size 64;}
+\vspace{0.8cm}
+
+\begin{lstlisting}[language=bash, caption=Fragmento de configuración nginx]
+http {
+  include       /etc/nginx/mime.types;
+  default_type  application/octet-stream;
+
+  log_format  main  '$remote_addr - $remote_user [$time_local] "$request" '
+                    '$status $body_bytes_sent "$http_referer" '
+                    '"$http_user_agent" "$http_x_forwarded_for"';
+  access_log  /var/log/nginx/access.log  main;
+  sendfile        on;
+  keepalive_timeout  65;
+
+  #Se agrega debajo de esta linea
+  include /etc/nginx/conf.d/*.conf;
+  include /etc/nginx/sites-enabled/*;
+  server_names_hash_bucket_size 64;
+}
+\end{lstlisting}
+
+Para finalizar se procede a utilizar el modulo npm llamado `nginx-generator' para generar los archivos que le indican a nginx que actúe como un proxy inverso. En la linea de comandos se escribe lo siguiente:\\
+\\
+\code{nginx-generator \symbol{92}}\\
+\code{        ---name rosesland \symbol{92}}\\
+\code{        ---domain http://rosesland.app \symbol{92}}\\
+\code{        ---type proxy \symbol{92}}\\
+\code{        ---var host=localhost \symbol{92}}\\
+\code{        ---var port=3000 \symbol{92}}\\
+\code{        /etc/nginx/sites-enabled/rosesland.app.conf}\\
+\\
+Este comando crea un archivo llamado \code{site\_nginx} y lo coloca dentro del directorio \code{/etc/nginx/sites-enabled/}. El archivo se puede observar con el siguiente comando:\\
+\\
+\code{sudo nano /etc/nginx/sites-enabled/rosesland.app.conf}\\
+\\
+Por ultimo se reinicia nginx:\\
+\\
+\code{systemctl restart nginx}
+
+\subsubsection{Configuración del administrador de procesos PM2}
+PM2 es un administrador de procesos de producción para aplicaciones basadas en Node.js. Con PM2, se pueden monitorear aplicaciones, su memoria y uso de CPU. También proporciona comandos fáciles para detener/iniciar/reiniciar todas las aplicaciones o aplicaciones individuales. Una vez que la aplicación se inicia a través de PM2, siempre se ejecutará después de que el sistema se bloquee o reinicie.
+\vspace{0.8cm}
+
+PM2 se instala mediante npm con el siguiente comando:\\
+\\
+\code{npm install pm2 -g}\\
+\\
+Una vez instalado sera posible ejecutar la aplicación con PM2:\\
+\\
+\code{pm2 start /var/www/rosesland.app/index.js ---name rosesland}\\
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=1\textwidth]{pm2}
+  \caption{Lista de procesos en pm2.}
+\end{figure}
+
+\subsubsection{Asegurar el sitio mediante HTTPS}
+Con un nombre de dominio y registros DNS configurados correctamente para que apunten al VPS, se puede usar Certbot para generar certificados. Certbot es una herramienta de software gratuita y de código abierto para usar automáticamente certificados seguros en sitios web administrados manualmente para habilitar HTTPS \cite{certbot}.
+\vspace{0.8cm}
+
+Certbot está empaquetado en los Paquetes Adicionales para Enterprise Linux o EPEL (Extra Packages for Enterprise Linux). Para habilitar el repositorio adicional, el canal opcional e instalar EPEL, se emiten los siguientes comandos:\\
+\\
+\code{yum -y install yum-utils}\\
+\code{yum-config-manager --enable rhui-REGION-rhel-server-extras rhui-REGION-rhel-server-optional}\\
+\code{sudo yum install certbot python2-certbot-nginx}\\
+\\
+Se presiona `y' cuando es requerido y al finalizar ejecutamos certbot:\\
+\\
+\code{certbot --nginx}\\
+\\
+Cuando se instalan certificados por primera vez, Certbot pide una dirección de correo electrónico de emergencia, luego varias preguntas menos importantes y, finalmente, ¿desea redirigir todo el tráfico HTTP a HTTPS? Se selecciona la opción 2 para confirmar esta redirección y concluir con la configuración del despliegue de la aplicación.
+\vspace{0.8cm}
+
+En este momento se cuenta con una aplicación Node.js ejecutándose como un servicio en segundo plano en un entorno de producción, utilizando el protocolo HTTPS por seguridad y nginx como proxy inverso.

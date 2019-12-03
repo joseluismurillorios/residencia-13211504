@@ -52,3 +52,5 @@
 \BOOKMARK [2][-]{subsection.3.5.6}{Estructura de la aplicaci\363n web}{section.3.5}% 52
 \BOOKMARK [1][-]{section.3.6}{Configuraci\363n para producci\363n}{chapter.3}% 53
 \BOOKMARK [2][-]{subsection.3.6.1}{Configurar despliegue autom\341tico con Git}{section.3.6}% 54
+\BOOKMARK [2][-]{subsection.3.6.2}{Despliegue Node.js en un entorno de producci\363n}{section.3.6}% 55
+\BOOKMARK [0][-]{chapter.4}{Conclusiones}{}% 56

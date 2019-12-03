@@ -42,3 +42,5 @@
 \contentsline {lstlisting}{\numberline {3.18}Fragmento de código del manejo de sesión de usuario}{66}{lstlisting.3.18}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {lstlisting}{\numberline {3.19}Función para calcular distancia entre dos puntos geográficos}{73}{lstlisting.3.19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {lstlisting}{\numberline {3.20}Fragmento de configuración nginx}{84}{lstlisting.3.20}% 
