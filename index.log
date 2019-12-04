@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  4 DEC 2019 00:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  4 DEC 2019 01:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -928,24 +928,24 @@ Package pdftex.def Info: ./images/escudo1.png  used on input line 82.
 
 \openout4 = `index.ist'.
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/escudo1.png>] [2] (/Users/josemurillo/Git/thesis/chapters/abstract.tex) [3] (/Users/josemurillo/Git/thesis/chapters/dedication.tex) [4] (/Users/josemurillo/Git/thesis/chapters/aknowledgements.tex) [5] (/Users/josemurillo/Git/thesis/index.toc
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/escudo1.png>] [2] (/Users/josemurillo/Git/thesis/chapters/abstract.tex [3]) [4] (/Users/josemurillo/Git/thesis/chapters/dedication.tex) [5] (/Users/josemurillo/Git/thesis/chapters/aknowledgements.tex) [6] (/Users/josemurillo/Git/thesis/index.toc
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
- [6
+ [7
 
 ]
 LaTeX Info: Redefining \sptext on input line 108.
 LaTeX Info: Redefining \. on input line 108.
 LaTeX Info: Redefining \% on input line 108.
- [7])
+ [8])
 \tf@toc=\write8
 \openout8 = `index.toc'.
 
 LaTeX Info: Redefining \sptext on input line 120.
 LaTeX Info: Redefining \. on input line 120.
 LaTeX Info: Redefining \% on input line 120.
- [8] (/Users/josemurillo/Git/thesis/index.lot
+ [9] (/Users/josemurillo/Git/thesis/index.lot
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
@@ -953,13 +953,13 @@ LaTeX Info: Redefining \% on input line 2.
 \tf@lot=\write9
 \openout9 = `index.lot'.
 
- [9
+ [10
 
 ] (/Users/josemurillo/Git/thesis/index.lof
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
- [10
+ [11
 
 ])
 \tf@lof=\write10
@@ -968,11 +968,11 @@ LaTeX Info: Redefining \% on input line 2.
 LaTeX Info: Redefining \sptext on input line 125.
 LaTeX Info: Redefining \. on input line 125.
 LaTeX Info: Redefining \% on input line 125.
- [11] (/Users/josemurillo/Git/thesis/index.lol)
+ [12] (/Users/josemurillo/Git/thesis/index.lol)
 \tf@lol=\write11
 \openout11 = `index.lol'.
 
- [12
+ [13
 
 ]
 Cap\'{\i }tulo 1.
@@ -991,7 +991,7 @@ Cap\'{\i }tulo 2.
 (/Users/josemurillo/Git/thesis/chapters/chapter02/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter02/mern/intro.tex [4
 
 ]
-<./images/mean.png, id=504, 991.705pt x 238.8925pt>
+<./images/mean.png, id=509, 991.705pt x 238.8925pt>
 File: ./images/mean.png Graphic file (type png)
 <use ./images/mean.png>
 Package pdftex.def Info: ./images/mean.png  used on input line 25.
@@ -1012,7 +1012,7 @@ LaTeX Info: Redefining \sptext on input line 52.
 LaTeX Info: Redefining \. on input line 52.
 LaTeX Info: Redefining \% on input line 52.
 [7]
-<./images/sql-nosql.png, id=530, 1031.855pt x 546.04pt>
+<./images/sql-nosql.png, id=534, 1031.855pt x 546.04pt>
 File: ./images/sql-nosql.png Graphic file (type png)
 <use ./images/sql-nosql.png>
 Package pdftex.def Info: ./images/sql-nosql.png  used on input line 56.
@@ -1036,7 +1036,7 @@ LaTeX Info: Redefining \sptext on input line 9.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
  [9] (/Users/josemurillo/Git/thesis/chapters/chapter02/fern/intro.tex
-<./images/fern.png, id=548, 800.9925pt x 471.7625pt>
+<./images/fern.png, id=552, 800.9925pt x 471.7625pt>
 File: ./images/fern.png Graphic file (type png)
 <use ./images/fern.png>
 Package pdftex.def Info: ./images/fern.png  used on input line 13.
@@ -1046,7 +1046,7 @@ LaTeX Info: Redefining \sptext on input line 3.
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
  [10 <./images/fern.png>]
-<./images/firestore.jpg, id=555, 2047.65pt x 1194.4625pt>
+<./images/firestore.jpg, id=559, 2047.65pt x 1194.4625pt>
 File: ./images/firestore.jpg Graphic file (type jpg)
 <use ./images/firestore.jpg>
 Package pdftex.def Info: ./images/firestore.jpg  used on input line 9.
@@ -1056,7 +1056,7 @@ LaTeX Info: Redefining \sptext on input line 3.
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
  [11 <./images/firestore.jpg>]
-<./images/node.png, id=560, 726.715pt x 377.41pt>
+<./images/node.png, id=564, 726.715pt x 377.41pt>
 File: ./images/node.png Graphic file (type png)
 <use ./images/node.png>
 Package pdftex.def Info: ./images/node.png  used on input line 9.
@@ -1177,7 +1177,7 @@ LaTeX Info: Redefining \sptext on input line 3.
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
  [15]
-<./images/components.png, id=605, 831.105pt x 640.3925pt>
+<./images/components.png, id=609, 831.105pt x 640.3925pt>
 File: ./images/components.png Graphic file (type png)
 <use ./images/components.png>
 Package pdftex.def Info: ./images/components.png  used on input line 9.
@@ -1303,7 +1303,7 @@ LaTeX Info: Redefining \sptext on input line 17.
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
  [22] (/Users/josemurillo/Git/thesis/chapters/chapter02/git.tex
-<./images/git.png, id=704, 847.165pt x 730.73pt>
+<./images/git.png, id=708, 847.165pt x 730.73pt>
 File: ./images/git.png Graphic file (type png)
 <use ./images/git.png>
 Package pdftex.def Info: ./images/git.png  used on input line 9.
@@ -1323,7 +1323,7 @@ LaTeX Info: Redefining \% on input line 149.
  [24 <./images/git.png>]
 Cap\'{\i }tulo 3.
 (/Users/josemurillo/Git/thesis/chapters/chapter03/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter03/ecommerce.tex
-<./images/rosesland.png, id=714, 939.51pt x 794.97pt>
+<./images/rosesland.png, id=719, 939.51pt x 794.97pt>
 File: ./images/rosesland.png Graphic file (type png)
 <use ./images/rosesland.png>
 Package pdftex.def Info: ./images/rosesland.png  used on input line 5.
@@ -1331,7 +1331,7 @@ Package pdftex.def Info: ./images/rosesland.png  used on input line 5.
  [25
 
 ]
-<./images/shopify.png, id=720, 937.5025pt x 558.085pt>
+<./images/shopify.png, id=725, 937.5025pt x 558.085pt>
 File: ./images/shopify.png Graphic file (type png)
 <use ./images/shopify.png>
 Package pdftex.def Info: ./images/shopify.png  used on input line 18.
@@ -1345,7 +1345,7 @@ LaTeX Info: Redefining \sptext on input line 9.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
  [27 <./images/shopify.png>]
-<./images/use-case.png, id=733, 1186.4325pt x 1069.9975pt>
+<./images/use-case.png, id=737, 1186.4325pt x 1069.9975pt>
 File: ./images/use-case.png Graphic file (type png)
 <use ./images/use-case.png>
 Package pdftex.def Info: ./images/use-case.png  used on input line 16.
@@ -1366,7 +1366,7 @@ LaTeX Info: Redefining \sptext on input line 45.
 LaTeX Info: Redefining \. on input line 45.
 LaTeX Info: Redefining \% on input line 45.
  [31]
-<./images/app.jpg, id=761, 457.71pt x 965.6075pt>
+<./images/app.jpg, id=765, 457.71pt x 965.6075pt>
 File: ./images/app.jpg Graphic file (type jpg)
 <use ./images/app.jpg>
 Package pdftex.def Info: ./images/app.jpg  used on input line 51.
@@ -1446,7 +1446,7 @@ LaTeX Info: Redefining \sptext on input line 24.
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
  [33] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/intro.tex (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/node-server.tex
-<./images/node-traditional.png, id=785, 835.12pt x 588.1975pt>
+<./images/node-traditional.png, id=789, 835.12pt x 588.1975pt>
 File: ./images/node-traditional.png Graphic file (type png)
 <use ./images/node-traditional.png>
 Package pdftex.def Info: ./images/node-traditional.png  used on input line 6.
@@ -1527,7 +1527,7 @@ LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
  [36]
-<./images/express-router.png, id=817, 796.9775pt x 449.68pt>
+<./images/express-router.png, id=822, 796.9775pt x 449.68pt>
 File: ./images/express-router.png Graphic file (type png)
 <use ./images/express-router.png>
 Package pdftex.def Info: ./images/express-router.png  used on input line 10.
@@ -1868,17 +1868,17 @@ LaTeX Info: Redefining \sptext on input line 9.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
  [38] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/firebase.tex
-<./images/firebase-01.png, id=869, 941.5175pt x 293.095pt>
+<./images/firebase-01.png, id=873, 941.5175pt x 293.095pt>
 File: ./images/firebase-01.png Graphic file (type png)
 <use ./images/firebase-01.png>
 Package pdftex.def Info: ./images/firebase-01.png  used on input line 6.
 (pdftex.def)             Requested size: 397.48499pt x 123.73859pt.
-<./images/firebase-02.png, id=870, 941.5175pt x 558.085pt>
+<./images/firebase-02.png, id=874, 941.5175pt x 558.085pt>
 File: ./images/firebase-02.png Graphic file (type png)
 <use ./images/firebase-02.png>
 Package pdftex.def Info: ./images/firebase-02.png  used on input line 15.
 (pdftex.def)             Requested size: 397.48499pt x 235.61185pt.
-<./images/firebase-03.png, id=871, 941.5175pt x 381.425pt>
+<./images/firebase-03.png, id=875, 941.5175pt x 381.425pt>
 File: ./images/firebase-03.png Graphic file (type png)
 <use ./images/firebase-03.png>
 Package pdftex.def Info: ./images/firebase-03.png  used on input line 22.
@@ -1887,12 +1887,12 @@ LaTeX Info: Redefining \sptext on input line 23.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
  [39 <./images/firebase-01.png> <./images/firebase-02.png>]
-<./images/firebase-04.png, id=880, 943.525pt x 479.7925pt>
+<./images/firebase-04.png, id=884, 943.525pt x 479.7925pt>
 File: ./images/firebase-04.png Graphic file (type png)
 <use ./images/firebase-04.png>
 Package pdftex.def Info: ./images/firebase-04.png  used on input line 29.
 (pdftex.def)             Requested size: 397.48499pt x 202.12643pt.
-<./images/firebase-05.png, id=882, 939.51pt x 608.2725pt>
+<./images/firebase-05.png, id=886, 939.51pt x 608.2725pt>
 File: ./images/firebase-05.png Graphic file (type png)
 <use ./images/firebase-05.png>
 Package pdftex.def Info: ./images/firebase-05.png  used on input line 36.
@@ -1901,7 +1901,7 @@ LaTeX Info: Redefining \sptext on input line 38.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
  [40 <./images/firebase-03.png> <./images/firebase-04.png>]
-<./images/firebase-06.png, id=894, 945.5325pt x 489.83pt>
+<./images/firebase-06.png, id=898, 945.5325pt x 489.83pt>
 File: ./images/firebase-06.png Graphic file (type png)
 <use ./images/firebase-06.png>
 Package pdftex.def Info: ./images/firebase-06.png  used on input line 43.
@@ -2025,7 +2025,7 @@ LaTeX Info: Redefining \sptext on input line 61.
 LaTeX Info: Redefining \. on input line 61.
 LaTeX Info: Redefining \% on input line 61.
  [43]
-<./images/firebase-auth.png, id=969, 835.12pt x 144.54pt>
+<./images/firebase-auth.png, id=973, 835.12pt x 144.54pt>
 File: ./images/firebase-auth.png Graphic file (type png)
 <use ./images/firebase-auth.png>
 Package pdftex.def Info: ./images/firebase-auth.png  used on input line 70.
@@ -2189,7 +2189,7 @@ LaTeX Info: Redefining \sptext on input line 6.
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
  [47]
-<./images/webhook.png, id=1047, 939.51pt x 556.0775pt>
+<./images/webhook.png, id=1051, 939.51pt x 556.0775pt>
 File: ./images/webhook.png Graphic file (type png)
 <use ./images/webhook.png>
 Package pdftex.def Info: ./images/webhook.png  used on input line 9.
@@ -2341,7 +2341,7 @@ LaTeX Info: Redefining \sptext on input line 18.
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
  [49] (/Users/josemurillo/Git/thesis/chapters/chapter03/backend/sockets.tex
-<./images/websocket.png, id=1095, 975.645pt x 533.995pt>
+<./images/websocket.png, id=1099, 975.645pt x 533.995pt>
 File: ./images/websocket.png Graphic file (type png)
 <use ./images/websocket.png>
 Package pdftex.def Info: ./images/websocket.png  used on input line 9.
@@ -2820,7 +2820,7 @@ LaTeX Info: Redefining \sptext on input line 3.
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
  [57]
-<./images/flux-redux.png, id=1251, 993.7125pt x 752.8125pt>
+<./images/flux-redux.png, id=1255, 993.7125pt x 752.8125pt>
 File: ./images/flux-redux.png Graphic file (type png)
 <use ./images/flux-redux.png>
 Package pdftex.def Info: ./images/flux-redux.png  used on input line 12.
@@ -3271,7 +3271,7 @@ LaTeX Info: Redefining \sptext on input line 3.
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
  [63]
-<./images/atomic.png, id=1358, 1784.6675pt x 591.20876pt>
+<./images/atomic.png, id=1362, 1784.6675pt x 591.20876pt>
 File: ./images/atomic.png Graphic file (type png)
 <use ./images/atomic.png>
 Package pdftex.def Info: ./images/atomic.png  used on input line 19.
@@ -3371,7 +3371,7 @@ LaTeX Info: Redefining \sptext on input line 29.
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
  [66]
-<./images/app-login.png, id=1419, 1092.08pt x 899.36pt>
+<./images/app-login.png, id=1424, 1092.08pt x 899.36pt>
 File: ./images/app-login.png Graphic file (type png)
 <use ./images/app-login.png>
 Package pdftex.def Info: ./images/app-login.png  used on input line 32.
@@ -3380,7 +3380,7 @@ LaTeX Info: Redefining \sptext on input line 41.
 LaTeX Info: Redefining \. on input line 41.
 LaTeX Info: Redefining \% on input line 41.
  [67 <./images/app-login.png>]
-<./images/app-main.png, id=1427, 1084.05pt x 962.59625pt>
+<./images/app-main.png, id=1431, 1084.05pt x 962.59625pt>
 File: ./images/app-main.png Graphic file (type png)
 <use ./images/app-main.png>
 Package pdftex.def Info: ./images/app-main.png  used on input line 44.
@@ -3389,7 +3389,7 @@ LaTeX Info: Redefining \sptext on input line 50.
 LaTeX Info: Redefining \. on input line 50.
 LaTeX Info: Redefining \% on input line 50.
  [68 <./images/app-main.png>]
-<./images/app-mobile.png, id=1434, 700.6175pt x 1226.5825pt>
+<./images/app-mobile.png, id=1438, 700.6175pt x 1226.5825pt>
 File: ./images/app-mobile.png Graphic file (type png)
 <use ./images/app-mobile.png>
 Package pdftex.def Info: ./images/app-mobile.png  used on input line 63.
@@ -3398,12 +3398,12 @@ LaTeX Info: Redefining \sptext on input line 68.
 LaTeX Info: Redefining \. on input line 68.
 LaTeX Info: Redefining \% on input line 68.
  [69 <./images/app-mobile.png>]
-<./images/app-sales.png, id=1440, 2184.16pt x 1782.66pt>
+<./images/app-sales.png, id=1444, 2184.16pt x 1782.66pt>
 File: ./images/app-sales.png Graphic file (type png)
 <use ./images/app-sales.png>
 Package pdftex.def Info: ./images/app-sales.png  used on input line 74.
 (pdftex.def)             Requested size: 397.48499pt x 324.40111pt.
-<./images/app-catalog.png, id=1444, 1082.0425pt x 900.36375pt>
+<./images/app-catalog.png, id=1448, 1082.0425pt x 900.36375pt>
 File: ./images/app-catalog.png Graphic file (type png)
 <use ./images/app-catalog.png>
 Package pdftex.def Info: ./images/app-catalog.png  used on input line 82.
@@ -3412,7 +3412,7 @@ LaTeX Info: Redefining \sptext on input line 85.
 LaTeX Info: Redefining \. on input line 85.
 LaTeX Info: Redefining \% on input line 85.
  [70 <./images/app-sales.png>]
-<./images/app-single.png, id=1451, 1082.0425pt x 960.58875pt>
+<./images/app-single.png, id=1455, 1082.0425pt x 960.58875pt>
 File: ./images/app-single.png Graphic file (type png)
 <use ./images/app-single.png>
 Package pdftex.def Info: ./images/app-single.png  used on input line 89.
@@ -3421,7 +3421,7 @@ LaTeX Info: Redefining \sptext on input line 96.
 LaTeX Info: Redefining \. on input line 96.
 LaTeX Info: Redefining \% on input line 96.
  [71 <./images/app-catalog.png> <./images/app-single.png>]
-<./images/app-map.png, id=1458, 1096.095pt x 900.36375pt>
+<./images/app-map.png, id=1462, 1096.095pt x 900.36375pt>
 File: ./images/app-map.png Graphic file (type png)
 <use ./images/app-map.png>
 Package pdftex.def Info: ./images/app-map.png  used on input line 99.
@@ -3498,7 +3498,7 @@ LaTeX Info: Redefining \sptext on input line 122.
 LaTeX Info: Redefining \. on input line 122.
 LaTeX Info: Redefining \% on input line 122.
  [73]
-<./images/app-orders.png, id=1493, 1096.095pt x 900.36375pt>
+<./images/app-orders.png, id=1498, 1096.095pt x 900.36375pt>
 File: ./images/app-orders.png Graphic file (type png)
 <use ./images/app-orders.png>
 Package pdftex.def Info: ./images/app-orders.png  used on input line 125.
@@ -3507,7 +3507,7 @@ LaTeX Info: Redefining \sptext on input line 133.
 LaTeX Info: Redefining \. on input line 133.
 LaTeX Info: Redefining \% on input line 133.
  [74 <./images/app-orders.png>]
-<./images/app-admin.png, id=1501, 1094.0875pt x 961.5925pt>
+<./images/app-admin.png, id=1505, 1094.0875pt x 961.5925pt>
 File: ./images/app-admin.png Graphic file (type png)
 <use ./images/app-admin.png>
 Package pdftex.def Info: ./images/app-admin.png  used on input line 139.
@@ -3516,7 +3516,7 @@ LaTeX Info: Redefining \sptext on input line 146.
 LaTeX Info: Redefining \. on input line 146.
 LaTeX Info: Redefining \% on input line 146.
  [75 <./images/app-admin.png>]
-<./images/app-atomic.png, id=1509, 1096.095pt x 958.58125pt>
+<./images/app-atomic.png, id=1513, 1096.095pt x 958.58125pt>
 File: ./images/app-atomic.png Graphic file (type png)
 <use ./images/app-atomic.png>
 Package pdftex.def Info: ./images/app-atomic.png  used on input line 149.
@@ -3533,7 +3533,7 @@ LaTeX Info: Redefining \sptext on input line 21.
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
  [78]
-<./images/digital-ocean.png, id=1528, 2517.405pt x 1844.8925pt>
+<./images/digital-ocean.png, id=1533, 2517.405pt x 1844.8925pt>
 File: ./images/digital-ocean.png Graphic file (type png)
 <use ./images/digital-ocean.png>
 Package pdftex.def Info: ./images/digital-ocean.png  used on input line 24.
@@ -3765,7 +3765,7 @@ LaTeX Info: Redefining \sptext on input line 185.
 LaTeX Info: Redefining \. on input line 185.
 LaTeX Info: Redefining \% on input line 185.
 [85]
-<./images/pm2.png, id=1596, 1967.35pt x 246.9225pt>
+<./images/pm2.png, id=1600, 1967.35pt x 246.9225pt>
 File: ./images/pm2.png Graphic file (type png)
 <use ./images/pm2.png>
 Package pdftex.def Info: ./images/pm2.png  used on input line 188.
@@ -3865,8 +3865,8 @@ Package logreq Info: Writing requests to 'index.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
  ) 
 Here is how much of TeX's memory you used:
- 28144 strings out of 492167
- 483209 string characters out of 6125388
+ 28145 strings out of 492167
+ 483218 string characters out of 6125388
  1062765 words of memory out of 5000000
  31145 multiletter control sequences out of 15000+600000
  22861 words of font info for 52 fonts, out of 8000000 for 9000
@@ -3917,10 +3917,10 @@ pdfTeX warning (dest): name{glo:frontend} has been referenced but does not exist
 pdfTeX warning (dest): name{glo:framework} has been referenced but does not exist, replaced by a fixed one
 
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfit1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pfb>
-Output written on /Users/josemurillo/Git/thesis/index.pdf (104 pages, 5186278 bytes).
+Output written on /Users/josemurillo/Git/thesis/index.pdf (105 pages, 5187983 bytes).
 PDF statistics:
- 1913 PDF objects out of 2073 (max. 8388607)
- 1696 compressed objects within 17 object streams
- 831 named destinations out of 1000 (max. 500000)
+ 1917 PDF objects out of 2073 (max. 8388607)
+ 1699 compressed objects within 17 object streams
+ 832 named destinations out of 1000 (max. 500000)
  634 words of extra memory for PDF output out of 10000 (max. 10000000)
 
