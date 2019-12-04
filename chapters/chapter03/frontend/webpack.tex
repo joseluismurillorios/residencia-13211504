@@ -1,10 +1,10 @@
 Los módulos en JavaScript, como en cualquier otro lenguaje de programación, ayudan a descomponer código en partes separadas más pequeñas. Este patrón ayuda a gestionar la creciente complejidad al mantener las preocupaciones separadas en sus partes independientes. En pocas palabras, los módulos ayudan a organizar el código.
 \vspace{0.8cm}
 
-Antes de ES6, esto se podía hacer usando diferentes archivos de script y luego cargando cada uno de ellos por separado con una etiqueta \code{<script>} en nuestro HTML. Esto tenía muchas desventajas, como mantener el orden correcto de los script para evitar romper accidentalmente cualquier código dependiente. Pero afortunadamente, ES6 trajo soporte para módulos con las palabras clave \code{import} y \code{export}, pero aún no son totalmente compatibles en todos los entornos (navegador y Node.js).
+Antes de ES6, esto se podía hacer usando diferentes archivos de \gls{script} y luego cargando cada uno de ellos por separado con una etiqueta \code{<script>} en nuestro HTML. Esto tenía muchas desventajas, como mantener el orden correcto de los \gls{script} para evitar romper accidentalmente cualquier código dependiente. Pero afortunadamente, ES6 trajo soporte para módulos con las palabras clave \code{import} y \code{export}, pero aún no son totalmente compatibles en todos los entornos (navegador y Node.js).
 \vspace{0.8cm}
 
-Webpack le permite escribir su código en módulos y unificarlos en uno o más paquetes. Webpack permite usar módulos y todas sus bondades sin preocuparse por el soporte. Además de JavaScript, también puede incluir otros tipos de archivos, incluidos (pero no limitados a) CSS, fuentes, imágenes, HTML, etc. y luego transformarlos en un formato aceptable. Webpack es extremadamente potente y se puede ampliar para hacer cosas impresionantes usando el concepto de loaders y pligins.
+Webpack le permite escribir su código en módulos y unificarlos en uno o más paquetes. Webpack permite usar módulos y todas sus bondades sin preocuparse por el soporte. Además de JavaScript, también puede incluir otros tipos de archivos, incluidos (pero no limitados a) CSS, fuentes, imágenes, HTML, etc. y luego transformarlos en un formato aceptable. Webpack es extremadamente potente y se puede ampliar para hacer cosas impresionantes usando el concepto de loaders y \glspl{plugin}.
 \vspace{0.8cm}
 
 \subsubsection{Conceptos clave}
@@ -21,7 +21,7 @@ Webpack necesita una configuración básica para que funcione debidamente:
   \item Loaders
   Los loaders en el paquete web son los que le permiten manejar archivos que no son JavaScript (el empaquetador web solo comprende JavaScript). Los loaders leen varios tipos de archivos y los transforman en módulos válidos que webpack puede entender.
   \item Plugins
-  Los plugins son la característica más poderosa de webpack, se utilizan para una amplia gama de tareas que los loaders no pueden realizar. Se utilizan  para la optimización de paquetes, minificación, emisión de estadísticas, etc.
+  Los \glspl{plugin} son la característica más poderosa de webpack, se utilizan para una amplia gama de tareas que los loaders no pueden realizar. Se utilizan  para la optimización de paquetes, \gls{minificacion}, emisión de estadísticas, etc.
 \end{itemize}
 \vspace{0.8cm}
 
@@ -34,7 +34,7 @@ Babel ofrece el último soporte de sintaxis ECMAScript (ES5, ES6). Las librería
 
   \item babel-preset-env: esta es la parte de soporte ES5, ES6
 
-  \item babel-preset-react: Babel se puede usar en cualquier framework que necesite el soporte de sintaxis JS más reciente, en este caso es `React'.
+  \item babel-preset-react: Babel se puede usar en cualquier \gls{framework} que necesite el soporte de sintaxis JS más reciente, en este caso es `React'.
 
   \item babel-loader: Un puente de comunicación entre Webpack y Babel
 \end{itemize}

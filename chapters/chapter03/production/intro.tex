@@ -51,7 +51,7 @@ Se inicia sesión en el VPS desde la consola de comandos y se ingresa lo siguien
 \code{---bare} significa que la carpeta no tendrá archivos fuente, solo el control de versiones.
 
 \subsubsection{Git Hooks}
-Los repositorios de Git tienen una carpeta llamada \code{hooks}. Esta carpeta contiene algunos archivos de muestra para conectar y realizar acciones personalizadas. La documentación de Git define tres posibles enlaces de servidor: \textit{pre-recepción}, \textit{post-recepción} y \textit{actualización}. Para este proyecto se necesita un `hook' para post-recepción, que se ejecuta cuando un `envío' está completamente terminado.
+Los repositorios de Git tienen una carpeta llamada \code{hooks}. Esta carpeta contiene algunos archivos de muestra para conectar y realizar acciones personalizadas. La documentación de Git define tres posibles enlaces de servidor: \textit{pre-recepción}, \textit{post-recepción} y \textit{actualización}. Para este proyecto se necesita un `\gls{hook}' para post-recepción, que se ejecuta cuando un `envío' está completamente terminado.
 \vspace{0.8cm}
 
 En el repositorio se encuentran algunos archivos y carpetas, incluida la carpeta \code{hooks}. Se accede a ella mediante el siguiente comando.\\
@@ -86,7 +86,7 @@ Con esto se le dice a Git que empuje al remoto `live' en la rama `master'.
 \vspace{0.8cm}
 
 \subsection{Despliegue Node.js en un entorno de producción}
-El término servidor puede ser un poco confuso para las personas nuevas en el tema porque puede referirse tanto al hardware (computadoras físicas que albergan todos los archivos requeridos por los sitios web) como al software (programa que permite a los usuarios acceder a esos archivos en la web). El hardware se encuentra alojado en un servidor virtual privado, por tal motivo esta sección se centra en el lado del software.
+El término servidor puede ser un poco confuso para las personas nuevas en el tema porque puede referirse tanto al \gls{hardware} (computadoras físicas que albergan todos los archivos requeridos por los sitios web) como al \gls{software} (programa que permite a los usuarios acceder a esos archivos en la web). El \gls{hardware} se encuentra alojado en un servidor virtual privado, por tal motivo esta sección se centra en el lado del software.
 
 \subsubsection{Servidor proxy inverso}
 Una vez transferido el código del proyecto al servidor y configurar un entorno para la aplicación, es momento de configurar un servidor proxy inverso. Un servidor proxy es un servidor intermedio o intermediario que reenvía solicitudes de contenido de varios clientes a diferentes servidores a través de Internet. Un servidor proxy inverso es un tipo de servidor proxy que generalmente se encuentra detrás del firewall en una red privada y dirige las solicitudes de los clientes al servidor apropiado. Un proxy inverso proporciona un nivel adicional de abstracción y control para garantizar el flujo fluido del tráfico de red entre clientes y servidores.
@@ -105,7 +105,7 @@ Se presiona ‘y’ dos veces para finalizar la instalación. Para inicializar e
 \code{sudo systemctl enable nginx}\\
 \code{sudo systemctl start nginx}\\
 \\
-A continuación se instala firewall-cmd, el front-end de línea de comandos para firewalld (firewalld daemon), para CentOS. Admite IPv4 e IPv6, zonas de firewall, puentes y conjuntos de ip, registra paquetes denegados, carga automáticamente módulos de kernel, entre otras cosas mas. Se instala con el siguiente comando:\\
+A continuación se instala firewall-cmd, el front-end de línea de comandos para firewalld (\gls{daemon} firewalld), para CentOS. Admite IPv4 e IPv6, zonas de firewall, puentes y conjuntos de ip, registra paquetes denegados, carga automáticamente módulos de \gls{kernel}, entre otras cosas más. Se instala con el siguiente comando:\\
 \\
 \code{yum install firewalld}\\
 \\
