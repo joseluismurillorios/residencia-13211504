@@ -95,7 +95,7 @@ Una vez transferido el código del proyecto al servidor y configurar un entorno 
 Nginx (Engine X) es una de las mejores soluciones para configurar un servidor proxy inverso, con el será posible entregar contenido de forma rápida, confiable y segura. Hará que la aplicación sea accesible desde un navegador, y en caso de ejecutar varios sitios desde el mismo servidor, también podría funcionar como equilibrador de carga.
 \vspace{0.8cm}
 
-Después de iniciar sesión como usuario root, se agrega el repositorio CentOS 7 EPEL y se instala nginx con los siguientes comandos:\\
+Después de iniciar sesión como usuario root, se agrega el repositorio CentOS 7 \acrshort{epel} y se instala nginx con los siguientes comandos:\\
 \\
 \code{yum install epel-release}\\
 \code{yum install nginx}\\
@@ -196,7 +196,8 @@ Con un nombre de dominio y registros DNS configurados correctamente para que apu
 Certbot está empaquetado en los Paquetes Adicionales para Enterprise Linux o EPEL (Extra Packages for Enterprise Linux). Para habilitar el repositorio adicional, el canal opcional e instalar EPEL, se emiten los siguientes comandos:\\
 \\
 \code{yum -y install yum-utils}\\
-\code{yum-config-manager --enable rhui-REGION-rhel-server-extras rhui-REGION-rhel-server-optional}\\
+\code{yum-config-manager --enable \symbol{92}}\\
+\code{rhui-REGION-rhel-server-extras rhui-REGION-rhel-server-optional}\\
 \code{sudo yum install certbot python2-certbot-nginx}\\
 \\
 Se presiona `y' cuando es requerido y al finalizar ejecutamos certbot:\\
