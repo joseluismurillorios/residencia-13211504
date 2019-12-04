@@ -194,7 +194,3 @@
 \contentsline {subsubsection}{Asegurar el sitio mediante HTTPS}{86}{section*.85}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Conclusiones}{88}{chapter.4}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Glosario}{92}{section*.87}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Siglas}{94}{section*.89}% 
