@@ -4,7 +4,7 @@ El modelo de E/S impulsado por eventos sin bloqueo le brinda a NodeJS un rendimi
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.8\textwidth]{node-traditional}
-  \caption{Comparación de node y servidores tradicionales.}
+  \caption{Comparación de node y servidores tradicionales. (Fuente: Advance Idea Infotech 2018)}
 \end{figure}
 
 Un servidor Node.js tiene un solo subproceso de bucle de eventos (event-loop) que espera E/S en sockets y archivos. Una vez que los datos están listos, activa el método de evento correspondiente y espera hasta que regrese antes de esperar nuevamente por más eventos de E/S. Dado que todas las operaciones de E/S no bloquean, se asegurará de que todo se ejecute correctamente tan pronto como la entrada esté disponible sin ningún bloqueo y sin que se tenga lidiar con problemas de subprocesos múltiples.

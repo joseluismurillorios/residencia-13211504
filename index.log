@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  4 DEC 2019 01:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  9 DEC 2019 23:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1033,7 +1033,7 @@ Package biblatex Info: ... file 'index.bbl' found.
  (./index.bbl)
 Package biblatex Info: Reference section=0 on input line 71.
 Package biblatex Info: Reference segment=0 on input line 71.
-<./images/escudo1.png, id=237, 484.209pt x 461.0826pt>
+<./images/escudo1.png, id=229, 484.209pt x 461.0826pt>
 File: ./images/escudo1.png Graphic file (type png)
 <use ./images/escudo1.png>
 Package pdftex.def Info: ./images/escudo1.png  used on input line 82.
@@ -1055,19 +1055,14 @@ LaTeX Info: Redefining \% on input line 2.
 LaTeX Info: Redefining \sptext on input line 108.
 LaTeX Info: Redefining \. on input line 108.
 LaTeX Info: Redefining \% on input line 108.
- [8]
-LaTeX Info: Redefining \sptext on input line 200.
-LaTeX Info: Redefining \. on input line 200.
-LaTeX Info: Redefining \% on input line 200.
- [9])
+ [8])
 \tf@toc=\write8
 \openout8 = `index.toc'.
 
 LaTeX Info: Redefining \sptext on input line 120.
 LaTeX Info: Redefining \. on input line 120.
 LaTeX Info: Redefining \% on input line 120.
- [10]
-(./index.lot
+ [9] (./index.lot
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
@@ -1075,15 +1070,25 @@ LaTeX Info: Redefining \% on input line 2.
 \tf@lot=\write9
 \openout9 = `index.lot'.
 
- [11
+
+[10
 
 ] (./index.lof
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
- [12
+ [11
 
-])
+]
+Overfull \hbox (1.26407pt too wide) in paragraph at lines 46--46
+ [][] [][]\T1/cmr/m/n/12 Metodología de di-se-ño ató-mi-co. (Fuen-te: Ela-bo-ra
+-ción Brad Frost 
+ []
+
+LaTeX Info: Redefining \sptext on input line 68.
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
+[12])
 \tf@lof=\write10
 \openout10 = `index.lof'.
 
@@ -1116,7 +1121,7 @@ Cap\'{\i }tulo 2.
 (./chapters/chapter02/intro.tex (./chapters/chapter02/mern/intro.tex [4
 
 ]
-<./images/mean.png, id=527, 991.705pt x 238.8925pt>
+<./images/mean.png, id=532, 991.705pt x 238.8925pt>
 File: ./images/mean.png Graphic file (type png)
 <use ./images/mean.png>
 Package pdftex.def Info: ./images/mean.png  used on input line 25.
@@ -1138,7 +1143,7 @@ LaTeX Info: Redefining \sptext on input line 52.
 LaTeX Info: Redefining \. on input line 52.
 LaTeX Info: Redefining \% on input line 52.
 [7]
-<./images/sql-nosql.png, id=557, 1031.855pt x 546.04pt>
+<./images/sql-nosql.png, id=562, 1031.855pt x 546.04pt>
 File: ./images/sql-nosql.png Graphic file (type png)
 <use ./images/sql-nosql.png>
 Package pdftex.def Info: ./images/sql-nosql.png  used on input line 56.
@@ -1162,7 +1167,7 @@ LaTeX Info: Redefining \sptext on input line 9.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
  [9] (./chapters/chapter02/fern/intro.tex
-<./images/fern.png, id=575, 800.9925pt x 471.7625pt>
+<./images/fern.png, id=580, 800.9925pt x 471.7625pt>
 File: ./images/fern.png Graphic file (type png)
 <use ./images/fern.png>
 Package pdftex.def Info: ./images/fern.png  used on input line 13.
@@ -1173,30 +1178,34 @@ LaTeX Info: Redefining \sptext on input line 3.
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
  [10 <./images/fern.png>]
-<./images/firestore.jpg, id=582, 2047.65pt x 1194.4625pt>
+<./images/firestore.jpg, id=587, 2047.65pt x 1194.4625pt>
 File: ./images/firestore.jpg Graphic file (type jpg)
 <use ./images/firestore.jpg>
 Package pdftex.def Info: ./images/firestore.jpg  used on input line 9.
 (pdftex.def)             Requested size: 357.73405pt x 208.66954pt.
 )
+LaTeX Info: Redefining \sptext on input line 19.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+ [11]
 (./chapters/chapter02/fern/node.tex
-LaTeX Info: Redefining \sptext on input line 3.
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [11 <./images/firestore.jpg>]
-<./images/node.png, id=588, 726.715pt x 377.41pt>
+<./images/node.png, id=593, 726.715pt x 377.41pt>
 File: ./images/node.png Graphic file (type png)
 <use ./images/node.png>
 Package pdftex.def Info: ./images/node.png  used on input line 9.
 (pdftex.def)             Requested size: 317.9892pt x 165.14525pt.
-LaTeX Info: Redefining \sptext on input line 17.
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
- [12 <./images/node.png>]) (./chapters/chapter02/fern/npm.tex
-LaTeX Info: Redefining \sptext on input line 6.
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
- [13]
+LaTeX Info: Redefining \sptext on input line 13.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [12 <./images/firestore.jpg>])
+LaTeX Info: Redefining \sptext on input line 22.
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+ [13 <./images/node.png>] (./chapters/chapter02/fern/npm.tex
+LaTeX Info: Redefining \sptext on input line 14.
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+ [14]
 (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
@@ -1209,11 +1218,11 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ))
-LaTeX Info: Redefining \sptext on input line 26.
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
- [14]
-(./chapters/chapter02/fern/express.tex (./code/express.js
+(./chapters/chapter02/fern/express.tex
+LaTeX Info: Redefining \sptext on input line 6.
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ [15] (./code/express.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -1307,23 +1316,23 @@ Package xcolor Warning: Incompatible color definition on input line 7.
 Package xcolor Warning: Incompatible color definition on input line 7.
 
 )) (./chapters/chapter02/fern/react.tex
-LaTeX Info: Redefining \sptext on input line 3.
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [15]
-<./images/components.png, id=635, 831.105pt x 640.3925pt>
+LaTeX Info: Redefining \sptext on input line 5.
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+ [16]
+<./images/components.png, id=646, 831.105pt x 640.3925pt>
 File: ./images/components.png Graphic file (type png)
 <use ./images/components.png>
-Package pdftex.def Info: ./images/components.png  used on input line 9.
+Package pdftex.def Info: ./images/components.png  used on input line 15.
 (pdftex.def)             Requested size: 317.9892pt x 245.02261pt.
-LaTeX Info: Redefining \sptext on input line 12.
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
- [16]
-LaTeX Info: Redefining \sptext on input line 24.
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
- [17 <./images/components.png>] (./code/react-example.js
+LaTeX Info: Redefining \sptext on input line 18.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+ [17]
+LaTeX Info: Redefining \sptext on input line 30.
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+ [18 <./images/components.png>] (./code/react-example.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -1388,14 +1397,14 @@ Package xcolor Warning: Incompatible color definition on input line 25.
 Package xcolor Warning: Incompatible color definition on input line 25.
 
 )
-LaTeX Info: Redefining \sptext on input line 30.
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
- [18]))
+LaTeX Info: Redefining \sptext on input line 33.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [19]))
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
- [19] (./chapters/chapter02/jsx.tex
+ [20] (./chapters/chapter02/jsx.tex
 Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
@@ -1403,7 +1412,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--14
 LaTeX Info: Redefining \sptext on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
-[20] (./code/es5-es6.js
+[21] (./code/es5-es6.js
 
 Package xcolor Warning: Incompatible color definition on input line 4.
 
@@ -1432,12 +1441,12 @@ Package xcolor Warning: Incompatible color definition on input line 21.
 LaTeX Info: Redefining \sptext on input line 19.
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
- [21])
+ [22])
 LaTeX Info: Redefining \sptext on input line 17.
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
- [22] (./chapters/chapter02/git.tex
-<./images/git.png, id=739, 847.165pt x 730.73pt>
+ [23] (./chapters/chapter02/git.tex
+<./images/git.png, id=752, 847.165pt x 730.73pt>
 File: ./images/git.png Graphic file (type png)
 <use ./images/git.png>
 Package pdftex.def Info: ./images/git.png  used on input line 9.
@@ -1450,22 +1459,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--11
 LaTeX Info: Redefining \sptext on input line 11.
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
-[23]))
+[24]))
 LaTeX Info: Redefining \sptext on input line 149.
 LaTeX Info: Redefining \. on input line 149.
 LaTeX Info: Redefining \% on input line 149.
- [24 <./images/git.png>]
+ [25 <./images/git.png>]
 Cap\'{\i }tulo 3.
 (./chapters/chapter03/intro.tex (./chapters/chapter03/ecommerce.tex
-<./images/rosesland.png, id=750, 939.51pt x 794.97pt>
+<./images/rosesland.png, id=762, 939.51pt x 794.97pt>
 File: ./images/rosesland.png Graphic file (type png)
 <use ./images/rosesland.png>
 Package pdftex.def Info: ./images/rosesland.png  used on input line 5.
 (pdftex.def)             Requested size: 357.73405pt x 302.69826pt.
- [25
+ [26
 
 ]
-<./images/shopify.png, id=755, 937.5025pt x 558.085pt>
+<./images/shopify.png, id=767, 937.5025pt x 558.085pt>
 File: ./images/shopify.png Graphic file (type png)
 <use ./images/shopify.png>
 Package pdftex.def Info: ./images/shopify.png  used on input line 18.
@@ -1475,12 +1484,12 @@ LaTeX Info: Redefining \sptext on input line 8.
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 
-[26 <./images/rosesland.png>]
+[27 <./images/rosesland.png>]
 LaTeX Info: Redefining \sptext on input line 9.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- [27 <./images/shopify.png>]
-<./images/use-case.png, id=767, 1186.4325pt x 1069.9975pt>
+ [28 <./images/shopify.png>]
+<./images/use-case.png, id=779, 1186.4325pt x 1069.9975pt>
 File: ./images/use-case.png Graphic file (type png)
 <use ./images/use-case.png>
 Package pdftex.def Info: ./images/use-case.png  used on input line 16.
@@ -1488,20 +1497,20 @@ Package pdftex.def Info: ./images/use-case.png  used on input line 16.
 LaTeX Info: Redefining \sptext on input line 21.
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
- [28 <./images/use-case.png>] (./chapters/chapter03/requirements.tex
+ [29 <./images/use-case.png>] (./chapters/chapter03/requirements.tex
 LaTeX Info: Redefining \sptext on input line 15.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- [29]
+ [30]
 LaTeX Info: Redefining \sptext on input line 29.
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
- [30]
+ [31]
 LaTeX Info: Redefining \sptext on input line 45.
 LaTeX Info: Redefining \. on input line 45.
 LaTeX Info: Redefining \% on input line 45.
- [31]
-<./images/app.jpg, id=800, 457.71pt x 965.6075pt>
+ [32]
+<./images/app.jpg, id=812, 457.71pt x 965.6075pt>
 File: ./images/app.jpg Graphic file (type jpg)
 <use ./images/app.jpg>
 Package pdftex.def Info: ./images/app.jpg  used on input line 51.
@@ -1509,7 +1518,7 @@ Package pdftex.def Info: ./images/app.jpg  used on input line 51.
 LaTeX Info: Redefining \sptext on input line 55.
 LaTeX Info: Redefining \. on input line 55.
 LaTeX Info: Redefining \% on input line 55.
- [32 <./images/app.jpg>] (./code/env.txt
+ [33 <./images/app.jpg>] (./code/env.txt
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -1580,9 +1589,9 @@ Package xcolor Warning: Incompatible color definition on input line 11.
 LaTeX Info: Redefining \sptext on input line 24.
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
- [33] (./chapters/chapter03/backend/intro.tex
+ [34] (./chapters/chapter03/backend/intro.tex
 (./chapters/chapter03/backend/node-server.tex
-<./images/node-traditional.png, id=824, 835.12pt x 588.1975pt>
+<./images/node-traditional.png, id=836, 835.12pt x 588.1975pt>
 File: ./images/node-traditional.png Graphic file (type png)
 <use ./images/node-traditional.png>
 Package pdftex.def Info: ./images/node-traditional.png  used on input line 6.
@@ -1590,11 +1599,11 @@ Package pdftex.def Info: ./images/node-traditional.png  used on input line 6.
 LaTeX Info: Redefining \sptext on input line 9.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- [34]
+ [35]
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
- [35 <./images/node-traditional.png>] (./code/node-server.js
+ [36 <./images/node-traditional.png>] (./code/node-server.js
 
 Package xcolor Warning: Incompatible color definition on input line 2.
 
@@ -1662,8 +1671,8 @@ Package xcolor Warning: Incompatible color definition on input line 9.
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
- [36]
-<./images/express-router.png, id=858, 796.9775pt x 449.68pt>
+ [37]
+<./images/express-router.png, id=870, 796.9775pt x 449.68pt>
 File: ./images/express-router.png Graphic file (type png)
 <use ./images/express-router.png>
 Package pdftex.def Info: ./images/express-router.png  used on input line 10.
@@ -1671,7 +1680,7 @@ Package pdftex.def Info: ./images/express-router.png  used on input line 10.
 LaTeX Info: Redefining \sptext on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
- [37 <./images/express-router.png>] (./code/express-router.js
+ [38 <./images/express-router.png>] (./code/express-router.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -2003,18 +2012,18 @@ Package xcolor Warning: Incompatible color definition on input line 37.
 LaTeX Info: Redefining \sptext on input line 9.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- [38] (./chapters/chapter03/backend/firebase.tex
-<./images/firebase-01.png, id=908, 941.5175pt x 293.095pt>
+ [39] (./chapters/chapter03/backend/firebase.tex
+<./images/firebase-01.png, id=920, 941.5175pt x 293.095pt>
 File: ./images/firebase-01.png Graphic file (type png)
 <use ./images/firebase-01.png>
 Package pdftex.def Info: ./images/firebase-01.png  used on input line 6.
 (pdftex.def)             Requested size: 397.48499pt x 123.73859pt.
-<./images/firebase-02.png, id=909, 941.5175pt x 558.085pt>
+<./images/firebase-02.png, id=921, 941.5175pt x 558.085pt>
 File: ./images/firebase-02.png Graphic file (type png)
 <use ./images/firebase-02.png>
 Package pdftex.def Info: ./images/firebase-02.png  used on input line 15.
 (pdftex.def)             Requested size: 397.48499pt x 235.61185pt.
-<./images/firebase-03.png, id=910, 941.5175pt x 381.425pt>
+<./images/firebase-03.png, id=922, 941.5175pt x 381.425pt>
 File: ./images/firebase-03.png Graphic file (type png)
 <use ./images/firebase-03.png>
 Package pdftex.def Info: ./images/firebase-03.png  used on input line 22.
@@ -2022,13 +2031,13 @@ Package pdftex.def Info: ./images/firebase-03.png  used on input line 22.
 LaTeX Info: Redefining \sptext on input line 23.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
- [39 <./images/firebase-01.png> <./images/firebase-02.png>]
-<./images/firebase-04.png, id=919, 943.525pt x 479.7925pt>
+ [40 <./images/firebase-01.png> <./images/firebase-02.png>]
+<./images/firebase-04.png, id=931, 943.525pt x 479.7925pt>
 File: ./images/firebase-04.png Graphic file (type png)
 <use ./images/firebase-04.png>
 Package pdftex.def Info: ./images/firebase-04.png  used on input line 29.
 (pdftex.def)             Requested size: 397.48499pt x 202.12643pt.
-<./images/firebase-05.png, id=921, 939.51pt x 608.2725pt>
+<./images/firebase-05.png, id=933, 939.51pt x 608.2725pt>
 File: ./images/firebase-05.png Graphic file (type png)
 <use ./images/firebase-05.png>
 Package pdftex.def Info: ./images/firebase-05.png  used on input line 36.
@@ -2036,8 +2045,8 @@ Package pdftex.def Info: ./images/firebase-05.png  used on input line 36.
 LaTeX Info: Redefining \sptext on input line 38.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
- [40 <./images/firebase-03.png> <./images/firebase-04.png>]
-<./images/firebase-06.png, id=933, 945.5325pt x 489.83pt>
+ [41 <./images/firebase-03.png> <./images/firebase-04.png>]
+<./images/firebase-06.png, id=946, 945.5325pt x 489.83pt>
 File: ./images/firebase-06.png Graphic file (type png)
 <use ./images/firebase-06.png>
 Package pdftex.def Info: ./images/firebase-06.png  used on input line 43.
@@ -2045,7 +2054,7 @@ Package pdftex.def Info: ./images/firebase-06.png  used on input line 43.
 LaTeX Info: Redefining \sptext on input line 47.
 LaTeX Info: Redefining \. on input line 47.
 LaTeX Info: Redefining \% on input line 47.
- [41 <./images/firebase-05.png> <./images/firebase-06.png>]
+ [42 <./images/firebase-05.png> <./images/firebase-06.png>]
 (./code/firebase.js
 
 Package xcolor Warning: Incompatible color definition on input line 2.
@@ -2102,7 +2111,7 @@ Package xcolor Warning: Incompatible color definition on input line 20.
 LaTeX Info: Redefining \sptext on input line 57.
 LaTeX Info: Redefining \. on input line 57.
 LaTeX Info: Redefining \% on input line 57.
- [42] (./code/firebase-function.js
+ [43] (./code/firebase-function.js
 
 Package xcolor Warning: Incompatible color definition on input line 5.
 
@@ -2161,8 +2170,8 @@ Package xcolor Warning: Incompatible color definition on input line 25.
 LaTeX Info: Redefining \sptext on input line 61.
 LaTeX Info: Redefining \. on input line 61.
 LaTeX Info: Redefining \% on input line 61.
- [43]
-<./images/firebase-auth.png, id=1009, 835.12pt x 144.54pt>
+ [44]
+<./images/firebase-auth.png, id=1021, 835.12pt x 144.54pt>
 File: ./images/firebase-auth.png Graphic file (type png)
 <use ./images/firebase-auth.png>
 Package pdftex.def Info: ./images/firebase-auth.png  used on input line 70.
@@ -2170,7 +2179,7 @@ Package pdftex.def Info: ./images/firebase-auth.png  used on input line 70.
 LaTeX Info: Redefining \sptext on input line 78.
 LaTeX Info: Redefining \. on input line 78.
 LaTeX Info: Redefining \% on input line 78.
- [44 <./images/firebase-auth.png>] (./code/firebase-auth.js
+ [45 <./images/firebase-auth.png>] (./code/firebase-auth.js
 
 Package xcolor Warning: Incompatible color definition on input line 5.
 
@@ -2232,11 +2241,11 @@ Package xcolor Warning: Incompatible color definition on input line 33.
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
- [45] (./chapters/chapter03/backend/shopify.tex
+ [46] (./chapters/chapter03/backend/shopify.tex
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
- [46] (./code/shopify.js
+ [47] (./code/shopify.js
 
 Package xcolor Warning: Incompatible color definition on input line 2.
 
@@ -2325,8 +2334,8 @@ Package xcolor Warning: Incompatible color definition on input line 11.
 LaTeX Info: Redefining \sptext on input line 6.
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- [47]
-<./images/webhook.png, id=1094, 939.51pt x 556.0775pt>
+ [48]
+<./images/webhook.png, id=1106, 939.51pt x 556.0775pt>
 File: ./images/webhook.png Graphic file (type png)
 <use ./images/webhook.png>
 Package pdftex.def Info: ./images/webhook.png  used on input line 9.
@@ -2334,7 +2343,7 @@ Package pdftex.def Info: ./images/webhook.png  used on input line 9.
 LaTeX Info: Redefining \sptext on input line 15.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- [48 <./images/webhook.png>]
+ [49 <./images/webhook.png>]
 (./code/webhook.js
 
 Package xcolor Warning: Incompatible color definition on input line 2.
@@ -2478,8 +2487,8 @@ Package xcolor Warning: Incompatible color definition on input line 28.
 LaTeX Info: Redefining \sptext on input line 18.
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
- [49] (./chapters/chapter03/backend/sockets.tex
-<./images/websocket.png, id=1142, 975.645pt x 533.995pt>
+ [50] (./chapters/chapter03/backend/sockets.tex
+<./images/websocket.png, id=1154, 975.645pt x 533.995pt>
 File: ./images/websocket.png Graphic file (type png)
 <use ./images/websocket.png>
 Package pdftex.def Info: ./images/websocket.png  used on input line 9.
@@ -2487,7 +2496,7 @@ Package pdftex.def Info: ./images/websocket.png  used on input line 9.
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
- [50 <./images/websocket.png>] (./code/socket.js
+ [51 <./images/websocket.png>] (./code/socket.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -2588,16 +2597,16 @@ Package xcolor Warning: Incompatible color definition on input line 33.
 LaTeX Info: Redefining \sptext on input line 28.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- [51] (./chapters/chapter03/frontend/intro.tex
+ [52] (./chapters/chapter03/frontend/intro.tex
 (./chapters/chapter03/frontend/webpack.tex
 LaTeX Info: Redefining \sptext on input line 6.
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- [52]
+ [53]
 LaTeX Info: Redefining \sptext on input line 25.
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
- [53] (./code/babelrc.json
+ [54] (./code/babelrc.json
 
 Package xcolor Warning: Incompatible color definition on input line 2.
 
@@ -2641,7 +2650,7 @@ Package xcolor Warning: Incompatible color definition on input line 1.
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
-[54]
+[55]
 
 Package xcolor Warning: Incompatible color definition on input line 2.
 
@@ -2799,7 +2808,7 @@ Package xcolor Warning: Incompatible color definition on input line 35.
 LaTeX Info: Redefining \sptext on input line 50.
 LaTeX Info: Redefining \. on input line 50.
 LaTeX Info: Redefining \% on input line 50.
- [55] (./code/webpack.dev.js
+ [56] (./code/webpack.dev.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -2954,13 +2963,13 @@ Package xcolor Warning: Incompatible color definition on input line 23.
 LaTeX Info: Redefining \sptext on input line 55.
 LaTeX Info: Redefining \. on input line 55.
 LaTeX Info: Redefining \% on input line 55.
- [56]) (./chapters/chapter03/frontend/patterns.tex)
+ [57]) (./chapters/chapter03/frontend/patterns.tex)
 (./chapters/chapter03/frontend/redux.tex
 LaTeX Info: Redefining \sptext on input line 3.
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [57]
-<./images/flux-redux.png, id=1299, 993.7125pt x 752.8125pt>
+ [58]
+<./images/flux-redux.png, id=1311, 993.7125pt x 752.8125pt>
 File: ./images/flux-redux.png Graphic file (type png)
 <use ./images/flux-redux.png>
 Package pdftex.def Info: ./images/flux-redux.png  used on input line 12.
@@ -2968,11 +2977,11 @@ Package pdftex.def Info: ./images/flux-redux.png  used on input line 12.
 LaTeX Info: Redefining \sptext on input line 16.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- [58]
+ [59]
 LaTeX Info: Redefining \sptext on input line 29.
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
- [59 <./images/flux-redux.png>] (./code/redux-store.js
+ [60 <./images/flux-redux.png>] (./code/redux-store.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -3065,7 +3074,7 @@ Package xcolor Warning: Incompatible color definition on input line 8.
 LaTeX Info: Redefining \sptext on input line 38.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
- [60] (./code/redux-action.js
+ [61] (./code/redux-action.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -3091,7 +3100,7 @@ Package xcolor Warning: Incompatible color definition on input line 2.
 LaTeX Info: Redefining \sptext on input line 6.
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- [61] (./code/redux-react.js
+ [62] (./code/redux-react.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -3294,7 +3303,7 @@ Package xcolor Warning: Incompatible color definition on input line 25.
 LaTeX Info: Redefining \sptext on input line 11.
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
- [62] (./code/connect.js
+ [63] (./code/connect.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -3410,8 +3419,8 @@ Package xcolor Warning: Incompatible color definition on input line 26.
 LaTeX Info: Redefining \sptext on input line 3.
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [63]
-<./images/atomic.png, id=1406, 1784.6675pt x 591.20876pt>
+ [64]
+<./images/atomic.png, id=1418, 1784.6675pt x 591.20876pt>
 File: ./images/atomic.png Graphic file (type png)
 <use ./images/atomic.png>
 Package pdftex.def Info: ./images/atomic.png  used on input line 19.
@@ -3421,7 +3430,7 @@ Package pdftex.def Info: ./images/atomic.png  used on input line 19.
 LaTeX Info: Redefining \sptext on input line 3.
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [64 <./images/atomic.png>]
+ [65 <./images/atomic.png>]
 (./code/login.js
 
 Package xcolor Warning: Incompatible color definition on input line 1.
@@ -3441,7 +3450,7 @@ Package xcolor Warning: Incompatible color definition on input line 1.
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
-[65]
+[66]
 
 Package xcolor Warning: Incompatible color definition on input line 2.
 
@@ -3512,17 +3521,17 @@ Package xcolor Warning: Incompatible color definition on input line 36.
 LaTeX Info: Redefining \sptext on input line 29.
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
- [66]
-<./images/app-login.png, id=1467, 1092.08pt x 899.36pt>
+ [67]
+<./images/app-login.png, id=1479, 1092.08pt x 899.36pt>
 File: ./images/app-login.png Graphic file (type png)
 <use ./images/app-login.png>
 Package pdftex.def Info: ./images/app-login.png  used on input line 32.
 (pdftex.def)             Requested size: 397.48499pt x 327.33736pt.
-LaTeX Info: Redefining \sptext on input line 41.
-LaTeX Info: Redefining \. on input line 41.
-LaTeX Info: Redefining \% on input line 41.
- [67 <./images/app-login.png>]
-<./images/app-main.png, id=1474, 1084.05pt x 962.59625pt>
+LaTeX Info: Redefining \sptext on input line 39.
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+ [68 <./images/app-login.png>]
+<./images/app-main.png, id=1486, 1084.05pt x 962.59625pt>
 File: ./images/app-main.png Graphic file (type png)
 <use ./images/app-main.png>
 Package pdftex.def Info: ./images/app-main.png  used on input line 44.
@@ -3530,8 +3539,8 @@ Package pdftex.def Info: ./images/app-main.png  used on input line 44.
 LaTeX Info: Redefining \sptext on input line 50.
 LaTeX Info: Redefining \. on input line 50.
 LaTeX Info: Redefining \% on input line 50.
- [68 <./images/app-main.png>]
-<./images/app-mobile.png, id=1481, 700.6175pt x 1226.5825pt>
+ [69 <./images/app-main.png>]
+<./images/app-mobile.png, id=1493, 700.6175pt x 1226.5825pt>
 File: ./images/app-mobile.png Graphic file (type png)
 <use ./images/app-mobile.png>
 Package pdftex.def Info: ./images/app-mobile.png  used on input line 63.
@@ -3539,13 +3548,13 @@ Package pdftex.def Info: ./images/app-mobile.png  used on input line 63.
 LaTeX Info: Redefining \sptext on input line 68.
 LaTeX Info: Redefining \. on input line 68.
 LaTeX Info: Redefining \% on input line 68.
- [69 <./images/app-mobile.png>]
-<./images/app-sales.png, id=1487, 2184.16pt x 1782.66pt>
+ [70 <./images/app-mobile.png>]
+<./images/app-sales.png, id=1500, 2184.16pt x 1782.66pt>
 File: ./images/app-sales.png Graphic file (type png)
 <use ./images/app-sales.png>
 Package pdftex.def Info: ./images/app-sales.png  used on input line 74.
 (pdftex.def)             Requested size: 397.48499pt x 324.40111pt.
-<./images/app-catalog.png, id=1491, 1082.0425pt x 900.36375pt>
+<./images/app-catalog.png, id=1504, 1082.0425pt x 900.36375pt>
 File: ./images/app-catalog.png Graphic file (type png)
 <use ./images/app-catalog.png>
 Package pdftex.def Info: ./images/app-catalog.png  used on input line 82.
@@ -3553,8 +3562,8 @@ Package pdftex.def Info: ./images/app-catalog.png  used on input line 82.
 LaTeX Info: Redefining \sptext on input line 85.
 LaTeX Info: Redefining \. on input line 85.
 LaTeX Info: Redefining \% on input line 85.
- [70 <./images/app-sales.png>]
-<./images/app-single.png, id=1498, 1082.0425pt x 960.58875pt>
+ [71 <./images/app-sales.png>]
+<./images/app-single.png, id=1512, 1082.0425pt x 960.58875pt>
 File: ./images/app-single.png Graphic file (type png)
 <use ./images/app-single.png>
 Package pdftex.def Info: ./images/app-single.png  used on input line 89.
@@ -3562,8 +3571,8 @@ Package pdftex.def Info: ./images/app-single.png  used on input line 89.
 LaTeX Info: Redefining \sptext on input line 96.
 LaTeX Info: Redefining \. on input line 96.
 LaTeX Info: Redefining \% on input line 96.
- [71 <./images/app-catalog.png> <./images/app-single.png>]
-<./images/app-map.png, id=1507, 1096.095pt x 900.36375pt>
+ [72 <./images/app-catalog.png> <./images/app-single.png>]
+<./images/app-map.png, id=1519, 1096.095pt x 900.36375pt>
 File: ./images/app-map.png Graphic file (type png)
 <use ./images/app-map.png>
 Package pdftex.def Info: ./images/app-map.png  used on input line 99.
@@ -3571,7 +3580,7 @@ Package pdftex.def Info: ./images/app-map.png  used on input line 99.
 LaTeX Info: Redefining \sptext on input line 116.
 LaTeX Info: Redefining \. on input line 116.
 LaTeX Info: Redefining \% on input line 116.
- [72 <./images/app-map.png>] (./code/harvesine.js
+ [73 <./images/app-map.png>] (./code/harvesine.js
 
 Package xcolor Warning: Incompatible color definition on input line 2.
 
@@ -3639,43 +3648,49 @@ Package xcolor Warning: Incompatible color definition on input line 16.
 LaTeX Info: Redefining \sptext on input line 122.
 LaTeX Info: Redefining \. on input line 122.
 LaTeX Info: Redefining \% on input line 122.
- [73]
-<./images/app-orders.png, id=1541, 1096.095pt x 900.36375pt>
+ [74]
+<./images/app-orders.png, id=1553, 1096.095pt x 900.36375pt>
 File: ./images/app-orders.png Graphic file (type png)
 <use ./images/app-orders.png>
 Package pdftex.def Info: ./images/app-orders.png  used on input line 125.
 (pdftex.def)             Requested size: 397.48499pt x 326.50745pt.
-LaTeX Info: Redefining \sptext on input line 133.
-LaTeX Info: Redefining \. on input line 133.
-LaTeX Info: Redefining \% on input line 133.
- [74 <./images/app-orders.png>]
-<./images/app-admin.png, id=1548, 1094.0875pt x 961.5925pt>
+LaTeX Info: Redefining \sptext on input line 132.
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
+ [75 <./images/app-orders.png>]
+<./images/app-admin.png, id=1560, 1094.0875pt x 961.5925pt>
 File: ./images/app-admin.png Graphic file (type png)
 <use ./images/app-admin.png>
 Package pdftex.def Info: ./images/app-admin.png  used on input line 139.
 (pdftex.def)             Requested size: 397.48499pt x 349.34233pt.
-LaTeX Info: Redefining \sptext on input line 146.
-LaTeX Info: Redefining \. on input line 146.
-LaTeX Info: Redefining \% on input line 146.
- [75 <./images/app-admin.png>]
-<./images/app-atomic.png, id=1556, 1096.095pt x 958.58125pt>
+LaTeX Info: Redefining \sptext on input line 143.
+LaTeX Info: Redefining \. on input line 143.
+LaTeX Info: Redefining \% on input line 143.
+ [76]
+<./images/app-atomic.png, id=1567, 1096.095pt x 958.58125pt>
 File: ./images/app-atomic.png Graphic file (type png)
 <use ./images/app-atomic.png>
 Package pdftex.def Info: ./images/app-atomic.png  used on input line 149.
 (pdftex.def)             Requested size: 397.48499pt x 347.61942pt.
-LaTeX Info: Redefining \sptext on input line 157.
-LaTeX Info: Redefining \. on input line 157.
-LaTeX Info: Redefining \% on input line 157.
- [76 <./images/app-atomic.png>]))
+LaTeX Info: Redefining \sptext on input line 153.
+LaTeX Info: Redefining \. on input line 153.
+LaTeX Info: Redefining \% on input line 153.
+ [77 <./images/app-admin.png>]))
+LaTeX Info: Redefining \sptext on input line 31.
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+
+[78 <./images/app-atomic.png>]
 LaTeX Info: Redefining \sptext on input line 32.
 LaTeX Info: Redefining \. on input line 32.
 LaTeX Info: Redefining \% on input line 32.
- [77] (./chapters/chapter03/production/intro.tex
+ [79] (./chapters/chapter03/production/intro.tex
 LaTeX Info: Redefining \sptext on input line 21.
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
- [78]
-<./images/digital-ocean.png, id=1576, 2517.405pt x 1844.8925pt>
+
+[80]
+<./images/digital-ocean.png, id=1592, 2517.405pt x 1844.8925pt>
 File: ./images/digital-ocean.png Graphic file (type png)
 <use ./images/digital-ocean.png>
 Package pdftex.def Info: ./images/digital-ocean.png  used on input line 24.
@@ -3683,8 +3698,7 @@ Package pdftex.def Info: ./images/digital-ocean.png  used on input line 24.
 LaTeX Info: Redefining \sptext on input line 35.
 LaTeX Info: Redefining \. on input line 35.
 LaTeX Info: Redefining \% on input line 35.
-
-[79 <./images/digital-ocean.png>]
+ [81 <./images/digital-ocean.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 44--50
 
  []
@@ -3697,7 +3711,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--50
 LaTeX Info: Redefining \sptext on input line 56.
 LaTeX Info: Redefining \. on input line 56.
 LaTeX Info: Redefining \% on input line 56.
-[80]
+[82]
 Underfull \hbox (badness 10000) in paragraph at lines 57--76
 
  []
@@ -3765,11 +3779,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--87
 LaTeX Info: Redefining \sptext on input line 87.
 LaTeX Info: Redefining \. on input line 87.
 LaTeX Info: Redefining \% on input line 87.
-[81]
+[83]
 LaTeX Info: Redefining \sptext on input line 97.
 LaTeX Info: Redefining \. on input line 97.
 LaTeX Info: Redefining \% on input line 97.
- [82]
+ [84]
 Underfull \hbox (badness 10000) in paragraph at lines 98--136
 
  []
@@ -3847,7 +3861,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--136
 LaTeX Info: Redefining \sptext on input line 136.
 LaTeX Info: Redefining \. on input line 136.
 LaTeX Info: Redefining \% on input line 136.
-[83] (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+[85] (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -3886,7 +3900,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--173
 LaTeX Info: Redefining \sptext on input line 173.
 LaTeX Info: Redefining \. on input line 173.
 LaTeX Info: Redefining \% on input line 173.
-[84]
+[86]
 Underfull \hbox (badness 10000) in paragraph at lines 178--185
 
  []
@@ -3909,8 +3923,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 178--185
 LaTeX Info: Redefining \sptext on input line 185.
 LaTeX Info: Redefining \. on input line 185.
 LaTeX Info: Redefining \% on input line 185.
-[85]
-<./images/pm2.png, id=1646, 1967.35pt x 246.9225pt>
+[87]
+<./images/pm2.png, id=1662, 1967.35pt x 246.9225pt>
 File: ./images/pm2.png Graphic file (type png)
 <use ./images/pm2.png>
 Package pdftex.def Info: ./images/pm2.png  used on input line 188.
@@ -3938,19 +3952,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--209
 LaTeX Info: Redefining \sptext on input line 209.
 LaTeX Info: Redefining \. on input line 209.
 LaTeX Info: Redefining \% on input line 209.
-[86 <./images/pm2.png>]))
+[88 <./images/pm2.png>]))
 LaTeX Info: Redefining \sptext on input line 152.
 LaTeX Info: Redefining \. on input line 152.
 LaTeX Info: Redefining \% on input line 152.
- [87]
+ [89]
 Cap\'{\i }tulo 4.
-(./chapters/conclusions.tex [88
+(./chapters/conclusions.tex [90
 
 ])
 LaTeX Info: Redefining \sptext on input line 155.
 LaTeX Info: Redefining \. on input line 155.
 LaTeX Info: Redefining \% on input line 155.
- [89]
+ [91]
 Overfull \hbox (0.53731pt too wide) in paragraph at lines 156--156
 \T1/cmtt/m/n/12 firebase . google . com / docs / firestore / manage -[] data / 
 transactions$[]\T1/cmr/m/n/12 . 
@@ -3970,7 +3984,7 @@ Overfull \hbox (19.46799pt too wide) in paragraph at lines 156--156
 ps : / / nodesource .
  []
 
-[90
+[92
 
 ]
 Overfull \hbox (7.30124pt too wide) in paragraph at lines 156--156
@@ -3983,7 +3997,7 @@ www . apress .
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [91]
+ [93]
 
 ! Package inputenc Error: Unicode character â€‹ (U+200B)
 (inputenc)                not set up for use with LaTeX.
@@ -3992,7 +4006,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...entrycounter[]{page}\glsnumberformat{89}}}
+l.29 ...entrycounter[]{page}\glsnumberformat{91}}}
                                                   %
 ? 
 
@@ -4003,23 +4017,23 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...entrycounter[]{page}\glsnumberformat{89}}}
+l.29 ...entrycounter[]{page}\glsnumberformat{91}}}
                                                   %
 ? 
-[92
+[94
 
 
 ]
-LaTeX Info: Redefining \sptext on input line 75.
-LaTeX Info: Redefining \. on input line 75.
-LaTeX Info: Redefining \% on input line 75.
- [93])
+LaTeX Info: Redefining \sptext on input line 76.
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+ [95])
 LaTeX Info: Redefining \sptext on input line 159.
 LaTeX Info: Redefining \. on input line 159.
 LaTeX Info: Redefining \% on input line 159.
- [94] (./index.acr)
+ [96] (./index.acr)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
- [95
+ [97
 
 
 
@@ -4032,9 +4046,15 @@ LaTeX Info: Redefining \% on input line 32.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
-Package rerunfilecheck Info: File `index.out' has not changed.
-(rerunfilecheck)             Checksum: 526D7ECF463356C9BD0CE510632AF0EE;4097.
 
+
+Package rerunfilecheck Warning: File `index.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `index.out':
+(rerunfilecheck)             Before: C449BC86FA7943EB7574E4F1422AC68D;4007
+(rerunfilecheck)             After:  526D7ECF463356C9BD0CE510632AF0EE;4097.
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -4044,10 +4064,10 @@ Package logreq Info: Writing requests to 'index.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
  ) 
 Here is how much of TeX's memory you used:
- 28219 strings out of 492167
- 479391 string characters out of 6125388
- 1063830 words of memory out of 5000000
- 31208 multiletter control sequences out of 15000+600000
+ 28250 strings out of 492167
+ 479907 string characters out of 6125388
+ 1067517 words of memory out of 5000000
+ 31236 multiletter control sequences out of 15000+600000
  22861 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,12n,124p,6783b,3868s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -4075,10 +4095,10 @@ fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2019/texmf-dist/fo
 nts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2019/texmf-dist/font
 s/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/
 type1/public/cm-super/sfxc1200.pfb>
-Output written on index.pdf (109 pages, 5198227 bytes).
+Output written on index.pdf (111 pages, 5202436 bytes).
 PDF statistics:
- 2035 PDF objects out of 2073 (max. 8388607)
- 1811 compressed objects within 19 object streams
- 850 named destinations out of 1000 (max. 500000)
- 650 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2056 PDF objects out of 2073 (max. 8388607)
+ 1830 compressed objects within 19 object streams
+ 853 named destinations out of 1000 (max. 500000)
+ 634 words of extra memory for PDF output out of 10000 (max. 10000000)
 

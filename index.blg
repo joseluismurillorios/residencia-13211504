@@ -1,19 +1,19 @@
 [0] Config.pm:304> INFO - This is Biber 2.13
 [1] Config.pm:307> INFO - Logfile is 'index.blg'
-[60] biber-darwin:315> INFO - === Wed Dec  4, 2019, 01:33:19
-[90] Biber.pm:375> INFO - Reading 'index.bcf'
-[287] Biber.pm:905> INFO - Found 17 citekeys in bib section 0
-[322] Biber.pm:4196> INFO - Processing section 0
-[322] Utils.pm:75> INFO - Globbing data source 'references.bib'
-[323] Utils.pm:91> INFO - Globbed data source 'references.bib' to references.bib
-[339] Biber.pm:4373> INFO - Looking for bibtex format file 'references.bib' for section 0
-[341] bibtex.pm:1462> INFO - LaTeX decoding ...
-[402] bibtex.pm:1281> INFO - Found BibTeX data source 'references.bib'
-[512] Utils.pm:300> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[512] Utils.pm:300> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[561] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[561] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[561] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
-[593] bbl.pm:648> INFO - Writing 'index.bbl' with encoding 'UTF-8'
-[604] bbl.pm:751> INFO - Output to index.bbl
-[604] Biber.pm:110> INFO - WARNINGS: 2
+[203] biber-darwin:315> INFO - === Mon Dec  9, 2019, 23:16:25
+[365] Biber.pm:375> INFO - Reading 'index.bcf'
+[563] Biber.pm:905> INFO - Found 17 citekeys in bib section 0
+[631] Biber.pm:4196> INFO - Processing section 0
+[632] Utils.pm:75> INFO - Globbing data source 'references.bib'
+[659] Utils.pm:91> INFO - Globbed data source 'references.bib' to references.bib
+[695] Biber.pm:4373> INFO - Looking for bibtex format file 'references.bib' for section 0
+[728] bibtex.pm:1462> INFO - LaTeX decoding ...
+[788] bibtex.pm:1281> INFO - Found BibTeX data source 'references.bib'
+[937] Utils.pm:300> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[937] Utils.pm:300> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[996] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[996] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[996] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[1095] bbl.pm:648> INFO - Writing 'index.bbl' with encoding 'UTF-8'
+[1107] bbl.pm:751> INFO - Output to index.bbl
+[1107] Biber.pm:110> INFO - WARNINGS: 2

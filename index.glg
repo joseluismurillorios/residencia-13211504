@@ -1,7 +1,7 @@
 This is makeindex, version 2.15 [TeX Live 2019] (kpathsea + Thai support).
 Scanning style file ./index.ist.............................done (29 attributes redefined, 0 ignored).
-Scanning input file index.glo....done (49 entries accepted, 0 rejected).
-Sorting entries....done (277 comparisons).
-Generating output file index.gls....done (75 lines written, 0 warnings).
+Scanning input file index.glo....done (50 entries accepted, 0 rejected).
+Sorting entries....done (286 comparisons).
+Generating output file index.gls....done (77 lines written, 0 warnings).
 Output written in index.gls.
 Transcript written in index.glg.

@@ -2,14 +2,20 @@ React es una biblioteca de JavaScript declarativa, eficiente y flexible creada e
 \vspace{0.8cm}
 
 En términos generales, al crear aplicaciones con ReactJS, se crean componentes que corresponden a distintos elementos de una interfaz de usuario. Después se organizan estos elementos dentro de componentes de orden superior que definen la estructura de la aplicación. Es importante destacar que cada componente en una aplicación React se rige por principios estrictos de gestión de datos. Interfaces avanzadas comúnmente involucran datos complejos y manejo de estado. ReactJS es limitado y tiene como objetivo darnos las herramientas para poder anticipar cómo se verá una aplicación con un conjunto de circunstancias dado.
+
 \subsection{Componentes React}
-Un componente es una pequeña parte de la interfaz de usuario. Todas las piezas reutilizables de una página web se abstraen en un componente.
+Un componente es una pequeña parte de la interfaz de usuario. Todas las piezas reutilizables de una página web se abstraen en estos elementos. Son similares, en conceptos, a cosas como \glspl{widget} y módulos. React se define a sí mismo como una biblioteca para construir interfaces de usuario. Como tal, cuando se piensa en una interfaz de usuario, se debe pensar en ella en términos de los componentes más pequeños posibles que se puedan definir. La razón por la que existe este paradigma es para disminuir el acoplamiento (cuánto dependen los unos de los otros) y aumentar la cohesión (qué tan bien funcionan juntas las diferentes cosas).
+\vspace{0.8cm}
+
+Cada uno de estos fragmentos es un bloque de código independiente y reutilizable, que divide la interfaz de usuario en partes más pequeñas. Incluyen código que define cómo se crean los elementos en el \acrshort{dom} y cómo los usuarios pueden interactuar con ellos. Los componentes se pueden definir únicamente en JavaScript o se pueden definir en un superconjunto (o variación extendida) de JavaScript llamado JSX, que se explica en temas posteriores.
+\vspace{0.8cm}
+
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.8\textwidth]{components}
-  \caption{Componentes principales de una página web.}
+  \caption{Componentes principales de una página web. (Fuente: Elaboración propia)}
 \end{figure}
-En primer lugar, hay un componente principal llamado componente APP. Este componente de la aplicación contiene cuatro componentes secundarios o se divide en cuatro componentes:
+En primer lugar, hay un elemento principal llamado componente APP. Este componente de la aplicación contiene cuatro fragmentos secundarios o se divide en cuatro componentes:
 \begin{enumerate}
   \item Encabezado
   \item Barra lateral
@@ -19,9 +25,8 @@ En primer lugar, hay un componente principal llamado componente APP. Este compon
 La función de cada componente se manejará independientemente con otros componentes. Cada componente es una pieza reutilizable, y se puede pensar en cada componente de forma aislada.
 \vspace{0.8cm}
 
-Dentro de un componente, tendremos subcomponentes o componentes dentro de un componente padre. Esos serán reutilizables también.
+Dentro de un componente, tendremos subcomponentes o componentes dentro de un componente padre. Esos serán reutilizables también. En pocas palabras, un componente es una clase o función de JavaScript que opcionalmente acepta entradas, es decir, propiedades (props) y devuelve un elemento que describe cómo debería lucir una sección de la interfaz de usuario.
 \vspace{0.8cm}
-
 
 \lstinputlisting[style=ES6, caption=Ejemplo de página con componentes ReactJS]{code/react-example.js}
 

@@ -1,7 +1,7 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {spanish}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Índice de Tablas}{\es@scroman {xi}}{chapter*.3}% 
+\contentsline {chapter}{Índice de Tablas}{\es@scroman {x}}{chapter*.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Índice de Figuras}{\es@scroman {xiii}}{chapter*.4}% 
 \defcounter {refsection}{0}\relax 
@@ -43,158 +43,158 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Motor V8 de Google Chrome}{13}{section*.13}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.4}El ecosistema NPM}{13}{subsection.2.2.4}% 
+\contentsline {subsection}{\numberline {2.2.4}El ecosistema NPM}{14}{subsection.2.2.4}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Sitio web}{14}{section*.15}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Registro}{14}{section*.16}% 
+\contentsline {subsubsection}{Registro}{15}{section*.16}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{CLI (interfaz de línea de comando)}{14}{section*.17}% 
+\contentsline {subsubsection}{CLI (interfaz de línea de comando)}{15}{section*.17}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.5}Comandos NPM}{14}{subsection.2.2.5}% 
+\contentsline {subsection}{\numberline {2.2.5}Comandos NPM}{15}{subsection.2.2.5}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.6}Express.js}{15}{subsection.2.2.6}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.7}ReactJS}{16}{subsection.2.2.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.8}Componentes React}{16}{subsection.2.2.8}% 
+\contentsline {subsection}{\numberline {2.2.8}Componentes React}{17}{subsection.2.2.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.9}DOM Virtual}{19}{subsection.2.2.9}% 
+\contentsline {subsection}{\numberline {2.2.9}DOM Virtual}{20}{subsection.2.2.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Preprocesamiento}{20}{section.2.3}% 
+\contentsline {section}{\numberline {2.3}Preprocesamiento}{21}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}ES5/ES6}{20}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.1}ES5/ES6}{21}{subsection.2.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{JSX}{20}{section*.19}% 
+\contentsline {subsubsection}{JSX}{21}{section*.19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{BabelJS}{21}{section*.20}% 
+\contentsline {subsubsection}{BabelJS}{22}{section*.20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Sass (Syntactically Awesome Style Sheets)}{22}{section*.21}% 
+\contentsline {subsubsection}{Sass (Syntactically Awesome Style Sheets)}{23}{section*.21}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Webpack}{22}{section*.22}% 
+\contentsline {subsubsection}{Webpack}{23}{section*.22}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Control de versiones}{23}{section.2.4}% 
+\contentsline {section}{\numberline {2.4}Control de versiones}{24}{section.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.1}Git}{23}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.1}Git}{24}{subsection.2.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Análisis y diseño del sistema}{25}{chapter.3}% 
+\contentsline {chapter}{\numberline {3}Análisis y diseño del sistema}{26}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}E-Commerce (Comercio electrónico)}{25}{section.3.1}% 
+\contentsline {section}{\numberline {3.1}E-Commerce (Comercio electrónico)}{26}{section.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Shopify}{26}{section*.25}% 
+\contentsline {subsubsection}{Shopify}{27}{section*.25}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Planeación del sistema}{28}{section.3.2}% 
+\contentsline {section}{\numberline {3.2}Planeación del sistema}{29}{section.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Requerimientos del proyecto}{29}{section.3.3}% 
+\contentsline {section}{\numberline {3.3}Requerimientos del proyecto}{30}{section.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Herramientas}{29}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.1}Herramientas}{30}{subsection.3.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Dependencias de desarrollo}{30}{section*.28}% 
+\contentsline {subsubsection}{Dependencias de desarrollo}{31}{section*.28}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Estructura del proyecto}{30}{section*.29}% 
+\contentsline {subsubsection}{Estructura del proyecto}{31}{section*.29}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Directorios}{31}{section*.30}% 
+\contentsline {subsubsection}{Directorios}{32}{section*.30}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Archivos principales}{31}{section*.31}% 
+\contentsline {subsubsection}{Archivos principales}{32}{section*.31}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Variables del entorno}{33}{section*.33}% 
+\contentsline {subsubsection}{Variables del entorno}{34}{section*.33}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Configuración del servidor (Backend)}{34}{section.3.4}% 
+\contentsline {section}{\numberline {3.4}Configuración del servidor (Backend)}{35}{section.3.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}Servidor NodeJS}{34}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.1}Servidor NodeJS}{35}{subsection.3.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Programación basada en eventos}{36}{section*.35}% 
+\contentsline {subsubsection}{Programación basada en eventos}{37}{section*.35}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.2}Configuración Express}{37}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.4.2}Configuración Express}{38}{subsection.3.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Enrutamiento}{37}{section*.36}% 
+\contentsline {subsubsection}{Enrutamiento}{38}{section*.36}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.3}Configuración Firebase}{39}{subsection.3.4.3}% 
+\contentsline {subsection}{\numberline {3.4.3}Configuración Firebase}{40}{subsection.3.4.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Configuración de Firebase Firestore en Node.js}{42}{section*.44}% 
+\contentsline {subsubsection}{Configuración de Firebase Firestore en Node.js}{43}{section*.44}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Escrituras en lotes}{43}{section*.45}% 
+\contentsline {subsubsection}{Escrituras en lotes}{44}{section*.45}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.4}Autenticación}{44}{subsection.3.4.4}% 
+\contentsline {subsection}{\numberline {3.4.4}Autenticación}{45}{subsection.3.4.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Autenticación basada en roles}{44}{section*.46}% 
+\contentsline {subsubsection}{Autenticación basada en roles}{45}{section*.46}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Firebase Custom Claims}{44}{section*.48}% 
+\contentsline {subsubsection}{Firebase Custom Claims}{45}{section*.48}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.5}Integración con Shopify}{46}{subsection.3.4.5}% 
+\contentsline {subsection}{\numberline {3.4.5}Integración con Shopify}{47}{subsection.3.4.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.6}Webhooks}{47}{subsection.3.4.6}% 
+\contentsline {subsection}{\numberline {3.4.6}Webhooks}{48}{subsection.3.4.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.7}Webhooks Shopify}{47}{subsection.3.4.7}% 
+\contentsline {subsection}{\numberline {3.4.7}Webhooks Shopify}{48}{subsection.3.4.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.8}Configuración de webhook en Express.js}{49}{subsection.3.4.8}% 
+\contentsline {subsection}{\numberline {3.4.8}Configuración de webhook en Express.js}{50}{subsection.3.4.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.9}Websockets con Socket.IO}{50}{subsection.3.4.9}% 
+\contentsline {subsection}{\numberline {3.4.9}Websockets con Socket.IO}{51}{subsection.3.4.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Desarrollo de la aplicación web (Frontend)}{52}{section.3.5}% 
+\contentsline {section}{\numberline {3.5}Desarrollo de la aplicación web (Frontend)}{53}{section.3.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.1}Configuración del entorno de desarrollo}{52}{subsection.3.5.1}% 
+\contentsline {subsection}{\numberline {3.5.1}Configuración del entorno de desarrollo}{53}{subsection.3.5.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Conceptos clave}{53}{section*.51}% 
+\contentsline {subsubsection}{Conceptos clave}{54}{section*.51}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Babel Loader}{54}{section*.52}% 
+\contentsline {subsubsection}{Babel Loader}{55}{section*.52}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Webpack Dev Server}{56}{section*.53}% 
+\contentsline {subsubsection}{Webpack Dev Server}{57}{section*.53}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.2}Patrones de diseño}{57}{subsection.3.5.2}% 
+\contentsline {subsection}{\numberline {3.5.2}Patrones de diseño}{58}{subsection.3.5.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.5.3}Redux}{58}{subsection.3.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Redux/Flux}{58}{section*.54}% 
+\contentsline {subsubsection}{Redux/Flux}{59}{section*.54}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Redux Store}{60}{section*.56}% 
+\contentsline {subsubsection}{Redux Store}{61}{section*.56}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Redux Reducer}{60}{section*.57}% 
+\contentsline {subsubsection}{Redux Reducer}{61}{section*.57}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Acciones Redux}{61}{section*.58}% 
+\contentsline {subsubsection}{Acciones Redux}{62}{section*.58}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.4}Integración React/Redux}{61}{subsection.3.5.4}% 
+\contentsline {subsection}{\numberline {3.5.4}Integración React/Redux}{62}{subsection.3.5.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.5}Diseño Atómico (Atomic Design)}{64}{subsection.3.5.5}% 
+\contentsline {subsection}{\numberline {3.5.5}Diseño Atómico (Atomic Design)}{65}{subsection.3.5.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.6}Estructura de la aplicación web}{65}{subsection.3.5.6}% 
+\contentsline {subsection}{\numberline {3.5.6}Estructura de la aplicación web}{66}{subsection.3.5.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Módulo de inicio de sesión}{65}{section*.60}% 
+\contentsline {subsubsection}{Módulo de inicio de sesión}{66}{section*.60}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Interfaz de usuario principal}{67}{section*.62}% 
+\contentsline {subsubsection}{Interfaz de usuario principal}{68}{section*.62}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Interfaz de usuario de la sección de ventas}{70}{section*.65}% 
+\contentsline {subsubsection}{Interfaz de usuario de la sección de ventas}{71}{section*.65}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Interfaz para el área de manufactura y entrega}{73}{section*.70}% 
+\contentsline {subsubsection}{Interfaz para el área de manufactura y entrega}{74}{section*.70}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Interfaz de administración de usuarios}{75}{section*.72}% 
+\contentsline {subsubsection}{Interfaz de administración de usuarios}{76}{section*.72}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Evaluación de la interfaz de usuario}{77}{section*.75}% 
+\contentsline {subsubsection}{Evaluación de la interfaz de usuario}{78}{section*.75}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Configuración para producción}{78}{section.3.6}% 
+\contentsline {section}{\numberline {3.6}Configuración para producción}{80}{section.3.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Requisitos del servidor}{78}{section*.76}% 
+\contentsline {subsubsection}{Requisitos del servidor}{80}{section*.76}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Servidor Privado Virtual}{78}{section*.77}% 
+\contentsline {subsubsection}{Servidor Privado Virtual}{80}{section*.77}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.1}Configurar despliegue automático con Git}{80}{subsection.3.6.1}% 
+\contentsline {subsection}{\numberline {3.6.1}Configurar despliegue automático con Git}{82}{subsection.3.6.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Configuración de repositorios}{80}{section*.79}% 
+\contentsline {subsubsection}{Configuración de repositorios}{82}{section*.79}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Git Hooks}{80}{section*.80}% 
+\contentsline {subsubsection}{Git Hooks}{82}{section*.80}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.2}Despliegue Node.js en un entorno de producción}{82}{subsection.3.6.2}% 
+\contentsline {subsection}{\numberline {3.6.2}Despliegue Node.js en un entorno de producción}{84}{subsection.3.6.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Servidor proxy inverso}{82}{section*.81}% 
+\contentsline {subsubsection}{Servidor proxy inverso}{84}{section*.81}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Configuración nginx y firewall-cmd}{82}{section*.82}% 
+\contentsline {subsubsection}{Configuración nginx y firewall-cmd}{84}{section*.82}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Configuración del administrador de procesos PM2}{85}{section*.83}% 
+\contentsline {subsubsection}{Configuración del administrador de procesos PM2}{87}{section*.83}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Asegurar el sitio mediante HTTPS}{86}{section*.85}% 
+\contentsline {subsubsection}{Asegurar el sitio mediante HTTPS}{88}{section*.85}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Conclusiones}{88}{chapter.4}% 
+\contentsline {chapter}{\numberline {4}Conclusiones}{90}{chapter.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Glosario}{92}{section*.87}% 
+\contentsline {chapter}{Glosario}{94}{section*.87}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Siglas}{95}{section*.89}% 
+\contentsline {chapter}{Siglas}{97}{section*.89}% 

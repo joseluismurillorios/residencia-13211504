@@ -5,68 +5,68 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Flujo de información en MEAN Stack.\relax }}{6}{figure.caption.6}% 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Flujo de información en MEAN Stack. (Fuente: Elaboración propia)\relax }}{6}{figure.caption.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Diagrama que representa las diferencias clave entre la base de datos SQL y las bases de datos NoSQL.\relax }}{8}{figure.caption.8}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Diagrama que representa las diferencias clave entre la base de datos SQL y las bases de datos NoSQL. (Fuente: Elaboración propia)\relax }}{8}{figure.caption.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Flujo de información en FERN Stack.\relax }}{10}{figure.caption.10}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Flujo de información en FERN Stack. (Fuente: Elaboración propia)\relax }}{10}{figure.caption.10}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Colección de Firestore con sus documentos internos.\relax }}{11}{figure.caption.11}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Colección de Firestore con sus documentos internos. (Fuente: Elaboración propia)\relax }}{12}{figure.caption.11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Analogía Node.js con Java.\relax }}{12}{figure.caption.12}% 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Analogía Node.js con Java. (Fuente: Elaboración propia)\relax }}{13}{figure.caption.12}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Componentes principales de una página web.\relax }}{17}{figure.caption.18}% 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Componentes principales de una página web. (Fuente: Elaboración propia)\relax }}{18}{figure.caption.18}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Diferencias entre controladores de versiones.\relax }}{24}{figure.caption.23}% 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Diferencias entre controladores de versiones. (Fuente: Elaboración propia)\relax }}{25}{figure.caption.23}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Tienda en linea actual de la empresa.\relax }}{26}{figure.caption.24}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Tienda en linea actual de la empresa. (Fuente: Shopify Store)\relax }}{27}{figure.caption.24}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Interfaz del administrador Shopify.\relax }}{27}{figure.caption.26}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Interfaz del administrador Shopify. (Fuente: Shopify Admin)\relax }}{28}{figure.caption.26}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Diagrama de casos de uso del sistema.\relax }}{28}{figure.caption.27}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Diagrama de casos de uso del sistema. (Fuente: Elaboración propia)\relax }}{29}{figure.caption.27}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Vista general de la raíz del proyecto.\relax }}{32}{figure.caption.32}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Vista general de la raíz del proyecto. (Fuente: Elaboración propia)\relax }}{33}{figure.caption.32}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Comparación de node y servidores tradicionales.\relax }}{35}{figure.caption.34}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Comparación de node y servidores tradicionales. (Fuente: Advance Idea Infotech 2018)\relax }}{36}{figure.caption.34}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Cada función de middleware en la pila se ejecuta antes que las que están debajo de ella.\relax }}{37}{figure.caption.37}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Cada función de middleware en la pila se ejecuta antes que las que están debajo de ella. (Fuente: Elaboración propia)\relax }}{38}{figure.caption.37}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Consola de Google Firebase.\relax }}{39}{figure.caption.38}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Consola de Google Firebase. (Fuente: Google Console)\relax }}{40}{figure.caption.38}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Autenticación basada en roles.\relax }}{44}{figure.caption.47}% 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Autenticación basada en roles. (Fuente: Elaboración propia)\relax }}{45}{figure.caption.47}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Panel para crear webhooks en Shopify.\relax }}{48}{figure.caption.49}% 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Panel para crear webhooks en Shopify. (Fuente: Shopify Admin)\relax }}{49}{figure.caption.49}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Comparación de transporte por sondeo (Ajax) y Websockets (Socket.IO).\relax }}{50}{figure.caption.50}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Comparación de transporte por sondeo (Ajax) y Websockets (Socket.IO).\relax }}{51}{figure.caption.50}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Comparación Flux/Redux.\relax }}{59}{figure.caption.55}% 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Comparación Flux/Redux. (Fuente: Elaboración propia)\relax }}{60}{figure.caption.55}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Metodología de diseño atómico.\relax }}{64}{figure.caption.59}% 
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Metodología de diseño atómico. (Fuente: Elaboración Brad Frost 2016)\relax }}{65}{figure.caption.59}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Diseño final de la sección de inicio de sesión.\relax }}{67}{figure.caption.61}% 
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Diseño final de la sección de inicio de sesión. (Fuente: Elaboración propia)\relax }}{68}{figure.caption.61}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Diseño final de la sección principal.\relax }}{68}{figure.caption.63}% 
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Diseño final de la sección principal. (Fuente: Elaboración propia)\relax }}{69}{figure.caption.63}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Diseño de la aplicación móvil.\relax }}{69}{figure.caption.64}% 
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Diseño de la aplicación móvil. (Fuente: Elaboración propia)\relax }}{70}{figure.caption.64}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.16}{\ignorespaces Diseño final de la sección de ventas.\relax }}{70}{figure.caption.66}% 
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Diseño final de la sección de ventas. (Fuente: Elaboración propia)\relax }}{71}{figure.caption.66}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.17}{\ignorespaces Componente de catálogo de productos.\relax }}{71}{figure.caption.67}% 
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Componente de catálogo de productos. (Fuente: Elaboración propia)\relax }}{72}{figure.caption.67}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.18}{\ignorespaces Componente de producto.\relax }}{71}{figure.caption.68}% 
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Componente de producto. (Fuente: Elaboración propia)\relax }}{72}{figure.caption.68}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.19}{\ignorespaces Componente de Google Map.\relax }}{72}{figure.caption.69}% 
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Componente de Google Map. (Fuente: Elaboración propia)\relax }}{73}{figure.caption.69}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.20}{\ignorespaces Diseño final de la sección de manufactura y entrega.\relax }}{74}{figure.caption.71}% 
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Diseño final de la sección de manufactura y entrega. (Fuente: Elaboración propia)\relax }}{75}{figure.caption.71}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.21}{\ignorespaces Diseño final de la sección de administración de usuarios.\relax }}{75}{figure.caption.73}% 
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Diseño final de la sección de administración de usuarios. (Fuente: Elaboración propia)\relax }}{77}{figure.caption.73}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.22}{\ignorespaces Implementación Redux y Diseño Atómico.\relax }}{76}{figure.caption.74}% 
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Implementación Redux y Diseño Atómico. (Fuente: Elaboración propia)\relax }}{78}{figure.caption.74}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.23}{\ignorespaces Configuración básica del servidor virtual privado.\relax }}{79}{figure.caption.78}% 
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Configuración básica del servidor virtual privado. (Fuente: Digital Ocean)\relax }}{81}{figure.caption.78}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.24}{\ignorespaces Lista de procesos en pm2.\relax }}{86}{figure.caption.84}% 
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Lista de procesos en pm2. (Fuente: Elaboración propia)\relax }}{88}{figure.caption.84}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
